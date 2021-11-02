@@ -12,7 +12,7 @@ This repository is the compiliation of modpacks we made, so you can find them ea
 - [Half-Life 2: Re;Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2re/README.md)
 - [Obsidian Conflict: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/oce/README.md)
 - [PAYDAY 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/p2e/README.md)
-- [Euro Truck Simulator 2: Enhanced (Coming Soon)](https://steamcommunity.com/sharedfiles/filedetails/?id=2539528962)
+- [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2539528962)
 
 # List of Other Modpacks
 These mod collections are not the part of the Enhanced Mod Series.
