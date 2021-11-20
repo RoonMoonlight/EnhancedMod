@@ -9,7 +9,7 @@ Due to license issue, the modpack will not be available, so you must download it
 See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGELOG.md).
 
 # List of Mods
-Last Updated on October 19, 2021
+Last Updated on November 20, 2021
 
 ### Optimization Mod (Recommended)
 - [mastercomfig](https://mastercomfig.com)
@@ -19,6 +19,7 @@ Last Updated on October 19, 2021
 - [Heavy "Jeers04" replacement](https://gamebanana.com/sounds/50373)
 - [Higher Quality Vote Sounds](https://gamebanana.com/sounds/48141)
 - [HL2 EP2 Silo alarm for MvM](https://gamebanana.com/sounds/19645)
+- [Improved "crit_power.wav"](https://gamebanana.com/sounds/57434)
 - [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
 - [Intuder Alert for CTF](https://gamebanana.com/sounds/54423)
 - [Killstreak Announcer Voicelines](https://gamebanana.com/sounds/56867)
@@ -40,6 +41,7 @@ Last Updated on October 19, 2021
 - [Better In-Game Voice Chat Icons](https://gamebanana.com/mods/324990)
 - [Consistent Kill Icons fixed for Jungle Inferno](https://gamebanana.com/mods/26076)
 - [Improved Canteen Icons Revived](https://gamebanana.com/mods/25843)
+- [Improved Create Server Menu](https://gamebanana.com/mods/332109)
 - [Improved MVM Robot HUD | V2.1 out now!](https://gamebanana.com/mods/25178)
 - [Main Menu Characters Overhaul](https://gamebanana.com/mods/294786)
 - [Missing Map Loading Photos](https://gamebanana.com/mods/7494)

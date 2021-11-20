@@ -1,4 +1,14 @@
 ## Changelog
+### Team Fortress 2: Enhanced 5.2 "Clearcut"
+Welcome to another update of TF2:E! It's been while since the latest update happened. This update introduces some improvements to Create Server Menu, which gives more options to change compared to previous version. Also additionally crit sounds has been improved.
+
+#### Additions
+##### Sound Mods
+- [Improved "crit_power.wav"](https://gamebanana.com/sounds/57434)
+
+##### UI Mods
+- [Improved Create Server Menu](https://gamebanana.com/mods/332109)
+
 ### Team Fortress 2: Enhanced 5.1 "Cardinal"
 - Merged with [EnhancedMod](https://github.com/MysticMoonlight/EnhancedMod) repository
 
