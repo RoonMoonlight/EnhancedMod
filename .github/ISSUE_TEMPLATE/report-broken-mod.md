@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 <!--
+----- Note Starts here -----
 Please note that we only accept issues related to Enhanced Mod series! Any modpacks that are outside of EnhancedMod should be reported on appropriate place, not here.
 
 Modpacks that includes on Enhanced Mod are:
@@ -21,6 +22,7 @@ Modpacks that includes on Enhanced Mod are:
 - American Truck Simulator: Enhanced
 
 Please include more information if possible, so we can help you fix the issue faster ;)
+----- Note Ends here -----
 --!>
 
 **Which mod is causing error?**
