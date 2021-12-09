@@ -20,7 +20,7 @@ Modpacks that includes on Enhanced Mod are:
 - Euro Truck Simulator 2: Enhanced
 - American Truck Simulator: Enhanced
 
-Please include more information if possible, so we can help you fix the issue faster ;)
+Please include more information if possible!
 
 We won't going to add following types of mod(s), this includes:
 - Mod(s) which does use assets from other games and franchises (Except games made from same companies, for example Half-Life 2 and Half-Life Alyx which is both developed by Valve)
