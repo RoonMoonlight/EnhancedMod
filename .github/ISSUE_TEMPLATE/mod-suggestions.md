@@ -33,5 +33,3 @@ We won't going to add following types of mod(s), this includes:
 **Which mod(s) you want to be added to modpack?**
 
 **Put links to the official mod site(e.g. GameBanana, Steam Workshop, etc.) below.**
-
-**Which modpack are you using?**
