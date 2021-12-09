@@ -18,6 +18,7 @@ Modpacks that includes on Enhanced Mod are:
 - Obsidian Conflict: Enhanced
 - PAYDAY 2: Enhanced
 - Euro Truck Simulator 2: Enhanced
+- American Truck Simulator: Enhanced
 
 Please include more information if possible, so we can help you fix the issue faster ;)
 --!>
