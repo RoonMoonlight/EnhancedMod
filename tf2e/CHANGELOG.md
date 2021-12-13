@@ -2,9 +2,6 @@
 ## Team Fortress 2: Enhanced 6 "Deadly Crockets"
 Merry Smissmas! Welcome to major update of TF2:E! This update introduces major improvements to visual, better lightwarps, new crit/minicrit effect.
 
-##### Sound Mods
-- [Improved "crit_power.wav"](https://gamebanana.com/sounds/57434)
-
 ##### Visual Mods
 - Added several Visual overhaul mods made by Skeleton Hotel: Altered Explosions & Building FX, Altered Fire FX Altered Projectile Trails, Burning Materials Redux, New Invulnerability & Shield FX, New Invulnerability & Shield FX
 - Added lemons' crit and mini-crit icons
