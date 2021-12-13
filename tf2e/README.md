@@ -50,7 +50,6 @@ Last Updated on November 20, 2021
 - [TF2 - Another Closed Captions Project!](https://gamebanana.com/mods/25151)
 
 ### Visual Mods
-- [2007 Weapon Lightwarp](https://gamebanana.com/mods/205352)
 - [2007-Styled Weapon Pack](https://gamebanana.com/mods/198560)
 - [Altered Bullet Impact](https://gamebanana.com/mods/12384)
 - [Altered Explosions & Building FX](https://gamebanana.com/mods/12457)
@@ -62,11 +61,13 @@ Last Updated on November 20, 2021
 - [Burning Materials Redux](https://gamebanana.com/mods/11895)
 - [Beta Blast Door](https://gamebanana.com/mods/199779)
 - [Clean World Textures](https://gamebanana.com/mods/7588)
+- [Enhanced Engineer Robot](https://gamebanana.com/mods/340370)
 - [Giblet Overhaul (TF2C Blood)](https://gamebanana.com/mods/288308)
 - [High Poly Non-HWM Playermodels! (Live TF2 Port)](https://gamebanana.com/mods/198508)
 - [Icon Based Festives (2021)](https://gamebanana.com/mods/314047)
 - [Improved Surface Properties](https://gamebanana.com/mods/36744)
 - [lemons' crit and mini-crit icons](https://gamebanana.com/mods/342930)
+- [lemons' lightwarp](https://gamebanana.com/mods/342651)
 - [Mat_Picmip -10 Texture Fix Pack](https://gamebanana.com/mods/198036)
 - [Mugg's Corpse Carrier](https://gamebanana.com/mods/328325)
 - [New Invulnerability & Shield FX](https://gamebanana.com/mods/197827)
