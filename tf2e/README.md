@@ -9,7 +9,7 @@ Due to license issue, the modpack will not be available, so you must download it
 See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGELOG.md).
 
 # List of Mods
-Last Updated on November 20, 2021
+Last Updated on December 13, 2021
 
 ### Optimization Mod (Recommended)
 - [mastercomfig](https://mastercomfig.com)
