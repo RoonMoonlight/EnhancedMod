@@ -55,7 +55,6 @@ Last Updated on December 13, 2021
 - [Altered Jump Trails + Airblast Deflect](https://gamebanana.com/mods/11896)
 - [Altered Short Circuit](https://gamebanana.com/mods/11900)
 - [Animated Computers](https://gamebanana.com/mods/199838)
-- [Burning Materials Redux](https://gamebanana.com/mods/11895)
 - [Beta Blast Door](https://gamebanana.com/mods/199779)
 - [Clean World Textures](https://gamebanana.com/mods/7588)
 - [Enhanced Engineer Robot](https://gamebanana.com/mods/340370)
