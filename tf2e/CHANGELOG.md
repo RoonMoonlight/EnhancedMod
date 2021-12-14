@@ -1,4 +1,11 @@
 # Changelog
+## Team Fortress 2: Enhanced 6.0.1 "Deadly Crockets"
+This is hotfix which removes unoptimized mods made by Skeleton Hotel, and they are not even attempting to optimized their mod, so we reverted changed made in TF2: Enhanced 6.
+
+##### Visual Mods
+- Removed Explosion, Trail, Fire FX due to unoptimization
+- Added back the TF2 Visual Fix pack
+
 ## Team Fortress 2: Enhanced 6 "Deadly Crockets"
 Merry Smissmas! Welcome to major update of TF2:E! This update introduces major improvements to visual, better lightwarps, new crit/minicrit effect.
 
