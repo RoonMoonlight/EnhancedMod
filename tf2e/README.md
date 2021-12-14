@@ -52,10 +52,7 @@ Last Updated on December 13, 2021
 ### Visual Mods
 - [2007-Styled Weapon Pack](https://gamebanana.com/mods/198560)
 - [Altered Bullet Impact](https://gamebanana.com/mods/12384)
-- [Altered Explosions & Building FX](https://gamebanana.com/mods/12457)
-- [Altered Fire FX](https://gamebanana.com/mods/289584)
 - [Altered Jump Trails + Airblast Deflect](https://gamebanana.com/mods/11896)
-- [Altered Projectile Trails](https://gamebanana.com/mods/12420)
 - [Altered Short Circuit](https://gamebanana.com/mods/11900)
 - [Animated Computers](https://gamebanana.com/mods/199838)
 - [Burning Materials Redux](https://gamebanana.com/mods/11895)
