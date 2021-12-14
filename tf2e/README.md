@@ -76,6 +76,7 @@ Last Updated on December 13, 2021
 - [Team Fortress 2 Classic Texture Port](https://gamebanana.com/mods/328302)
 - [Trees Sway](https://gamebanana.com/mods/36719)
 - [Unique Rockets](https://gamebanana.com/mods/324446)
+- [Ultimate Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack)
 
 ### Weapon Animation Mods
 - [Kylul's Scout First Person Animation Pack V1](https://gamebanana.com/mods/206351)
