@@ -20,5 +20,3 @@ These mod collections are not the part of the Enhanced Mod Series.
 
 - [Death Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2319991144)
 - [EndlessMod](https://github.com/MysticMoonlight/EndlessMod)
-- [Satellite](https://github.com/MysticMoonlight/Satellite)
-- [Solaire](https://github.com/MysticMoonlight/Solaire)
