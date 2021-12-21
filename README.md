@@ -1,5 +1,5 @@
 # Enhanced Mod Series
-Enhanced Mod Series are the collection of mods developed by Mystic Moonlight.
+Enhanced Mod Series are the collection of modpacks developed by Mystic Moonlight.
 
 Enhanced Mod Series aims to improve overall gameplay experience while keeping the original atmosphere as possible and performance in mind.
 
