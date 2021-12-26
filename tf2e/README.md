@@ -1,3 +1,6 @@
+# Project Nebula is now available
+Check out the [Project Nebula](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/NEBULA.md), the total recreation of TF2: Enhanced modpack made from scratch.
+
 # Team Fortress 2: Enhanced
 Team Fortress 2 Enhanced is the modpack focused on improving overall visuals and sound effects while keeping original TF2 atmosphere.
 
