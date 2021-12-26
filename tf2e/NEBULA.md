@@ -17,9 +17,9 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGEL
 * New character looks on main menu/portrait thanks to SOUP mod
 
 # How to Install
-* Extract the archive(It should be `.zip`, `.rar`, or `.7z`
+* Extract the archive file you downloaded (It should be `.zip`, `.rar`, or `.7z`)
 * Put the folder or vpk file to `tf/custom` folder inside Local Files (To access local files, Go to Properties -> Local Files -> Browse...)
-* **Attention to Linux/macOS Users!** If the folder contains uppercase and space, you must rename the folder to contain only lowercase and `_` otherwise TF2 cannot detect the folder mod(s) upon launch!
+* **Attention to Linux/macOS Users!** If the folder contains uppercase and space, you must rename the folder to contain only lowercase/underscore otherwise TF2 cannot detect the folder mod(s) upon launch!
 * Launch the game, enjoy the modpack!
 
 # List of Mods
@@ -73,7 +73,6 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGEL
 * [Unused MvM Sounds](https://gamebanana.com/sounds/41860)
 
 ## Optional Mods
-* [Backgrounds in Color](https://gamebanana.com/mods/25687)
 * [Classic Guilty Gear Slash Hitsounds](https://gamebanana.com/sounds/56790)
 * [Quake Crosshairs on TF2](https://gamebanana.com/mods/12535)
 * [Smissmas Background in Color](https://gamebanana.com/mods/25229)
