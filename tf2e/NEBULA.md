@@ -26,7 +26,7 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGEL
 ## UI Mods
 * [Alternate Class Portraits (Full Version)](https://gamebanana.com/mods/26024)
 * [Sloofy's Overhauled UI Portraits (SOUP)](https://gamebanana.com/mods/26400)
-* [TF2 Old Style HUD (NativeHUD)](https://gamebanana.com/mods/329612)
+* [TF2 Old Style HUD (NativeHUD)](https://gamebanana.com/mods/329612) (Overwrite contents inside the folders to SOUP, it should work without issues)
 
 ## Visual Mods
 * [Altered Bullet Impacts](https://gamebanana.com/mods/12384)
