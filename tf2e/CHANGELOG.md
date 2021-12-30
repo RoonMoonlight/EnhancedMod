@@ -14,6 +14,7 @@
 * Added Improved tr_target
 * Removed Backgrounds in Color (SOUP mod already does the same thing)
 * Removed NativeHUD (Conflicts with SOUP)
+* Removed Altered Bullet Impacts (Performance Impact when this mod is enabled)
 * Removed most non-original mods to comply with upcoming standards
 
 ### Project Nebula 6.99.01 (Dec 26, 2021)
