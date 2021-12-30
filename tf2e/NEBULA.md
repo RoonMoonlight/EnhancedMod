@@ -17,10 +17,10 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGEL
 * New character looks on main menu/portrait thanks to SOUP mod
 
 # How to Install
-* 1. Extract the archive file you downloaded (It should be `.zip`, `.rar`, or `.7z`)
-* 2. Put the folder or vpk file to `tf/custom` folder inside Local Files (To access local files, Go to Properties -> Local Files -> Browse...)
+1. Extract the archive file you downloaded (It should be `.zip`, `.rar`, or `.7z`)
+2. Put the folder or vpk file to `tf/custom` folder inside Local Files (To access local files, Go to Properties -> Local Files -> Browse...)
 	* 2-1. **Attention to Linux/macOS Users!** If the folder contains uppercase and space, you must rename the folder to contain only lowercase/underscore otherwise TF2 cannot detect the folder mod(s) upon launch!
-* 3. Launch the game, enjoy the modpack!
+3. Launch the game, enjoy the modpack!
 
 ## Additional Steps (Optional)
 You need to do additional steps when installing SOUP and TF2 Community HUD Fixes together, in case if you wish to use both mod seperately.
@@ -29,14 +29,14 @@ If you are unsure what to do, you are safe to skip this step and just install de
 
 Here's how to do that:
 
-* Download the latest [TF2 Community HUD Fixes](https://gamebanana.com/mods/26450) then extract the zip folder.
-* Locate to TF2 Community Fixes folder, then locate to `(HUD folder)/resource/ui` then open a file named `hudplayerclass.res` (We recommend using Notepad++ or VSCode)
-* Find the section named PlayerStatusClassImage, in there you can see the `"image"			"../hud/class_scoutred"`. Replace the following line with `"image"			"../materials/hud/class_scoutred"`
-* Remember to save then close the editor.
-* Download the art only version of SOUP [here](https://gamebanana.com/mods/download/26400), then extract the archive.
-* Locate to `art-only-soup-vXXX` folder(XXX is the version name), then move the `materials` and `scripts` to HUD Fixes file.
-* Move the hud folder you changed to custom folder. (You know where it is because we already explained it above)
-* Launch the game and now you are done! Enjoy the latest TF2 HUD Fixes with this patch.
+1. Download the latest [TF2 Community HUD Fixes](https://gamebanana.com/mods/26450) then extract the zip folder.
+2. Locate to TF2 Community Fixes folder, then locate to `(HUD folder)/resource/ui` then open a file named `hudplayerclass.res` (We recommend using Notepad++ or VSCode)
+3. Find the section named PlayerStatusClassImage, in there you can see the `"image"			"../hud/class_scoutred"`. Replace the following line with `"image"			"../materials/hud/class_scoutred"`
+4. Remember to save then close the editor.
+5. Download the art only version of SOUP [here](https://gamebanana.com/mods/download/26400), then extract the archive.
+6. Locate to `art-only-soup-vXXX` folder(XXX is the version name), then move the `materials` and `scripts` to HUD Fixes file.
+7. Move the hud folder you changed to custom folder. (You know where it is because we already explained it above)
+8. Launch the game and now you are done! Enjoy the latest TF2 HUD Fixes with this patch.
 
 # List of Mods
 ## UI Mods
