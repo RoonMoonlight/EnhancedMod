@@ -68,7 +68,7 @@ Here's how to do that:
 * [2007-Styled Weapon Pack](https://gamebanana.com/mods/198560)
 * [Fixed Brass Beast Wind-Up Sound](https://gamebanana.com/sounds/44288)
 * [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
-* [Improved tr_target](https://gamebanana.com/mods/74748)
+* [Improved tr_target](https://gamebanana.com/mods/74748) ([Unofficial fix](https://github.com/RoonMoonlight/Improved-tr_target-UnofficialFix/releases/latest) available)
 * [mastercomfig](https://mastercomfig.com)
 * [Mat_Picmip -10 Texture Fix Pack](https://gamebanana.com/mods/198036)
 * [Original Reload Sound Fix](https://gamebanana.com/sounds/44136)
