@@ -1,7 +1,22 @@
 # Changelog
 
 ## Project Nebula
-### Project Nebula 6.99.01
+### Project Nebula 6.99.02 (Dec 30, 2021)
+#### General
+* More Musical TF2 Events versions can be choosed by yourself (Barebones or Definitive Edition)
+* Added [Project Bloom](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/BLOOM.md), the lite version of Project Nebula aiming for full sv_pure 1 support
+* Added optional step (Advanced Users Only!)
+* Fixed some errors and typos
+
+#### Mod list changes
+* Added Color Coded Lethality of Sniper Rifle Charge Meter (Optional Mod)
+* Added Improved Create Server Menu
+* Added Improved tr_target
+* Removed Backgrounds in Color (SOUP mod already does the same thing)
+* Removed NativeHUD (Conflicts with SOUP)
+* Removed most non-original mods to comply with upcoming standards
+
+### Project Nebula 6.99.01 (Dec 26, 2021)
 * Initial release.
 
 ## TF2: Enhanced
