@@ -46,7 +46,6 @@ Here's how to do that:
 * [Sloofy's Overhauled UI Portraits (SOUP)](https://gamebanana.com/mods/26400) (Please refer to additional steps if you wish to use SOUP with latest HUD Fixes)
 
 ## Visual Mods
-* [Altered Bullet Impacts](https://gamebanana.com/mods/12384)
 * [Altered Jump Trails + Airblast Deflect](https://gamebanana.com/mods/11896)
 * [Altered Short Circuit Effects](https://gamebanana.com/mods/11900)
 * [Animated Computers](https://gamebanana.com/mods/199838)
@@ -58,7 +57,6 @@ Here's how to do that:
 * [Non-Overlapping "Meet The Team" Blood](https://gamebanana.com/mods/12372)
 * [Slightly Centered Viewmodels - The All-In-One Pack](https://gamebanana.com/mods/205759)
 * [Subtle Lens Flares](https://gamebanana.com/mods/11865)
-* [Team Fortress 2 Classic Ports: Animated World Maps](https://gamebanana.com/mods/7561)
 * [Unique Rockets](https://gamebanana.com/mods/324446)
 
 ## Sound Mods
@@ -70,6 +68,7 @@ Here's how to do that:
 * [2007-Styled Weapon Pack](https://gamebanana.com/mods/198560)
 * [Fixed Brass Beast Wind-Up Sound](https://gamebanana.com/sounds/44288)
 * [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
+* [Improved tr_target](https://gamebanana.com/mods/74748)
 * [mastercomfig](https://mastercomfig.com)
 * [Mat_Picmip -10 Texture Fix Pack](https://gamebanana.com/mods/198036)
 * [Original Reload Sound Fix](https://gamebanana.com/sounds/44136)
@@ -83,8 +82,6 @@ Here's how to do that:
 
 ## MvM Improvement Mods
 * [Enhanced Engineer Robot](https://gamebanana.com/mods/340370)
-* [HL2 EP2 Silo alarm for MvM](https://gamebanana.com/sounds/19645)
-* [lanbda fortess robot stun](https://gamebanana.com/sounds/44189)
 * [Robot animation fixes](https://gamebanana.com/mods/206443)
 * [Sentry Buster fixes](https://gamebanana.com/mods/205386)
 * [Unused MvM Sounds](https://gamebanana.com/sounds/41860)
