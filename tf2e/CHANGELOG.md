@@ -1,6 +1,31 @@
 # Changelog
 
 ## Project Nebula
+### Project Nebula 6.99.03 (Jan 1, 2021)
+#### Highlights
+* New HD textures and skyboxes
+* New flame/burn effect
+* New lightwarp system
+* New optional addon: Effect+
+
+#### Mod changes
+* [Additions] [Altered Fire FX](https://gamebanana.com/mods/289584)
+* [Additions] [Burning Materials Redux](https://gamebanana.com/mods/11895)
+* [Additions] [High-Res Skybox Image Pack](https://gamebanana.com/mods/7611)
+* [Additions] [Morning Lightwarp](https://gamebanana.com/mods/205354)
+* [Additions] [TF2 Complete HD Retexture (FINAL)](https://gamebanana.com/mods/198849)
+* [Removal] [SFM-like Phong and Normal Maps](https://gamebanana.com/mods/198538) (Conflicts with BMR, install Phong compatibility patch included on BMR instead if you wish to use it)
+* [Removal] [lemons' lightwarp](https://gamebanana.com/mods/342651) (Replaced by Morning Lightwarp)
+
+#### Mod list changes
+* Added Color Coded Lethality of Sniper Rifle Charge Meter (Optional Mod)
+* Added Improved Create Server Menu
+* Added Improved tr_target
+* Removed Backgrounds in Color (SOUP mod already does the same thing)
+* Removed NativeHUD (Conflicts with SOUP)
+* Removed Altered Bullet Impacts (Performance Impact when this mod is enabled)
+* Removed most non-original mods to comply with upcoming standards
+
 ### Project Nebula 6.99.02 (Dec 30, 2021)
 #### General
 * More Musical TF2 Events versions can be choosed by yourself (Barebones or Definitive Edition)
