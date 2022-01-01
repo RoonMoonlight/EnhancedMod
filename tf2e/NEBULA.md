@@ -55,7 +55,6 @@ Here's how to do that:
 * [Burning Materials Redux](https://gamebanana.com/mods/11895)
 * [Giblet Overhaul (Vanilla Blood)](https://gamebanana.com/mods/205664)
 * [HD Intel Remake](https://gamebanana.com/mods/199381)
-* [High-Res Skybox Image Pack](https://gamebanana.com/mods/7611)
 * [Morning Lightwarp](https://gamebanana.com/mods/205354)
 * [New Invulnerability & Shield FX](https://gamebanana.com/mods/197827) (Install `New Shield FX ONLY.vpk`)
 * [Non-Overlapping "Meet The Team" Blood](https://gamebanana.com/mods/12372)
