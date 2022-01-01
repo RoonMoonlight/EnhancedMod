@@ -49,7 +49,7 @@ Here's how to do that:
 * [Sloofy's Overhauled UI Portraits (SOUP)](https://gamebanana.com/mods/26400) (Please refer to additional steps if you wish to use SOUP with latest HUD Fixes)
 
 ## Visual Mods
-* [lemons' lightwarp](https://gamebanana.com/mods/342651)
+* [Morning Lightwarp](https://gamebanana.com/mods/205354)
 
 ## Sound Mods
 * [More Musical TF2 Events](https://gamebanana.com/sounds/53978) (Choose only one version - Barebones or Definitive)
