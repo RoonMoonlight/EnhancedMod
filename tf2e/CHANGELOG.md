@@ -11,7 +11,6 @@
 #### Mod changes
 * [Additions] [Altered Fire FX](https://gamebanana.com/mods/289584)
 * [Additions] [Burning Materials Redux](https://gamebanana.com/mods/11895)
-* [Additions] [High-Res Skybox Image Pack](https://gamebanana.com/mods/7611)
 * [Additions] [Morning Lightwarp](https://gamebanana.com/mods/205354)
 * [Additions] [TF2 Complete HD Retexture (FINAL)](https://gamebanana.com/mods/198849)
 * [Removal] [SFM-like Phong and Normal Maps](https://gamebanana.com/mods/198538) (Conflicts with BMR, install Phong compatibility patch included on BMR instead if you wish to use it)
