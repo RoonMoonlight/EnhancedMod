@@ -61,7 +61,6 @@ Here's how to do that:
 * [Reflective Water](https://gamebanana.com/mods/7560)
 * [Slightly Centered Viewmodels - The All-In-One Pack](https://gamebanana.com/mods/205759)
 * [Subtle Lens Flares](https://gamebanana.com/mods/11865)
-* [TF2 Complete HD Retexture (FINAL)](https://gamebanana.cm/mods/198849)
 * [Trees Sway](https://gamebanana.com/mods/36719)
 * [Unique Rockets](https://gamebanana.com/mods/324446)
 
