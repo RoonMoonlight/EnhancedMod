@@ -20,3 +20,9 @@ These mod collections are not the part of the Enhanced Mod Series.
 
 - [Death Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2319991144)
 - [EndlessMod](https://github.com/MysticMoonlight/EndlessMod)
+
+# Special thanks to
+* [Selen Tatsuki](https://twitter.com/Selen_Tatsuki) for helping us to find the direction of project
+* Valve, Crowbar Collective, SCS Software, Turtle Rock Studio, Overkill Software for creating amazing games
+* All mod developers who participated on your work
+* And you!
