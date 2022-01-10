@@ -1,6 +1,18 @@
 # Changelog
 
-## Project Nebula
+## Next-Gen TF2:E (Project Nebula)
+### Team Fortress 2: Enhanced 7.0 (Jan 10, 2021)
+Welcome to next generation of Team Fortress 2: Enhanced! We recreated this modpack entirely from scratch, carefully cherry-picked the mod for less bloats and conflicts.
+
+#### Highlights
+* Modpack entirely built from scratch
+* Mods were carefully cherry-picked to prevent further conflicts and bloats
+* Strictly uses default HUD with few tweaks, so custom HUDs are no longer compatible
+* New optional crosshair mod
+* New character looks on main menu/portrait thanks to SOUP mod
+* New [lite version](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/LITE.md) of Team Fortress 2: Enhanced are now available for users who play on Pure/Valve servers
+* New addon: Effect+ - It is intended for users with high PC performance
+
 ### Project Nebula 6.99.03 (Jan 1, 2021)
 #### Highlights
 * New flame/burn effect

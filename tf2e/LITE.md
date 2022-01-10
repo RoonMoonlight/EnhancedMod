@@ -1,23 +1,12 @@
-# Project Bloom - The next generation of TF2: Enhanced, but lite
-Welcome to Project Bloom, the next generation of TF2: Enhanced, but lite edition! It is total recreation of TF2: Enhanced from scratch, resolving the mod conflicts and removing the bloats remaining on modpack.
+# Team Fortress 2: Enhanced Lite
+Team Fortress 2: Enhanced is the modpack focused on improving overall visuals and sound effects while keeping original TF2 atmosphere.
 
-Mods has been carefully picked from GameBanana to provide best experience while avoiding conflicts.
+Due to license issue, the modpack will not be available, so you must download it on their mod page manually.
 
-This version is lite version of Project Nebula, aiming for complete sv_pure 1/Valve server support.
-
-# Warning
-This modpack is in still development, crashes or unexpected things may occur during gameplay. If you find any issue, please report them on our [issue tracker](https://github.com/MysticMoonlight/EnhancedMod/issues) and we will look into it.
+This version is lite version of Team Fortress 2: Enhanced, aiming for complete sv_pure 1/Valve server compatibility.
 
 # Changelog
 See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGELOG.md).
-
-# Changes compared with current TF2:E
-* Modpack entirely built from scratch
-* Mods were carefully cherry-picked to prevent further conflicts and bloats
-* Strictly uses default HUD with few tweaks, so custom HUDs are no longer compatible
-* New optional crosshair mod
-* New character looks on main menu/portrait thanks to SOUP mod
-* Compatibility with sv_pure 1/valve servers
 
 # How to Install
 1. Extract the archive file you downloaded (It should be `.zip`, `.rar`, or `.7z`)
@@ -66,4 +55,6 @@ Here's how to do that:
 * [Smissmas Background in Color](https://gamebanana.com/mods/25229)
 
 # Note
+* This is intended for peoples who mainly play on Valve/sv_pure 1 servers. If you want full experience, please use the [original version](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/LITE.md) instead.
+* This obviously does not work on sv_pure 2 servers.
 * Please use official download such as GameBanana, and do NOT use other illegal redistribution website.

@@ -1,112 +1,96 @@
-# Project Nebula is now available
-Check out the [Project Nebula](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/NEBULA.md), the total recreation of TF2: Enhanced modpack made from scratch.
-
 # Team Fortress 2: Enhanced
-Team Fortress 2 Enhanced is the modpack focused on improving overall visuals and sound effects while keeping original TF2 atmosphere.
+Team Fortress 2: Enhanced is the modpack focused on improving overall visuals and sound effects while keeping original TF2 atmosphere.
 
 Due to license issue, the modpack will not be available, so you must download it on their mod page manually.
-
-**NOTE:** This modpack may not work properly on sv_pure 1 servers(e.g. Skial, Valve Official Server, etc), use at own risk if you play on these servers.
 
 # Changelog
 See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGELOG.md).
 
+# How to Install
+1. Extract the archive file you downloaded (It should be `.zip`, `.rar`, or `.7z`)
+2. Put the folder or vpk file to `tf/custom` folder inside Local Files (To access local files, Go to Properties -> Local Files -> Browse...)
+	* 2-1. **Attention to Linux/macOS Users!** If the folder contains uppercase and space, you must rename the folder to contain only lowercase/underscore otherwise TF2 cannot detect the folder mod(s) upon launch!
+3. Launch the game, enjoy the modpack!
+
+## Additional Steps (Optional)
+You need to do additional steps when installing SOUP and TF2 Community HUD Fixes together, in case if you wish to use both mod seperately.
+
+If you are unsure what to do, you are safe to skip this step and just install default SOUP version (But expect lack of changes compared with original version of TF2 HUD Fixes)
+
+Here's how to do that:
+
+1. Download the latest [TF2 Community HUD Fixes](https://gamebanana.com/mods/26450) then extract the zip folder.
+2. Locate to TF2 Community Fixes folder, then locate to `(HUD folder)/resource/ui` then open a file named `hudplayerclass.res` (We recommend using Notepad++ or VSCode)
+3. Find the section named PlayerStatusClassImage, in there you can see the `"image"			"../hud/class_scoutred"`. Replace the following line with `"image"			"../materials/hud/class_scoutred"`
+4. Remember to save then close the editor.
+5. Download the art only version of SOUP [here](https://gamebanana.com/mods/download/26400), then extract the archive.
+6. Locate to `art-only-soup-vXXX` folder(XXX is the version name), then move the `materials` and `scripts` to HUD Fixes file.
+7. Move the hud folder you changed to custom folder. (You know where it is because we already explained it above)
+8. Launch the game and now you are done! Enjoy the latest TF2 HUD Fixes with this patch.
+
 # List of Mods
-Last Updated on December 13, 2021
+## UI Mods
+* [Alternate Class Portraits (Full Version)](https://gamebanana.com/mods/26024)
+* [HD TF2 Menu Logo](https://gamebanana.com/mods/27061)
+* [Improved Create Server Menu](https://gamebanana.com/mods/332109)
+* [Sloofy's Overhauled UI Portraits (SOUP)](https://gamebanana.com/mods/26400) (Please refer to additional steps if you wish to use SOUP with latest HUD Fixes)
 
-### Optimization Mod (Recommended)
-- [mastercomfig](https://mastercomfig.com)
+## Visual Mods
+* [2007-Styled Weapon Pack](https://gamebanana.com/mods/198560)
+* [Altered Fire FX](https://gamebanana.com/mods/289584)
+* [Altered Jump Trails + Airblast Deflect](https://gamebanana.com/mods/11896)
+* [Altered Short Circuit Effects](https://gamebanana.com/mods/11900)
+* [Animated Computers](https://gamebanana.com/mods/199838)
+* [Beta Blast Door](https://gamebanana.com/mods/199779)
+* [Burning Materials Redux](https://gamebanana.com/mods/11895)
+* [Giblet Overhaul (Vanilla Blood)](https://gamebanana.com/mods/205664)
+* [HD Intel Remake](https://gamebanana.com/mods/199381)
+* [Morning Lightwarp](https://gamebanana.com/mods/205354)
+* [New Invulnerability & Shield FX](https://gamebanana.com/mods/197827) (Install `New Shield FX ONLY.vpk`)
+* [Non-Overlapping "Meet The Team" Blood](https://gamebanana.com/mods/12372)
+* [Reflective Water](https://gamebanana.com/mods/7560)
+* [Slightly Centered Viewmodels - The All-In-One Pack](https://gamebanana.com/mods/205759)
+* [Subtle Lens Flares](https://gamebanana.com/mods/11865)
+* [Trees Sway](https://gamebanana.com/mods/36719)
+* [Unique Rockets](https://gamebanana.com/mods/324446)
 
-### Sound Mods
-- [Enhanced MVM Bomb Deployment Sounds](https://gamebanana.com/sounds/33388)
-- [Heavy "Jeers04" replacement](https://gamebanana.com/sounds/50373)
-- [Higher Quality Vote Sounds](https://gamebanana.com/sounds/48141)
-- [HL2 EP2 Silo alarm for MvM](https://gamebanana.com/sounds/19645)
-- [Improved "crit_power.wav"](https://gamebanana.com/sounds/57434)
-- [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
-- [Intuder Alert for CTF](https://gamebanana.com/sounds/54423)
-- [Killstreak Announcer Voicelines](https://gamebanana.com/sounds/56867)
-- [Machina double kill fixed](https://gamebanana.com/sounds/16244)
-- [More Musical TF2 Events (Standard)](https://gamebanana.com/sounds/53978)
-- [MVM siren restored](https://gamebanana.com/sounds/48510)
-- [MYM Badge Domination/Nemesis/Revenge Sounds](https://gamebanana.com/sounds/44570)
-- [Payload Improved Explosion](https://gamebanana.com/sounds/10212)
-- [Payload Struggle Terminus Warning](https://gamebanana.com/sounds/53979)
-- [Pre-Jungle Inferno Weapon Sounds](https://gamebanana.com/sounds/39140)
-- [QeaML's Supply Closet Sound](https://gamebanana.com/sounds/32143)
-- [TF2C Class Selection](https://gamebanana.com/sounds/54000)
-- [Unused MvM Sounds](https://gamebanana.com/sounds/41860)
-- [Unused Upgrade Station Queue Music](https://gamebanana.com/sounds/50979)
+## Sound Mods
+* [Heavy "Jeers04" replacement](https://gamebanana.com/sounds/50373)
+* [More Musical TF2 Events](https://gamebanana.com/sounds/53978) (Choose only one version - Barebones or Definitive)
+* [Team Fortress 2 Soundtrack During Gameplay Mod](https://gamebanana.com/mods/36634)
 
-### UI Mods
-- [Alternate Class Portraits (Full Version)](https://gamebanana.com/mods/26024)
-- [Alternate MvM Upgrade Icons](https://gamebanana.com/mods/330849)
-- [Better In-Game Voice Chat Icons](https://gamebanana.com/mods/324990)
-- [Consistent Kill Icons fixed for Jungle Inferno](https://gamebanana.com/mods/26076)
-- [Improved Canteen Icons Revived](https://gamebanana.com/mods/25843)
-- [Improved Create Server Menu](https://gamebanana.com/mods/332109)
-- [Improved MVM Robot HUD | V2.1 out now!](https://gamebanana.com/mods/25178)
-- [Main Menu Characters Overhaul](https://gamebanana.com/mods/294786)
-- [Missing Map Loading Photos](https://gamebanana.com/mods/7494)
-- [MLSPro's TF2 Intro Mod](https://gamebanana.com/mods/311302)
-- [Team Fortress 2 Classic Class Portraits](https://gamebanana.com/mods/26067)
-- [TF2 - Another Closed Captions Project!](https://gamebanana.com/mods/25151)
+## Fixes and Optimization Mods
+* [Fixed Brass Beast Wind-Up Sound](https://gamebanana.com/sounds/44288)
+* [Improved tr_target](https://gamebanana.com/mods/74748) ([Unofficial fix](https://github.com/RoonMoonlight/Improved-tr_target-UnofficialFix/releases/latest) available)
+* [mastercomfig](https://mastercomfig.com)
+* [Mat_Picmip -10 Texture Fix Pack](https://gamebanana.com/mods/198036)
+* [Original Reload Sound Fix](https://gamebanana.com/sounds/44136)
+* [Smissmas Casual Gametype Image Fix](https://gamebanana.com/mods/27036)
+* [The Vanilla Sound Fix Overhaul](https://gamebanana.com/sounds/51208)
+* [Tomislav's True Fire Rate](https://gamebanana.com/sounds/47174)
+* [Ultimate TF2 Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack)
 
-### Visual Mods
-- [2007-Styled Weapon Pack](https://gamebanana.com/mods/198560)
-- [Altered Bullet Impact](https://gamebanana.com/mods/12384)
-- [Altered Jump Trails + Airblast Deflect](https://gamebanana.com/mods/11896)
-- [Altered Short Circuit](https://gamebanana.com/mods/11900)
-- [Animated Computers](https://gamebanana.com/mods/199838)
-- [Beta Blast Door](https://gamebanana.com/mods/199779)
-- [Clean World Textures](https://gamebanana.com/mods/7588)
-- [Enhanced Engineer Robot](https://gamebanana.com/mods/340370)
-- [Giblet Overhaul (TF2C Blood)](https://gamebanana.com/mods/288308)
-- [High Poly Non-HWM Playermodels! (Live TF2 Port)](https://gamebanana.com/mods/198508)
-- [Icon Based Festives (2021)](https://gamebanana.com/mods/314047)
-- [Improved Surface Properties](https://gamebanana.com/mods/36744)
-- [lemons' crit and mini-crit icons](https://gamebanana.com/mods/342930)
-- [lemons' lightwarp](https://gamebanana.com/mods/342651)
-- [Mat_Picmip -10 Texture Fix Pack](https://gamebanana.com/mods/198036)
-- [Mugg's Corpse Carrier](https://gamebanana.com/mods/328325)
-- [New Invulnerability & Shield FX](https://gamebanana.com/mods/197827)
-- [Non-Overlapping "Meet The Team" Blood](https://gamebanana.com/mods/12372)
-- [Reflective Water](https://gamebanana.com/mods/7560)
-- [Robot animation fixes](https://gamebanana.com/mods/206443)
-- [Subtle Lens Flares](https://gamebanana.com/mods/11865)
-- [Team Fortress 2 Classic Ports: Animated World Maps](https://gamebanana.com/mods/7561)
-- [Team Fortress 2 Classic Texture Port](https://gamebanana.com/mods/328302)
-- [Trees Sway](https://gamebanana.com/mods/36719)
-- [Unique Rockets](https://gamebanana.com/mods/324446)
-- [Ultimate Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack)
+## MvM Improvement Mods
+* [Enhanced Engineer Robot](https://gamebanana.com/mods/340370)
+* [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
+* [Robot animation fixes](https://gamebanana.com/mods/206443)
+* [Sentry Buster fixes](https://gamebanana.com/mods/205386)
+* [Unused MvM Sounds](https://gamebanana.com/sounds/41860)
 
-### Weapon Animation Mods
-- [Kylul's Scout First Person Animation Pack V1](https://gamebanana.com/mods/206351)
-- [Kylul's Sniper FPS Reanimation Pack V1.1](https://gamebanana.com/mods/206369)
-- [Kylul's Pyro FP Reanimated V.1](https://gamebanana.com/mods/206311)
-- [Kylul's Soldier Animation Pack V1.1](https://gamebanana.com/mods/206373)
-- [Kylul's Spy Animation Pack V.1](https://gamebanana.com/mods/307980)
+## Optional Mods
+* [Color Coded Lethality of Sniper Rifle Charge Meter](https://gamebanana.com/mods/345919)
+* [Classic Guilty Gear Slash Hitsounds](https://gamebanana.com/sounds/56790)
+* [Quake Crosshairs on TF2](https://gamebanana.com/mods/12535)
+* [Smissmas Background in Color](https://gamebanana.com/mods/25229)
 
-### Optional Mod
-#### HUD and hitsound, crosshair mod I use
-- [Toon Fortress 2 (Customized ToonHUD)](https://toonhud.com/user/ah_roon_gaming_ii/theme/YF62Y6LM/)
-- [Quake III Arena hit indicator](https://gamebanana.com/sounds/21865)
-- [Deltarune Weapon Pull Killsound](https://gamebanana.com/sounds/43066)
-- [HD TF2 Loading Screens](https://gamebanana.com/mods/285046)
-- [Jack5's main menu backgrounds](https://gamebanana.com/mods/25578)
+### [Optional Addon] Effect+
+This is intended for people who have high PC performance. If your game crashes, try removing these mods.
 
-#### Optional UI Mods
-- [Drastically Improved tf_english.txt](https://gamebanana.com/mods/314843) (Do not use if you use HUD which replaces tf_english.txt)
-- [Source Text Refont [Better Looking Default Text]](https://gamebanana.com/mods/314848) (Do not use if you use Linux and/or HUD which changes default font)
-
-#### Seasonal Mods (Must be put in high priority than other mods!)
-##### Scream Fortress 2021
-- [Scream Fortress 2 Logo](https://gamebanana.com/mods/325483)
-- [TF2 Dynamic Music Mod - HALLOWEEN SPECIAL](https://gamebanana.com/sounds/56638)
+These mods were supposed to be included on TF2: Enhanced 6, however it was removed on future update due to ongoing performance issue, instead seperated to be addon instead.
+* [Altered Bullet Impacts](https://gamebanana.com/mods/12384)
+* [Altered Explosions & Building FX](https://gamebanana.com/mods/12457)
+* [Altered Projectile Trails](https://gamebanana.com/mods/12420)
 
 # Note
-Before installing mods, please read the description and installation carefully. Mystic Moonlight has no responsiblity about these mods!
-
-Valve, the Valve logo, Steam, the Steam logo, Team Fortress, the Team Fortress logo, Source, the Source logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.
-
-Team Fortress 2 Enhanced is not sponsored, endorsed, licensed by, or affiliated with Valve Corporation.
+* This modpack will NOT work on sv_pure 1/2 servers. [Lite version](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/LITE.md) is available for users who play on Valve/sv_pure 1 servers.
+* Please use official download such as GameBanana, and do NOT use other illegal redistribution website.
