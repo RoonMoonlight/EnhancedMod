@@ -23,7 +23,7 @@ These mod collections are not the part of the Enhanced Mod Series.
 * [EndlessMod](https://github.com/MysticMoonlight/EndlessMod)
 
 # Our Standards
-[Read more here.](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/STANDARD.md)
+[Read more here.](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md)
 
 # Special thanks to
 * [Selen Tatsuki](https://twitter.com/Selen_Tatsuki) for helping us to find the direction of project
