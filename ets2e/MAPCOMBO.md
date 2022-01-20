@@ -50,7 +50,7 @@ Vanilla Combo uses EuRoadNet as a base. Mod order referenced from [this post](ht
 | Road to Asia by TerraMaps | 1.2.1 | 1.43 | [TerraMaps Official Page](https://terramaps.net/download/view.php?game=road-to-asia) |  |
 | Road to Asia Models | 1.2.1 | 1.43 | [TerraMaps Official Page](https://terramaps.net/download/view.php?game=road-to-asia) |  |
 | Road to Asia Assets | 1.2.1 | 1.43 | [TerraMaps Official Page](https://terramaps.net/download/view.php?game=road-to-asia) |  |
-| CrachFix-Actobe_TGS | 1.0 | 1.43 | [ROEXTENDED Official Page](https://roextended.ro/forum/viewtopic.php?f=7&p=49124#p49122) |  |
+| CrachFix-Actobe_TGS | 1.1 | 1.43 | [ROEXTENDED Forum Post](https://roextended.ro/forum/viewtopic.php?f=7&t=1064&start=1150#p49447) |  |
 | GS143fix | 1.43 | 1.43 | [ShareMods Page](https://sharemods.com/quiwjg037x35/GS143fix.scs.html) | Fix provided by Arayas |
 | The Great Steppe English City Names | 1.0 | 1.43 | [TruckyMods Page](https://truckymods.io/euro-truck-simulator-2/map-patches/the-great-steppe-english-city-names) | You may need TruckyMods account to download the mod |
 | The Great Steppe - def | 2.0 | 1.43 | [ProMods Forum Post](https://promods.net/viewtopic.php?t=18698) | It says 1.39, but works well on 1.43<br />There is possible breakage on future updates of ETS2<br />You do not need to install model2 if RusMap is installed |
@@ -81,7 +81,7 @@ Eurasia Combo uses ProMods as a base. Mod order referenced from [this post](http
 | ProMods 2.60 / RusMap 2.4.3.1 Road Connection [1.43] | 2.43.1 | 1.43 | [ProMods Forum Post](https://promods.net/viewtopic.php?f=42&t=35575) | You need ProMods account to download |
 | ProMods Middle-East Add-on (Def & Map Package) | 2.60 | 1.43 | [ProMods Official Page](https://promods.net/) | You need ProMods account to download |
 | ProMods Middle-East Add-on (Assets Package) | 2.60 | 1.43 | [ProMods Official Page](https://promods.net/) | You need ProMods account to download |
-| CrachFix-Actobe_TGS | 1.0 | 1.43 | [ROEXTENDED Official Page](https://roextended.ro/forum/viewtopic.php?f=7&p=49124#p49122) |  |
+| CrachFix-Actobe_TGS | 1.1 | 1.43 | [ROEXTENDED Forum Post](https://roextended.ro/forum/viewtopic.php?f=7&t=1064&start=1150#p49447) |  |
 | RusMap-map_v2.43.1 | 2.43.1 | 1.43 | [ROEXTENDED Forum Post](https://roextended.ro/forum/viewtopic.php?f=7&t=1064) |  |
 | RusMap-model_v2.43.1 | 2.43.1 | 1.43 | [ROEXTENDED Forum Post](https://roextended.ro/forum/viewtopic.php?f=7&t=1064) |  |
 | RusMap-model2_v2.43.1 | 2.43.1 | 1.43 | [ROEXTENDED Forum Post](https://roextended.ro/forum/viewtopic.php?f=7&t=1064) |  |
