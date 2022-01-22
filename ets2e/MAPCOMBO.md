@@ -10,6 +10,7 @@ We offer two following combos:
 ## Recommended General Mod Orders
 The general mod load orders should be the following:
 * Map/Loading Background Mods
+* UI Mods
 * (Optional) [Realistic Rain](https://steamcommunity.com/sharedfiles/filedetails/?id=1787041596)
 * (Optional) [Grimes Weather Mod](https://grimesmods.wordpress.com/)
 * Sounds
