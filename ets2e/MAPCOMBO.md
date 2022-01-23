@@ -50,7 +50,7 @@ This edition features the following map mods: RusMap, Southern Region, ROEXTENDE
 ## Modern
 Minimal Edition has similar goal with Minimal, but it is based on ProMods. Mod order referenced from [this post](https://terramaps.net/forum/threads/ets2-1-43-recommended-map-combo-by-terramaps.121/). (Thanks to Kobra2112 for the mod order)
 
-This edition features the following map mods: ProMods, RusMap, Southern Region, ROEXTENDED (Optional) and more.
+This edition features the following map mods: ProMods, ProMods Middle-East Addon, RusMap, Southern Region, ROEXTENDED (Optional) and more.
 
 ## Special Thanks to
 * GMC Logistics
