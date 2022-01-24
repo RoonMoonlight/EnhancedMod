@@ -17,3 +17,6 @@ Performance is really important for better gameplay experience. Never add mod wh
 
 ### Always remember the fair-play
 We want to play games fairly, and do not want to give users unfair advantage compared to other users. We also strictly not allows adding mod which can affect the gameplay.
+
+### No more limitations: Cross-platform
+Regardless of any platform, the mod should follow the cross-platform support so people can enjoy the same gameplay experience.
