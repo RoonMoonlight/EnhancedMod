@@ -42,15 +42,20 @@ This edition features the following map mods: ProMods, ProMods Middle-East Addon
 
 [Click here to view the combo.](https://docs.google.com/spreadsheets/d/1oUCPbMMTYYUIuVX4yJWSd84EnXRXXIu08rXDvvIfk6w/edit?usp=sharing)
 
+
 ## Minimal
 Minimal Edition is aimed for default goal for ETS. It has less map mods compared to other editions, and it only covers Europe. Mod order referenced from [this post](https://www.roextended.ro/forum/viewtopic.php?f=15&t=2229). (Thanks to GMC Logistics for the mod order)
 
 This edition features the following map mods: RusMap, Southern Region, ROEXTENDED (Optional) and more.
 
+[Click here to view the combo.](https://docs.google.com/spreadsheets/d/1P3nEkdaIF-V-WPIEh7-dA-8fPPIL10WbV2sWmCphLRU/edit?usp=sharing)
+
 ## Modern
 Minimal Edition has similar goal with Minimal, but it is based on ProMods. Mod order referenced from [this post](https://terramaps.net/forum/threads/ets2-1-43-recommended-map-combo-by-terramaps.121/). (Thanks to Kobra2112 for the mod order)
 
 This edition features the following map mods: ProMods, ProMods Middle-East Addon, RusMap, Southern Region, ROEXTENDED (Optional) and more.
+
+[Click here to view the combo.](https://docs.google.com/spreadsheets/d/1IOH_uaHtEzoD0jrWzIdu6Swc0LlhYtdQdfGTaWilVU8/edit?usp=sharing)
 
 ## Special Thanks to
 * GMC Logistics
