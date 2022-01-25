@@ -7,7 +7,7 @@ Welcome to minor update of version 7 series! This update reverts to default TF2 
 * [Altered Fire FX](https://gamebanana.com/mods/289584) is now only available with Effect+ addon - Due to consistency and optimization issues when using Fire FX, we decided to move the Altered Fire FX to be only available as Effect+ addon.
 * Added back the [SFM-like Phong and Normal Maps](https://gamebanana.com/mods/198538) into main mod list.
 * Burning texture changes are completely removed due to compatibility issue.
-* Removed optional steps completely as they are no longer required.
+* Removed optional steps completely as they are no longer required (Issue #1)
 
 #### Mod list changes
 * [Moved] [Altered Fire FX](https://gamebanana.com/mods/289584) (Main Mods -> Effect+ Addon Mods)
