@@ -1,7 +1,20 @@
 # Changelog
 
-## Next-Gen TF2:E (Project Nebula)
-### Team Fortress 2: Enhanced 7.0 (Jan 10, 2021)
+### Team Fortress 2: Enhanced 7.1 "25th Demon" (Jan 25, 2022)
+Welcome to minor update of version 7 series! This update reverts to default TF2 flame and burn effect, and making the Burn effect optional as well as some fixes.
+
+#### Highlight
+* [Altered Fire FX](https://gamebanana.com/mods/289584) is now only available with Effect+ addon - Due to consistency and optimization issues when using Fire FX, we decided to move the Altered Fire FX to be only available as Effect+ addon.
+* Added back the [SFM-like Phong and Normal Maps](https://gamebanana.com/mods/198538) into main mod list.
+* Burning texture changes are completely removed due to compatibility issue.
+* Removed optional steps completely as they are no longer required.
+
+#### Mod list changes
+* [Moved] [Altered Fire FX](https://gamebanana.com/mods/289584) (Main Mods -> Effect+ Addon Mods)
+* [Added] [SFM-like Phong and Normal Maps](https://gamebanana.com/mods/198538)
+* [Removed] [Burning Materials Redux](https://gamebanana.com/mods/11895)
+
+### Team Fortress 2: Enhanced 7.0 (Jan 10, 2022)
 Welcome to next generation of Team Fortress 2: Enhanced! We recreated this modpack entirely from scratch, carefully cherry-picked the mod for less bloats and conflicts.
 
 #### Highlights
@@ -13,7 +26,7 @@ Welcome to next generation of Team Fortress 2: Enhanced! We recreated this modpa
 * New [lite version](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/LITE.md) of Team Fortress 2: Enhanced are now available for users who play on Pure/Valve servers
 * New addon: Effect+ - It is intended for users with high PC performance
 
-### Project Nebula 6.99.03 (Jan 1, 2021)
+### Project Nebula 6.99.03 (Jan 1, 2022)
 #### Highlights
 * New flame/burn effect
 * New lightwarp system
@@ -54,7 +67,6 @@ Welcome to next generation of Team Fortress 2: Enhanced! We recreated this modpa
 ### Project Nebula 6.99.01 (Dec 26, 2021)
 * Initial release.
 
-## TF2: Enhanced
 ### Team Fortress 2: Enhanced 6.0.1 "Deadly Crockets"
 This is hotfix which removes unoptimized mods made by Skeleton Hotel, and they are not even attempting to optimized their mod, so we reverted changed made in TF2: Enhanced 6.
 
