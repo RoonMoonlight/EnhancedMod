@@ -1,3 +1,6 @@
+# Announcement
+PAYDAY 2: Enhanced will no longer be supported soon, due to unfriendly modding support(They officially supports modding feature but they does not have clear instructions which makes users hard to install mods), as well as most mods supporting only Windows-exclusive. Thank you for using our modpack.
+
 # PAYDAY 2: Enhanced
 PAYDAY 2: Enhanced is the modpack aims for slightly improving the PAYDAY 2 experience while keeping original atmosphere. And this modpack is also multi-platform friendly.
 
