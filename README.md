@@ -12,16 +12,22 @@ This repository is the compiliation of modpacks we made, so you can find them ea
    * [Team Fortress 2: Enhanced Lite](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/LITE.md)
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2603092378)
 * [Obsidian Conflict: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/oce/README.md)
-* [PAYDAY 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/p2e/README.md) (Will no longer be supported soon)
 * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2539528962)
    * [Starlight ETS2 Map Combo](https://github.com/MysticMoonlight/EnhancedMod/blob/main/ets2e/MAPCOMBO.md)
 * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2662863110)
+* [Terraria: Starshifters](https://github.com/MysticMoonlight/Starshifters)
+* [Left 4 Dead 2: Revengeance Reborn](https://github.com/RevReborn/RevReborn)
 
 # List of Other Modpacks
 These mod collections are not the part of the Enhanced Mod Series.
 
-* [Death Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2319991144)
 * [EndlessMod](https://github.com/MysticMoonlight/EndlessMod)
+
+# List of obsolete Modpacks
+These modpacks no longer receives support anymore by Mystic Moonlight. Press `F` to pay respect to these modpack.
+
+* [PAYDAY 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/p2e/README.md)
+* [Death Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2319991144)
 
 # Our Standards
 [Read more here.](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md)
