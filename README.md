@@ -21,6 +21,7 @@ This repository is the compiliation of modpacks we made, so you can find them ea
 # List of Other Modpacks
 These mod collections are not the part of the Enhanced Mod Series.
 
+* [Starshifters Classic](https://github.com/MysticMoonlight/StarshiftersClassic)
 * [EndlessMod](https://github.com/MysticMoonlight/EndlessMod)
 
 # List of obsolete Modpacks
