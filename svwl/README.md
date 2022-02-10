@@ -11,7 +11,7 @@ This mod requires [SMAPI](https://smapi.io/) to install this modpack. More insta
 We recommend you to install this modpack on clean state.
 
 ## Release Notes
-### 2022.01 "Farmland!"
+### 2022.01 "Isekai Cat"
 Initial release.
 
 ## List of Mods
