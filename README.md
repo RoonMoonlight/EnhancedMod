@@ -16,6 +16,7 @@ This repository is the compiliation of modpacks we made, so you can find them ea
    * [Starlight ETS2 Map Combo](https://github.com/MysticMoonlight/EnhancedMod/blob/main/ets2e/MAPCOMBO.md)
 * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2662863110)
 * [Terraria: Starshifters](https://github.com/MysticMoonlight/Starshifters)
+* [Starlight ETS2 Map Combo](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
 * [Left 4 Dead 2: Revengeance Reborn](https://github.com/RevReborn/RevReborn)
 
 # List of Other Modpacks
