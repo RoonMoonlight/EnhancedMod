@@ -41,7 +41,7 @@ Note: You need to register or login into NexusMods account to download the mods!
 * [Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)
 * [CP - Animated Pet Icons](https://www.nexusmods.com/stardewvalley/mods/10392)
 * [Experience Bars](https://www.nexusmods.com/stardewvalley/mods/509)
-* [Fisharia anime portraits](https://www.nexusmods.com/stardewvalley/mods/10442)
+* [Fisharia anime portraits](https://www.nexusmods.com/stardewvalley/mods/10442) (This is the only mod which does not use Content Patcher - Overwrite Portrait folder on [GameDirectory]/Content)
 
 ### Dependencies
 * [Custom Farming Redux](https://www.nexusmods.com/stardewvalley/mods/991)
