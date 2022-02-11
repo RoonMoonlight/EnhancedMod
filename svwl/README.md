@@ -3,12 +3,12 @@
 > **"Welcome to wild life... Which lively nature surrounds you."**
 
 ## Description
-Stardew Valley: Wildlife is 11th EnhancedMod Series, aiming to improve Stardew Valley while not adding too much contents into the game.
+Stardew Valley: Wildlife is 11th EnhancedMod Series, aiming to improve and expand original Stardew Valley while not changing gameplay too much.
 
 ## Installation
-This mod requires [SMAPI](https://smapi.io/) to install this modpack. More installation tutorial can be found [here](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started).
+This modpack requires [SMAPI](https://smapi.io/) to install this modpack. More installation tutorial can be found [here](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started).
 
-We recommend you to install this modpack on clean state.
+We recommend you to install this modpack on clean state (Without any saves).
 
 ## Release Notes
 ### 2022.01 "Isekai Cat"
