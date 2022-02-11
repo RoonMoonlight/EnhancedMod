@@ -25,17 +25,21 @@ Note: You need to register or login into NexusMods account to download the mods!
 * [Elle's Seasonal Buildings](https://www.nexusmods.com/stardewvalley/mods/1993)
 * [More Hairstyles](https://www.nexusmods.com/stardewvalley/mods/91)
 * [Official - Industrialization for CFR](https://www.nexusmods.com/stardewvalley/mods/3034)
+* [Tractor Mod](https://www.nexusmods.com/stardewvalley/mods/1401)
 
 ### Improvement Mods
+* [Ambient Light](https://www.nexusmods.com/stardewvalley/mods/4639)
 * [Better Sprinklers Mod](https://www.nexusmods.com/stardewvalley/mods/41)
 * [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 * [Content Patcher Animations](https://www.nexusmods.com/stardewvalley/mods/3853)
 * [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
 * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
 * [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+* [Real Weather](https://www.nexusmods.com/stardewvalley/mods/5773/)
+* [SDVWM](https://www.nexusmods.com/stardewvalley/mods/3203)
 * [Show Item Sell Price](https://www.nexusmods.com/stardewvalley/mods/5)
+* [Vanilla Tweaks](https://www.nexusmods.com/stardewvalley/mods/10852)
 * [Winter Grass](https://www.nexusmods.com/stardewvalley/mods/1601)
-* [Yet Another Harvest With Scythe Mod](https://www.nexusmods.com/stardewvalley/mods/2731)
 
 ### UI Mods 
 * [Bella's better cursors](https://www.nexusmods.com/stardewvalley/mods/10848)
