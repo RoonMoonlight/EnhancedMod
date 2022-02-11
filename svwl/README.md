@@ -12,7 +12,9 @@ We recommend you to install this modpack on clean state.
 
 ## Release Notes
 ### 2022.01 "Isekai Cat"
-Initial release.
+Initial release. 
+
+**Feb 11, 2022 Update: This version is still under testing, use at own risk.** We will notify you on our [Twitter](https://twitter.com/Mysty_Moonlight) when it's ready.
 
 ## List of Mods
 Due to complicated copyright issues, you need to install mods manually from this list of mods.
