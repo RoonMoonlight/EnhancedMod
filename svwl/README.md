@@ -27,7 +27,8 @@ Note: You need to register or login into NexusMods account to download the mods!
 * [Make Your Bed](https://www.nexusmods.com/stardewvalley/mods/5368)
 * [More Hairstyles](https://www.nexusmods.com/stardewvalley/mods/91)
 * [Official - Industrialization for CFR](https://www.nexusmods.com/stardewvalley/mods/3034)
-* [Rosy Cottage - Farmhouse replacement](https://www.nexusmods.com/stardewvalley/mods/10656)
+* [Rosy Cottage - Farmhouse replacement](https://www.nexusmods.com/stardewvalley/mods/10656) (Use CP version)
+* [Rosy Picket Fences](https://www.nexusmods.com/stardewvalley/mods/10961) (Use CP version)
 * [Tractor Mod](https://www.nexusmods.com/stardewvalley/mods/1401)
 
 ### Improvement Mods
@@ -61,3 +62,4 @@ Note: You need to register or login into NexusMods account to download the mods!
 * [FuryCore](https://www.nexusmods.com/stardewvalley/mods/10696)
 * [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)
 * [StardewHack](https://www.nexusmods.com/stardewvalley/mods/3213)
+* [TMXL Map Toolkit](https://www.nexusmods.com/stardewvalley/mods/1820)
