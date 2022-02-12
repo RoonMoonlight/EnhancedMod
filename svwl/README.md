@@ -42,7 +42,6 @@ Note: You need to register or login into NexusMods account to download the mods!
 * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
 * [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 * [Real Weather](https://www.nexusmods.com/stardewvalley/mods/5773/)
-* [SDVWM](https://www.nexusmods.com/stardewvalley/mods/3203)
 * [Show Item Sell Price](https://www.nexusmods.com/stardewvalley/mods/5)
 * [Time of the Prairie King](https://www.nexusmods.com/stardewvalley/mods/5631)
 * [Vanilla Tweaks](https://www.nexusmods.com/stardewvalley/mods/10852)
