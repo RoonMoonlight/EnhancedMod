@@ -29,7 +29,7 @@ The general mod load orders should be the following:
 ## Eurasia Classic
 Formerly known as Vanilla, Eurasia Classic Combo uses EuRoadNet as a base, and expands the map to Eurasia. It keeps vanilla atmosphere while improving the SCS map. Mod order referenced from [this post](https://www.roextended.ro/forum/viewtopic.php?f=15&t=2229). (Thanks to GMC Logistics for the mod order)
 
-**Known issue:** Currently EuRoadNet does not support Special Transport DLC. Consider using Minimal Edition if you wish to do Special Transport jobs.
+**Known issue:** Currently EuRoadNet does not support Special Transport DLC. Until they fix the issue related to Special Transport EuRoadNet mod will be marked as optional mod.
 
 This edition features the following map mods: EuRoadNet, RusMap, JRR, Southern Region, The Great Steppe, Road to Asia, ROEXTENDED and AZGE (Optional) and more.
 
