@@ -11,9 +11,13 @@ This modpack requires [SMAPI](https://smapi.io/) to install this modpack. More i
 We recommend you to install this modpack on clean state (Without any saves).
 
 ## Release Notes
-### 2022.01 "Isekai Cat"
-Initial release. 
+### 2022.01 "Isekai Cat" (February 20, 2022)
+Welcome to first release of Stardew Valley: Wildlife! This version is 2022.01, codenamed "Isekai Cat", named after one of Isekai Cat VTuber '[Ko Yami](https://twitter.com/KoYami2434)'. Thank you for your amazing streams and content during the VTuber activities.
 
+#### Changelog
+* Initial release.
+
+#### Note
 **Feb 11, 2022 Update: This version is still under testing, use at own risk.** We will notify you on our [Twitter](https://twitter.com/Mysty_Moonlight) when it's ready.
 
 ## List of Mods
