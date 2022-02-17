@@ -1,4 +1,40 @@
 # Changelog
+### Team Fortress 2: Enhanced 7.2 "Sweet Frostland" (Feb 17, 2022)
+Welcome to second minor update of version 7 series! Nothing was changed on this update, but to announce the major changes of HUD on TF2: Enhanced, powered by Sloofy's SOUP mod.
+
+#### Highlight
+* All class portraits have been redone, incorporating TF2 TIP
+* Robot Engineer has been added, pose inspired by Mecha Update
+* Manniversary renders have been added
+* Passtime renders have been added
+* Work-in-progress training mode renders are being tried out
+* A lost Scream Fortress Heavy render has been finally added in
+* Zombie Spy has been added, finishing the full main menu roster that has been in development since SOUP v1.4
+* Updated Community HUD Fixes to latest git commit (December 13th, 2021)
+* On the main menu, camera positions have changed for Pyro and Demo to account for Manniversary renders
+* On the main menu, Scout and Pyro now have stronger rim lights
+* On the main menu, Scout's right arm (our left) is pulled further back to resemble the source material better
+* On the main menu, Scout's fingers on his bat have been adjusted to resemble the source material better
+* On the main menu, Medic's head has been slightly adjusted to resemble the source material better
+* In Soldier's class portrait, he has his finger on the trigger of the rocket launcher (in vanilla TF2, this detail is missing)
+* In Pyro's class portrait, they have been given the same pose as their class selection render for consistency
+* In Heavy's class portrait, his gun has been adjusted to be even closer to him to account for healthbar clipping
+* In the class portraits, lighting has been updated and overhauled on the following classes: Scout, Soldier, Demo, Heavy, and Medic
+* In the class portraits, the following classes have been given higher quality weapon models: Soldier, Scout, Heavy, and Medic
+* BLU team main menu renders have been renamed (previously fwk_*, now blu_*)
+* A potential shading issue has been resolved that creates phantom shadows / lines over the class portraits (This was a problem with the minDistance value being too high)
+* Removed redundant hudplayerclass.res file
+* On the main menu, Scout's face no longer has light clipping through the hat onto his eyebrow.
+* On the main menu, Scout's Wrap Assassin used in his Smissmas render no longer floats in mid-air.
+* On the main menu, Medic's shirt on his plague doctor costume has less clipping to it.
+* On the main menu, Medic's left arm (our right) curves in far neater to reduce a shading issue.
+* On the main menu, Medic's vampire costume has far less clipping on his left arm (our right).
+* On the main menu, Medic's glasses on his plague doctor costume are neatly concealed without resorting to post-processing tricks.
+* On the main menu, Medic's strait jacket straps now properly attach to the other end like they're supposed to.
+* On the main menu, Medic's fingers on the strait jacket have less clipping to them (there is still some leftover, but it's far less noticeable).
+* In the class portraits, Heavy and Sniper should clip into the healthbar less.
+
+[Original Changelog by Sloofy](https://gamebanana.com/mods/26400)
 
 ### Team Fortress 2: Enhanced 7.1 "25th Demon" (Jan 25, 2022)
 Welcome to minor update of version 7 series! This update reverts to default TF2 flame and burn effect, and making the Burn effect optional as well as some fixes.
