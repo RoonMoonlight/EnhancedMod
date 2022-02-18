@@ -17,6 +17,7 @@ This repository is the compiliation of modpacks we made, so you can find them ea
 * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2662863110)
 * [Terraria: Starshifters](https://github.com/MysticMoonlight/Starshifters) (On Hold)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
+* [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/README.md)
 * [Left 4 Dead 2: Revengeance Reborn](https://github.com/RevReborn/RevReborn)
 
 # List of Other Modpacks
@@ -34,9 +35,14 @@ These modpacks no longer receives support anymore by Mystic Moonlight. Press `F`
 # Our Standards
 [Read more here.](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md)
 
+# Project License
+All image assets and brandings included on this repository are licensed under [Creative Commons CC BY-NC-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+All text assets(This includes all markdown files) are licensed under []Creative Commons CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/).
+
 # Special thanks to
-* [Selen Tatsuki](https://twitter.com/Selen_Tatsuki) for helping us to find the direction of project
-* Valve, Crowbar Collective, SCS Software, Turtle Rock Studio, Re-Logic,  for creating amazing games
+* [Selen Tatsuki](https://twitter.com/Selen_Tatsuki) for [motivation about the direction of project](https://twitter.com/Selen_Tatsuki/status/1453444303968038913)
+* Valve, Crowbar Collective, SCS Software, Turtle Rock Studio, Re-Logic, ConcernedApe, Mojang Studios for creating amazing games
 * All mod developers who participated on your work
 * And you!
 
