@@ -6,7 +6,7 @@ Due to license issue, the modpack will not be available, so you must download it
 WARNING: This version is experimental version! Contents included on this modpack are subject to change, and unexpected bugs or crashes may occur.
 
 # Changelog
-See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGELOG.md).
+See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experimental/CHANGELOG.md).
 
 # How to Install
 1. Extract the archive file you downloaded (It should be `.zip`, `.rar`, or `.7z`)
