@@ -1,8 +1,8 @@
 # Changelog
-### Team Fortress 2: Enhanced 7.2 "Sweet Frostland" (Feb 17, 2022)
+## Team Fortress 2: Enhanced 7.2 "Sweet Frostland" (Feb 17, 2022)
 Welcome to second minor update of version 7 series! Nothing was changed on this update, but to announce the major changes of HUD on TF2: Enhanced, powered by Sloofy's SOUP mod.
 
-#### Highlight
+### Highlight
 * All class portraits have been redone, incorporating TF2 TIP
 * Robot Engineer has been added, pose inspired by Mecha Update
 * Manniversary renders have been added
@@ -36,24 +36,24 @@ Welcome to second minor update of version 7 series! Nothing was changed on this 
 
 [Original Changelog by Sloofy](https://gamebanana.com/mods/26400)
 
-### Team Fortress 2: Enhanced 7.1 "25th Demon" (Jan 25, 2022)
+## Team Fortress 2: Enhanced 7.1 "25th Demon" (Jan 25, 2022)
 Welcome to minor update of version 7 series! This update reverts to default TF2 flame and burn effect, and making the Burn effect optional as well as some fixes.
 
-#### Highlight
+### Highlight
 * [Altered Fire FX](https://gamebanana.com/mods/289584) is now only available with Effect+ addon - Due to consistency and optimization issues when using Fire FX, we decided to move the Altered Fire FX to be only available as Effect+ addon.
 * Added back the [SFM-like Phong and Normal Maps](https://gamebanana.com/mods/198538) into main mod list.
 * Burning texture changes are completely removed due to compatibility issue.
 * Removed optional steps completely as they are no longer required ([Issue #1](https://github.com/MysticMoonlight/EnhancedMod/issues/1))
 
-#### Mod list changes
+### Mod list changes
 * [Moved] [Altered Fire FX](https://gamebanana.com/mods/289584) (Main Mods -> Effect+ Addon Mods)
 * [Added] [SFM-like Phong and Normal Maps](https://gamebanana.com/mods/198538)
 * [Removed] [Burning Materials Redux](https://gamebanana.com/mods/11895)
 
-### Team Fortress 2: Enhanced 7.0 (Jan 10, 2022)
+## Team Fortress 2: Enhanced 7.0 (Jan 10, 2022)
 Welcome to next generation of Team Fortress 2: Enhanced! We recreated this modpack entirely from scratch, carefully cherry-picked the mod for less bloats and conflicts.
 
-#### Highlights
+### Highlights
 * Modpack entirely built from scratch
 * Mods were carefully cherry-picked to prevent further conflicts and bloats
 * Strictly uses default HUD with few tweaks, so custom HUDs are no longer compatible
@@ -62,36 +62,27 @@ Welcome to next generation of Team Fortress 2: Enhanced! We recreated this modpa
 * New [lite version](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/LITE.md) of Team Fortress 2: Enhanced are now available for users who play on Pure/Valve servers
 * New addon: Effect+ - It is intended for users with high PC performance
 
-### Project Nebula 6.99.03 (Jan 1, 2022)
-#### Highlights
+## Project Nebula 6.99.03 (Jan 1, 2022)
+### Highlights
 * New flame/burn effect
 * New lightwarp system
 * New optional addon: Effect+
 
-#### Mod changes
+### Mod changes
 * [Additions] [Altered Fire FX](https://gamebanana.com/mods/289584)
 * [Additions] [Burning Materials Redux](https://gamebanana.com/mods/11895)
 * [Additions] [Morning Lightwarp](https://gamebanana.com/mods/205354)
 * [Removal] [SFM-like Phong and Normal Maps](https://gamebanana.com/mods/198538) (Conflicts with BMR, install Phong compatibility patch included on BMR instead if you wish to use it)
 * [Removal] [lemons' lightwarp](https://gamebanana.com/mods/342651) (Replaced by Morning Lightwarp)
 
-#### Mod list changes
-* Added Color Coded Lethality of Sniper Rifle Charge Meter (Optional Mod)
-* Added Improved Create Server Menu
-* Added Improved tr_target
-* Removed Backgrounds in Color (SOUP mod already does the same thing)
-* Removed NativeHUD (Conflicts with SOUP)
-* Removed Altered Bullet Impacts (Performance Impact when this mod is enabled)
-* Removed most non-original mods to comply with upcoming standards
-
-### Project Nebula 6.99.02 (Dec 30, 2021)
-#### General
+## Project Nebula 6.99.02 (Dec 30, 2021)
+### General
 * More Musical TF2 Events versions can be choosed by yourself (Barebones or Definitive Edition)
 * Added [Project Bloom](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/BLOOM.md), the lite version of Project Nebula aiming for full sv_pure 1 support
 * Added optional step (Advanced Users Only!)
 * Fixed some errors and typos
 
-#### Mod list changes
+### Mod list changes
 * Added Color Coded Lethality of Sniper Rifle Charge Meter (Optional Mod)
 * Added Improved Create Server Menu
 * Added Improved tr_target
@@ -100,59 +91,59 @@ Welcome to next generation of Team Fortress 2: Enhanced! We recreated this modpa
 * Removed Altered Bullet Impacts (Performance Impact when this mod is enabled)
 * Removed most non-original mods to comply with upcoming standards
 
-### Project Nebula 6.99.01 (Dec 26, 2021)
+## Project Nebula 6.99.01 (Dec 26, 2021)
 * Initial release.
 
-### Team Fortress 2: Enhanced 6.0.1 "Deadly Crockets"
+## Team Fortress 2: Enhanced 6.0.1 "Deadly Crockets"
 This is hotfix which removes unoptimized mods made by Skeleton Hotel, and they are not even attempting to optimized their mod, so we reverted changed made in TF2: Enhanced 6.
 
-#### Visual Mods
+### Visual Mods
 * Removed Explosion, Trail, Fire FX due to unoptimization
 * Added back the TF2 Visual Fix pack
 
-### Team Fortress 2: Enhanced 6 "Deadly Crockets"
+## Team Fortress 2: Enhanced 6 "Deadly Crockets"
 Merry Smissmas! Welcome to major update of TF2:E! This update introduces major improvements to visual, better lightwarps, new crit/minicrit effect.
 
-#### Visual Mods
+### Visual Mods
 * Added several Visual overhaul mods made by Skeleton Hotel: Altered Explosions & Building FX, Altered Fire FX Altered Projectile Trails, Burning Materials Redux, New Invulnerability & Shield FX, New Invulnerability & Shield FX
 * Added lemons' crit and mini-crit icons
 * Added lemons' lightwarp
 * Removed 2007 lightwarp
 * Removed Visual Fix Pack due to conflict with existing visual mods
 
-### Team Fortress 2: Enhanced 5.2 "Clearcut"
+## Team Fortress 2: Enhanced 5.2 "Clearcut"
 Welcome to another update of TF2:E! It's been while since the latest update happened. This update introduces some improvements to Create Server Menu, which gives more options to change compared to previous version. Also additionally crit sounds has been improved.
 
-#### Additions
-##### Sound Mods
+### Additions
+#### Sound Mods
 * [Improved "crit_power.wav"](https://gamebanana.com/sounds/57434)
 
-##### UI Mods
+#### UI Mods
 * [Improved Create Server Menu](https://gamebanana.com/mods/332109)
 
-### Team Fortress 2: Enhanced 5.1 "Cardinal"
+## Team Fortress 2: Enhanced 5.1 "Cardinal"
 * Merged with [EnhancedMod](https://github.com/MysticMoonlight/EnhancedMod) repository
 
-### Team Fortress 2: Enhanced 5.0 "Carnival of Carnage"
+## Team Fortress 2: Enhanced 5.0 "Carnival of Carnage"
 Welcome to halloween, mortals! Here is little UI update to make MvM upgrade more better.
 
-#### Additions
+### Additions
 * [Alternate MvM Upgrade Icons](https://gamebanana.com/mods/330849)
 
-### 4.2.1 "Bergentrückung" (October 19, 2021)
+## 4.2.1 "Bergentrückung" (October 19, 2021)
 Happy Halloween mortals! This is minor update for Mann vs. Machines gamemode, which adds unused MvM sound into the game and new, better killstreak sounds. This is the only codename to not feature TF2 related, to match the halloween atmosphere (It is actually one of music from the game 'Undertale')
 
-#### Additions
+### Additions
 * [Unused MvM Sounds](https://gamebanana.com/sounds/41860)
 * [Killstreak Announcer Voicelines](https://gamebanana.com/sounds/56867)
 
-#### Removal
+### Removal
 * [TF2 Casual Lvl Up 5 Killstreak](https://gamebanana.com/sounds/49214)
 
-### 4.2 "Brimstone" (October 16, 2021)
+## 4.2 "Brimstone" (October 16, 2021)
 Happy Halloween mortals! Welcome to minor update of version 4 series. This change includes graphical improvements(Mainly TF2C to Live TF2 backports) and fixes. Starting from 4.2, **All HUDS.TF related mods are removed permanently and ended support for all mods from HUDS.TF.**
 
-#### Additions
+### Additions
 * [Giblet Overhaul (TF2C Blood)](https://gamebanana.com/mods/288308)
 * [High Poly Non-HWM Playermodels! (Live TF2 Port)](https://gamebanana.com/mods/198508)
 * [Mugg's Corpse Carrier](https://gamebanana.com/mods/328325)
@@ -160,65 +151,65 @@ Happy Halloween mortals! Welcome to minor update of version 4 series. This chang
 * Added optional mods category
 * Recommended mods are changed
 
-#### Removal
+### Removal
 * [SFM Player Models](https://gamebanana.com/mods/198801)
 
-### 4.1 "Bloodwater" (October 13, 2021)
+## 4.1 "Bloodwater" (October 13, 2021)
 Happy Halloween mortals! We are happy to announce the new release of Team Fortress 2: Enhanced! This time it adds 2 new halloween mod. It will be available until the halloween ends on live TF2.
 
 Please note that these mods must be put in high priority! Otherwise there will be issue with conflicts!
 
-#### Additions
+### Additions
 * [Scream Fortress 2 Logo](https://gamebanana.com/mods/325483)
 * [TF2 Dynamic Music Mod - HALLOWEEN SPECIAL](https://gamebanana.com/sounds/56638)
 
-### 4.0 "Blutach Mann" (October 2, 2021)
-#### Additions
+## 4.0 "Blutach Mann" (October 2, 2021)
+### Additions
 * [Better In-Game Voice Chat Icons](https://gamebanana.com/mods/324990)
 * [Unique Rockets](https://gamebanana.com/mods/324446)
 
-### 3.3 "Administrator" (September 18, 2021)
-#### Sound mod changes
+## 3.3 "Administrator" (September 18, 2021)
+### Sound mod changes
 * Domination sound reverted back to MYM Badge Domination/Nemesis/Revenge Sounds
 * Removed ["Better" Default Domination and Revenge](https://gamebanana.com/sounds/54940) due to missing sound
 
-#### Recommended Mod changes
+### Recommended Mod changes
 * Added COOL HUD, replacing e.v.e. HUD kleen edition
 
-### 3.2 "Australium" (September 9, 2021)
-#### Sound Mod changes
+## 3.2 "Australium" (September 9, 2021)
+### Sound Mod changes
 * Added [Simplified vanilla crit and mini crit effects](https://gamebanana.com/mods/12237)
 * Replaced [Intruder alert for intel steal](https://gamebanana.com/sounds/42420) with [Intuder Alert for CTF](https://gamebanana.com/sounds/54423)
 * Removed [Stylized Slanted Crit and Mini-crit Icons](https://gamebanana.com/mods/12255) (Mod trashed, reason is unknown)
 * Removed Voiceless End of Round sound due to conflict
 
-### 3.1 "Anemone" (September 1, 2021)
-#### Sound Mod changes
+## 3.1 "Anemone" (September 1, 2021)
+### Sound Mod changes
 * Added back the [More Musical TF2 Events](https://gamebanana.com/sounds/53978), but this time **it requires Standard Edition, NOT Definitive Edition**
 * Added the [Intruder alert for intel steal](https://gamebanana.com/sounds/42420), replacing the [The Art of War Intel](https://gamebanana.com/sounds/21966), due to having same track with More Musical TF2 Events Standard Edition
 * Removed [Meet the Scout Scattergun](https://gamebanana.com/sounds/55399), [Dynamic KOTH/CP Soundtrack](https://gamebanana.com/sounds/53977) due to not fitting with TF2 atmospheres
 * Removed [Team Fortress 2 Siren](https://gamebanana.com/sounds/48875), due to conflict with More Musical TF2 Events
 
-#### UI Mod changes
+### UI Mod changes
 * Replaced(Or you could say downgraded) [Consistent and Missing Kill Icons](https://gamebanana.com/mods/25953) with [Consistent Kill Icons fixed for Jungle Inferno](https://gamebanana.com/mods/26076) due to missing icon bug for some users
 
-### 3.0.2 "Aloë" (August 26, 2021)
-#### UI Mod changes
+## 3.0.2 "Aloë" (August 26, 2021)
+### UI Mod changes
 * Removed [Absolutely HD Item Icons](https://gamebanana.com/mods/316151), it breaks every hud (Hopefully this change should fix the issue properly)
 
 
-### 3.0.1 "Aloë" (August 26, 2021)
-#### Sound Mod changes
+## 3.0.1 "Aloë" (August 26, 2021)
+### Sound Mod changes
 * Removed [MYM Badge Domination/Nemesis/Revenge Sounds](https://gamebanana.com/sounds/44570) due to conflict (I forgot to consider about that conflict, I apologize)
 
-#### UI Mod changes
+### UI Mod changes
 * Added [Team Fortress 2 Classic Class Portraits](https://gamebanana.com/mods/26067)
 * Added [Main Menu Characters Overhaul](https://gamebanana.com/mods/294786)
 * Added [MLSPro's TF2 Intro Mod](https://gamebanana.com/mods/311302)
 * Removed [Sloofy's Overhauled UI Portraits (SOUP)](https://gamebanana.com/mods/26400) due to conflict with any HUD mods
 
-### 3.0 (August 26, 2021)
-#### Sound Mod changes
+## 3.0 (August 26, 2021)
+### Sound Mod changes
 * Added back the following mods: [Dynamic KOTH/CP Soundtrack](https://gamebanana.com/sounds/53977), [Unused Upgrade Station Queue Music](https://gamebanana.com/sounds/50979), [MVM siren restored](https://gamebanana.com/sounds/48510)
 * Added [Team Fortress 2 Siren](https://gamebanana.com/sounds/48875)
 * Added [Voiceless End of Round Songs](https://gamebanana.com/sounds/30727)
@@ -230,23 +221,23 @@ Please note that these mods must be put in high priority! Otherwise there will b
 * Added ["Better" Default Domination and Revenge](https://gamebanana.com/sounds/54940)
 * Removed [More Musical TF2 Events](https://gamebanana.com/sounds/53978)
 
-#### UI Mod changes
+### UI Mod changes
 * Added [Absolutely HD Item Icons](https://gamebanana.com/mods/316151)
 * Added [Drastically Improved tf_english.txt](https://gamebanana.com/mods/314843)
 * Added [Sloofy's Overhauled UI Portraits (SOUP)](https://gamebanana.com/mods/26400)
 * Added [Source Text Refont [Better Looking Default Text]](https://gamebanana.com/mods/314848) as optional mod
 * Removed [Potassium's Menu Characters Overhaul](https://gamebanana.com/mods/294786) and [Team Fortress 2 Classic Class Portraits](https://gamebanana.com/mods/26067) due to conflict
 
-#### Visual Mod changes
+### Visual Mod changes
 * Added [Icon Based Festives (2021)](https://gamebanana.com/mods/314047)
 
-### 2.0 (July 4, 2021)
+## 2.0 (July 4, 2021)
 Due to conflict issue after update of [More Musical TF2 Events](https://gamebanana.com/sounds/53978), the following mods were removed:
 * [Dynamic KOTH/CP Soundtrack](https://gamebanana.com/sounds/53977)
 * [Intuder Alert for CTF](https://gamebanana.com/sounds/54423)
 * [Unused Upgrade Station Queue Music](https://gamebanana.com/sounds/50979)
 
-### 1.0 (June 26, 2021)
+## 1.0 (June 26, 2021)
 * Added several Kylul's animation mods to the list
 * Added warning related to sv_pure 1 server compatiblity
 * Removed [MVM siren restored](https://gamebanana.com/sounds/48510) due to conflict with recent More Musical TF2 Events update
