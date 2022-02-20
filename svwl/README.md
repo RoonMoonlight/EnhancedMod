@@ -12,13 +12,10 @@ We recommend you to install this modpack on clean state (Without any saves).
 
 ## Release Notes
 ### 2022.01 "Isekai Cat" (February 20, 2022)
-Welcome to first release of Stardew Valley: Wildlife! This version is 2022.01, codenamed "Isekai Cat", named after one of Isekai Cat VTuber '[Ko Yami](https://twitter.com/KoYami2434)'. Thank you for your amazing streams and content during the VTuber activities.
+Welcome to first release of Stardew Valley: Wildlife! This version is 2022.01, codenamed "Isekai Cat", named after one of Isekai Cat VTuber '[Ko Yami](https://twitter.com/KoYami2434)'. Thank you for your amazing streams and content during the VTuber activities!
 
 #### Changelog
 * Initial release.
-
-#### Note
-**Feb 11, 2022 Update: This version is still under testing, use at own risk.** We will notify you on our [Twitter](https://twitter.com/Mysty_Moonlight) when it's ready.
 
 ## List of Mods
 Due to complicated copyright issues, you need to install mods manually from this list of mods.
@@ -60,7 +57,7 @@ Note: You need to register or login into NexusMods account to download the mods!
 * [Overgrown Flowery Cursors](https://www.nexusmods.com/stardewvalley/mods/6132)
 * [Overgrown Flowery Interface](https://www.nexusmods.com/stardewvalley/mods/6166)
 
-### Dependencies
+### Dependencies and Library Mods
 * [Custom Farming Redux](https://www.nexusmods.com/stardewvalley/mods/991)
 * [FuryCore](https://www.nexusmods.com/stardewvalley/mods/10696)
 * [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)
