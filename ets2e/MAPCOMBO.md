@@ -4,8 +4,9 @@ Welcome to Starlight ETS2 Map Combos! We decided to share the map combo that we 
 We carefully cherry-picked map mods carefully to avoid any compatibility issue on future update of ETS2 and their mods.
 
 We offer two following combos:
-* Eurasia Classic Combo
 * Eurasia Combo
+  * Vanilla Edition
+  * Pro Edition
 
 ## Recommended General Mod Orders
 The general mod load orders should be the following:
@@ -26,19 +27,28 @@ The general mod load orders should be the following:
 
 [We recommend you to use this mod collection as a base if you are unsure.](https://steamcommunity.com/sharedfiles/filedetails/?id=2697485771)
 
-## Eurasia Classic
-Formerly known as Vanilla, Eurasia Classic Combo uses EuRoadNet as a base, and expands the map to Eurasia. It keeps vanilla atmosphere while improving the SCS map. Mod order referenced from [this post](https://www.roextended.ro/forum/viewtopic.php?f=15&t=2229). (Thanks to GMC Logistics for the mod order)
+## Recommended Background Map
+Currently we support two mods: BenganJ's Ultimate Map Background Mod and DOWL's Afroeurasia Background mod. Both edition requires their own 'Crash Fix' Patch to avoid crashes when zooming.
+
+* [BenganJ's Ultimate Map Background Mod](https://roextended.ro/forum/viewtopic.php?t=20) is recommended for Vanilla Edition, since this combo uses default SCS map projection. Currently it supports 3 types of background mods: Satellite style, SCS style and Slim SCS style. Please note that this background mod does not support ProMods due to their own map projection. If you are using Pro Edition, use DOWL's mod instead.
+* [DOWL's Afroeurasia Map Background Mod](https://steamcommunity.com/id/OfficialDOWL/myworkshopfiles?browsefilter=myfiles&sortmethod=creationorder&section=items&appid=227300&requiredtags%5B%5D=UI) is recommended for Pro Edition which uses ProMods. However unfortunately it is limited to 'SCS style'(The default map background style for ETS2). This mod can be used on both Vanilla and Pro Edition.
+
+## Eurasia Combo
+### Vanilla Edition
+Formerly known as Eurasia Classic, Vanilla Edition uses EuRoadNet as a base, and expands the map to Eurasia. It keeps vanilla atmosphere while improving the SCS map. Mod order referenced from [this post](https://www.roextended.ro/forum/viewtopic.php?f=15&t=2229).
 
 **Known issue:** Currently EuRoadNet does not support Special Transport DLC. Until they fix the issue related to Special Transport EuRoadNet mod will be marked as optional mod.
 
-This edition features the following map mods: EuRoadNet, RusMap, JRR, Southern Region, The Great Steppe, Road to Asia, ROEXTENDED and AZGE (Optional) and more.
+This edition features the following map mods: EuRoadNet, RusMap, JRR, TREXTENDED, Southern Region, The Great Steppe, Road to Asia, Corfu and Greek Islands, Rhodes, ROEXTENDED and AZGE (Optional) and more.
 
 [Click here to view the combo.](https://docs.google.com/spreadsheets/d/186q8PpAr8JFAk6qQpk3tW2ZCKsmWoeoMyuTiiYckCww/edit?usp=sharing)
 
-## Eurasia
-Eurasia Combo uses ProMods as a base. It has many contents compared with Eurasia Classic. Mod order referenced from [this post](https://terramaps.net/forum/threads/ets2-1-43-recommended-map-combo-by-terramaps.121/). (Thanks to Kobra2112 for the mod order)
+### Pro Edition
+Formerly known as Eurasia, Pro Edition uses ProMods as a base. It has many contents compared with Eurasia Classic. Mod order referenced from [this post](https://terramaps.net/forum/threads/ets2-1-43-recommended-map-combo-by-terramaps.121/). (Thanks to Kobra2112 for the mod order)
 
-This edition features the following map mods: ProMods, ProMods Middle-East Addon, Finnmarks, Iberia Rebuilds, RusMap, JRR, Southern Region, The Great Steppe, Road to Asia, ROEXTENDED and AZGE (Optional) and more.
+This edition features the following map mods: ProMods, ProMods Middle-East Addon, Finnmarks, Iberia Rebuilds, Project Balkans, N.Macedonia Rework, Ireland Map, TREXTENDED, RusMap, JRR, Southern Region, The Great Steppe, Road to Asia, Corfu and Greek Islands, Rhodes, ROEXTENDED and AZGE (Optional) and more.
+
+This mod is no longer main priority as of February 21, 2022.
 
 [Click here to view the combo.](https://docs.google.com/spreadsheets/d/1oUCPbMMTYYUIuVX4yJWSd84EnXRXXIu08rXDvvIfk6w/edit?usp=sharing)
 
