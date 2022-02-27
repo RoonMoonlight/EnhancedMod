@@ -33,6 +33,8 @@ Everything featured on this modpack are configurable via Mod Menu.
 * FPS/CPS/Ping/Potions/Arrows
 * Keystrokes
 * Replay (Removed on recent Lunar Client, but it is now available again)
+* Saturation/Exhaustion Display
+* Schematica
 * Scoreboard
 * Shaders
 * WorldEditCUI
@@ -52,6 +54,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [CraftPresense](https://www.curseforge.com/minecraft/mc-mods/craftpresence) (Fabric releases can be found [here](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/all?filter-game-version=2020709689%3A7499))
 * [Custom FoV](https://www.curseforge.com/minecraft/mc-mods/custom-fov-fabric)
 * [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)
+* [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
 * [Logical Zoom](https://www.curseforge.com/minecraft/mc-mods/logical-zoom)
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 * [ReplayMod](https://www.replaymod.com/)
@@ -63,6 +66,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
 
 ### UI Mod
+* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 * [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
 * [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
 * [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
@@ -76,6 +80,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 ### Legacy-Compatibility Mods
 * [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)
 * [CIT Resewn](https://modrinth.com/mod/cit-resewn)
+* [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic)
 
 ### Library/Dependency Mods
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)

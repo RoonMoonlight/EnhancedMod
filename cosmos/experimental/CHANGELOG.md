@@ -1,4 +1,18 @@
 # Changelog
+## Cosmos 18.2-beta (February 27, 2022)
+Due to upcoming 1.18.2 release on Feb 28, 2022 this might be the last development release of 18.2 release, unless there is serious bug that needs to be addressed.
+
+### Highlights
+* New Saturation/Exhaustion display feature! This allows you to see which food or potion is better when holding any foods or potions.
+* Schematica! It has still lack of features, but it includes many Schematica features for builders.
+* Finally added Colormatic to the modpack
+
+### Mod changes
+#### Additions
+* AppleSkin
+* Colormatic
+* Litematica
+
 ## Cosmos 18.2-2022.02.a (February 19, 2022)
 ### Highlights
 * Added Rich Presense powered by CraftPresense (Can be fully customizable on Mod Menu)

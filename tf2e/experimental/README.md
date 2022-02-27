@@ -26,9 +26,11 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experim
 * [2007-Styled Weapon Pack](https://gamebanana.com/mods/198560)
 * [Altered Jump Trails + Airblast Deflect](https://gamebanana.com/mods/11896)
 * [Altered Short Circuit Effects](https://gamebanana.com/mods/11900)
+* [Altered Fire FX](https://gamebanana.com/mods/289584)
 * [Alternative Skyboxes](https://gamebanana.com/mods/358474)
 * [Animated Computers](https://gamebanana.com/mods/199838)
 * [Beta Blast Door](https://gamebanana.com/mods/199779)
+* [Expensive Explosions](https://gamebanana.com/mods/12454)
 * [Giblet Overhaul (Vanilla Blood)](https://gamebanana.com/mods/205664)
 * [HD Intel Remake](https://gamebanana.com/mods/199381)
 * [Morning Lightwarp](https://gamebanana.com/mods/205354)
@@ -37,6 +39,7 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experim
 * [Reflective Water](https://gamebanana.com/mods/7560)
 * [SFM-like Phong and Normal Maps](https://gamebanana.com/mods/198538)
 * [Slightly Centered Viewmodels - The All-In-One Pack](https://gamebanana.com/mods/205759)
+* [Simple Muzzleflashes V.3](https://gamebanana.com/mods/12584)
 * [Subtle Lens Flares](https://gamebanana.com/mods/11865)
 * [Trees Sway](https://gamebanana.com/mods/36719)
 * [Unique Rockets](https://gamebanana.com/mods/324446)
@@ -55,11 +58,9 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experim
 * [Smissmas Casual Gametype Image Fix](https://gamebanana.com/mods/27036)
 * [The Vanilla Sound Fix Overhaul](https://gamebanana.com/sounds/51208)
 * [Tomislav's True Fire Rate](https://gamebanana.com/sounds/47174)
-* [Ultimate TF2 Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack)
 
 ## MvM Improvement Mods
 * [Enhanced Engineer Robot](https://gamebanana.com/mods/340370)
-* [Heavy MVM Voice Lines Fix](https://gamebanana.com/sounds/59076)
 * [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
 * [Robot animation fixes](https://gamebanana.com/mods/206443)
 * [Sentry Buster fixes](https://gamebanana.com/mods/205386)
@@ -67,18 +68,9 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experim
 
 ## Optional Mods
 * [Color Coded Lethality of Sniper Rifle Charge Meter](https://gamebanana.com/mods/345919)
+* [DemonstrationTF Bloody Hit/Kill Sounds](https://drive.google.com/file/d/1TrAwgYa_wDi5Qab4c_PJe9p5GBbFp3Jd/view)
 * [Quake Crosshairs on TF2](https://gamebanana.com/mods/12535)
-* [Simple Retro Beep Hitsound](https://gamebanana.com/sounds/59256) / [8-Bit Killsound](https://gamebanana.com/sounds/31498)
 * [Smissmas Background in Color](https://gamebanana.com/mods/25229)
-
-### [Optional Addon] Effect+
-This is intended for people who have high PC performance. If your game crashes, try removing these mods.
-
-These mods were supposed to be included on TF2: Enhanced 6, however it was removed on future update due to performance issue while these mods are active, instead seperated to be addon instead.
-* [Altered Bullet Impacts](https://gamebanana.com/mods/12384)
-* [Altered Explosions & Building FX](https://gamebanana.com/mods/12457)
-* [Altered Fire FX](https://gamebanana.com/mods/289584)
-* [Altered Projectile Trails](https://gamebanana.com/mods/12420)
 
 # Note
 * This modpack will NOT work on sv_pure 1/2 servers. [Lite version](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/LITE.md) is available for users who play on Valve/sv_pure 1 servers.
