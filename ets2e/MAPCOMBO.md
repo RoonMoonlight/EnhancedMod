@@ -1,3 +1,6 @@
+# Notice
+Any issues requesting South Korea Map will be closed and locked immediately without any warning. For more info [see here](https://github.com/MysticMoonlight/EnhancedMod/issues/6).
+
 # Starlight ETS2 Map Combos
 Welcome to Starlight ETS2 Map Combos! We decided to share the map combo that we use.
 

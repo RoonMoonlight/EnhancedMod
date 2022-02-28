@@ -10,7 +10,6 @@ This repository is the compiliation of modpacks we made, so you can find them ea
    * [Half-Life 2: Re;Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2re/README.md)
 * [Team Fortress 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/README.md)
    * [Team Fortress 2: Enhanced Lite](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/LITE.md)
-   * [Team Fortress 2: Enhanced Experimental](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experimental/README.md)
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2603092378)
 * [Obsidian Conflict: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/oce/README.md)
 * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2539528962)
@@ -19,8 +18,17 @@ This repository is the compiliation of modpacks we made, so you can find them ea
 * [Terraria: Starshifters](https://github.com/MysticMoonlight/Starshifters) (On Hold)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/README.md) 
-   * [Minecraft: Cosmos (Experimental Branch)](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/experimental/README.md) 
 * [Left 4 Dead 2: Revengeance Reborn](https://github.com/RevReborn/RevReborn)
+
+## Experimental Branch
+Warning: This branch is not very stable and unexpected bugs and crashes may occur. It is recommended for testing purposes only!
+
+* [Team Fortress 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experimental/README.md)
+* [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2701486568)
+* [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697485771)
+* [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697795824)
+* [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/experimental/README.md)
+* [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/experimental/README.md) 
 
 # List of Other Modpacks
 These mod collections are not the part of the Enhanced Mod Series.

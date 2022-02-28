@@ -2,7 +2,7 @@
 
 > **"Welcome to wild life... Which lively nature surrounds you."**
 
-# Stardew Valley: Wildlife
+## Description
 Stardew Valley: Wildlife is 11th EnhancedMod Series, aiming to improve and expand original Stardew Valley while not changing gameplay too much.
 
 ## Installation
@@ -11,20 +11,11 @@ This modpack requires [SMAPI](https://smapi.io/) to install this modpack. More i
 We recommend you to install this modpack on clean state (Without any saves).
 
 ## Release Notes
-[Click here to see release notes.](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/CHANGELOG.md)
+### 2022.01 "Isekai Cat" (February 20, 2022)
+Welcome to first release of Stardew Valley: Wildlife! This version is 2022.01, codenamed "Isekai Cat".
 
-## Frequently Asked Questions (A.K.A FAQ)
-Please read the FAQ below before making an issue.
-
-### Will there be Mobile/Console support?
-Console is obviously no, as they does not support modding.
-Mobile has lack of features compared with PC version, so it will less likely be supported.
-
-### Why you didn't add huge mod like Stardew Valley: Expanded? I would like to see them!
-Remember, this is independent and community made project and it is NOT intended to support other big mods.
-The most reason why we are not adding mods like SVE is because of NPC support and gameplay changes that we cannot afford.
-
-The [Fisharia anime portraits](https://www.nexusmods.com/stardewvalley/mods/10442) mod was made by [Karei](https://twitter.com/flat_fish_) and it currently only supports the main NPCs included on base game, and that means the artstyles will be totally ruined for new NPC additions. Unless Karei decide to support big mod like SVE, this is unlikely be added to our modpack and will be the independent modpack instead.
+#### Changelog
+* Initial release.
 
 ## List of Mods
 Due to complicated copyright issues, you need to install mods manually from this list of mods.
