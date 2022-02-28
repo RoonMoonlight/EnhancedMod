@@ -57,7 +57,7 @@ Note: You need to register or login into NexusMods account to download the mods!
 
 ### Visual Mods
 * [Ambient Light](https://www.nexusmods.com/stardewvalley/mods/4639)
-* [Matching Nodes](https://gamebanana.com/mods/12454)
+* [Matching Nodes](https://www.nexusmods.com/stardewvalley/mods/11124)
 * [Real Weather](https://www.nexusmods.com/stardewvalley/mods/5773/)
 * [Vanilla Tweaks](https://www.nexusmods.com/stardewvalley/mods/10852)
 
