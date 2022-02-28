@@ -26,6 +26,8 @@ Mobile has lack of features compared with PC version, so it will less likely be 
 Remember, this is independent and community made project and it is NOT intended to support other big mods.
 The most reason why we are not adding mods like SVE is because of NPC support and gameplay changes that we cannot afford.
 
+The [Fisharia anime portraits](https://www.nexusmods.com/stardewvalley/mods/10442) mod was made by [Karei](https://twitter.com/flat_fish_) and it currently only supports the main NPCs included on base game, and that means the artstyles will be totally ruined for new NPC additions. Unless Karei decide to support big mod like SVE, this is unlikely be added to our modpack and will be the independent modpack instead.
+
 ## List of Mods
 Due to complicated copyright issues, you need to install mods manually from this list of mods.
 
