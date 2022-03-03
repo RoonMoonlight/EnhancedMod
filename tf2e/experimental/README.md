@@ -24,9 +24,10 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experim
 
 ## Visual Mods
 * [2007-Styled Weapon Pack](https://gamebanana.com/mods/198560)
+* [Altered Fire FX](https://gamebanana.com/mods/289584)
 * [Altered Jump Trails + Airblast Deflect](https://gamebanana.com/mods/11896)
 * [Altered Short Circuit Effects](https://gamebanana.com/mods/11900)
-* [Altered Fire FX](https://gamebanana.com/mods/289584)
+* [Altered Projectile Trails](https://gamebanana.com/mods/12420)
 * [Alternative Skyboxes](https://gamebanana.com/mods/358474)
 * [Animated Computers](https://gamebanana.com/mods/199838)
 * [Beta Blast Door](https://gamebanana.com/mods/199779)
