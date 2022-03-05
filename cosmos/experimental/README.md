@@ -89,5 +89,5 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib/files/all?filter-game-version=2020709689%3A7499)
 
 ### Note
-* Recommended resource pack and shader pack are: [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true), [BSL Shaders](https://bitslablab.com/bslshaders/).
+* Recommended resource pack and shader pack are: [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true), [New Default+](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus) and [BSL Shaders](https://bitslablab.com/bslshaders/). (If you are using both resource pack place Stay True on top, New Default+ to the bottom on Resource Pack List)
 
