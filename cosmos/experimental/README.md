@@ -46,6 +46,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 ## Mod List
 ### Optimization
 * [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
+* [Indium](https://www.modrinth.com/mod/indium/)
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
 * [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight)
 * [Sodium](https://modrinth.com/mod/sodium)
