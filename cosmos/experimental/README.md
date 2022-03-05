@@ -66,7 +66,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
 
 ### UI Mod
-* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (Fabric releases can be found [here](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/all?filter-game-version=2020709689%3A7499))
 * [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
 * [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
 * [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
