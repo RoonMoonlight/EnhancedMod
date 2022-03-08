@@ -55,7 +55,6 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experim
 * [Improved tr_target](https://gamebanana.com/mods/74748) ([Unofficial fix](https://github.com/RoonMoonlight/Improved-tr_target-UnofficialFix/releases/latest) available)
 * [mastercomfig](https://mastercomfig.com)
 * [Mat_Picmip -10 Texture Fix Pack](https://gamebanana.com/mods/198036)
-* [Original Reload Sound Fix](https://gamebanana.com/sounds/44136)
 * [Smissmas Casual Gametype Image Fix](https://gamebanana.com/mods/27036)
 * [The Vanilla Sound Fix Overhaul](https://gamebanana.com/sounds/51208)
 * [Tomislav's True Fire Rate](https://gamebanana.com/sounds/47174)
