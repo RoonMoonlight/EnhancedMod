@@ -15,7 +15,6 @@ This repository is the compiliation of modpacks we made, so you can find them ea
 * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2539528962)
    * [Starlight ETS2 Map Combo](https://github.com/MysticMoonlight/EnhancedMod/blob/main/ets2e/MAPCOMBO.md)
 * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2662863110)
-* [Terraria: Starshifters](https://github.com/MysticMoonlight/Starshifters) (On Hold)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/README.md) 
 * [Left 4 Dead 2: Revengeance Reborn](https://github.com/RevReborn/RevReborn)
@@ -33,7 +32,6 @@ Warning: This branch is not very stable and unexpected bugs and crashes may occu
 # List of Other Modpacks
 These mod collections are not the part of the Enhanced Mod Series.
 
-* [Starshifters Classic](https://github.com/MysticMoonlight/StarshiftersClassic)
 * [EndlessMod](https://github.com/MysticMoonlight/EndlessMod)
 
 # List of obsolete Modpacks
@@ -41,7 +39,9 @@ These modpacks no longer receives support anymore by Mystic Moonlight. Press `F`
 
 * [PAYDAY 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/p2e/README.md)
 * [Death Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2319991144)
-
+* [Terraria: Starshifters](https://github.com/MysticMoonlight/Starshifters)
+   * [Starshifters Classic](https://github.com/MysticMoonlight/StarshiftersClassic)
+   
 # Our Standards
 [Read more here.](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md)
 
