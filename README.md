@@ -32,7 +32,7 @@ Warning: This branch is not very stable and unexpected bugs and crashes may occu
 # List of Other Modpacks
 These mod collections are not the part of the Enhanced Mod Series.
 
-* [EndlessMod](https://github.com/MysticMoonlight/EndlessMod)
+* [PAYDAY 2: Heist of Frenzy](https://github.com/MysticMoonlight/PAYDAY2-HF)
 
 # List of obsolete Modpacks
 These modpacks no longer receives support anymore by Mystic Moonlight. Press `F` to pay respect to these modpack.
@@ -41,6 +41,7 @@ These modpacks no longer receives support anymore by Mystic Moonlight. Press `F`
 * [Death Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2319991144)
 * [Terraria: Starshifters](https://github.com/MysticMoonlight/Starshifters)
    * [Starshifters Classic](https://github.com/MysticMoonlight/StarshiftersClassic)
+* [EndlessMod](https://github.com/MysticMoonlight/EndlessMod)
    
 # Our Standards
 [Read more here.](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md)
