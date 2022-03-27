@@ -1,5 +1,5 @@
 # Changelog
-## Team Fortress 2: Enhanced 8.0-2022.12a "Rainbow Monoculus" (Mar 24, 2022)
+## Team Fortress 2: Enhanced 8.0-2022.13a "Rainbow Monoculus" (Mar 27, 2022)
 Howdy! Due to Roon caught a COVID-19 and recovering from COVID-19, the experimental release of TF2: Enhanced had to be cancelled for several weeks. But no worries! We are now back.
 
 This update includes some style changes to be more cartoon-ish style: On 2007 Beta version of Team Fortress 2, the muzzleflash effect was more cartoonish, however the particle has been replaced on retail version to be realistic one. This update reverts back to old style: which was intended to be more cartoonish styles.
