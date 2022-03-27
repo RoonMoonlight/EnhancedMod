@@ -1,4 +1,30 @@
 # Changelog
+## Team Fortress 2: Enhanced 8.0-2022.12a "Rainbow Monoculus" (Mar 24, 2022)
+Howdy! Due to Roon caught a COVID-19 and recovering from COVID-19, the experimental release of TF2: Enhanced had to be cancelled for several weeks. But no worries! We are now back.
+
+This update includes some style changes to be more cartoon-ish style: On 2007 Beta version of Team Fortress 2, the muzzleflash effect was more cartoonish, however the particle has been replaced on retail version to be realistic one. This update reverts back to old style: which was intended to be more cartoonish styles.
+
+### Highlight
+* New Quickplay Styled Gamemode Portraits has been arrived for more cartoonish feelings
+* Replaced all particle effect mods with Chaofanatic's Toon particle mods
+* Merged Fixes/Improvement Mod and MvM Improvements type to Sounds or Visual mods category
+
+### Mod list changes
+#### Additions
+* [Quickplay Styled Gamemode Portraits 2022 Edition](https://gamebanana.com/mods/366394)
+* [Toon Explosion FX](https://gamebanana.com/mods/12446)
+* [Toon Muzzle Flashes](https://gamebanana.com/mods/12592)
+* [Toon Righteous Bison FX](https://gamebanana.com/mods/11852)
+* [Toon Rocket Trails](https://gamebanana.com/mods/12410)
+
+#### Removal
+* [Altered Projectile Trails](https://gamebanana.com/mods/12420)
+* [Expensive Explosions](https://gamebanana.com/mods/12454)
+* [Simple Muzzleflashes V.3](https://gamebanana.com/mods/12584)
+
+#### Replacement
+* [Giblet Overhaul (Vanilla Blood)](https://gamebanana.com/mods/205664) -> [Giblet Overhaul (TF2C Blood)](https://gamebanana.com/mods/288308)
+
 ## Team Fortress 2: Enhanced 8.0-2022.09.a "Monochrome Witch" (Feb 27, 2022)
 Due to recent real-life events, 2022.08.a had to be cancelled.
 
