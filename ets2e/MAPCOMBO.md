@@ -10,6 +10,7 @@ We offer two following combos:
 * Eurasia Combo
   * Vanilla Edition
   * Pro Edition
+    * Pro Edition (Next Gen Preview)
 
 ## Recommended General Mod Orders
 The general mod load orders should be the following:
@@ -51,9 +52,43 @@ Formerly known as Eurasia, Pro Edition uses ProMods as a base. It has many conte
 
 This edition features the following map mods: ProMods, ProMods Middle-East Addon, Finnmarks, Iberia Rebuilds, Project Balkans, N.Macedonia Rework, Ireland Map, TREXTENDED, RusMap, JRR, Southern Region, The Great Steppe, Road to Asia, Corfu and Greek Islands, Rhodes, ROEXTENDED and AZGE (Optional) and more.
 
-This mod is no longer main priority as of February 21, 2022.
-
 [Click here to view the combo.](https://docs.google.com/spreadsheets/d/1oUCPbMMTYYUIuVX4yJWSd84EnXRXXIu08rXDvvIfk6w/edit?usp=sharing)
+
+### Pro Edition (Next Gen Preview)
+> **News: An Update to Starlight ETS2 Eurasia Combo: Pro Edition (Long Announcement)**
+> Hey fellow truckers! How are you doing?
+> 
+> Do you remember that we are no longer shifting focus into Pro Edition, which is based on ProMods? 
+> 
+> Originally we made decision to move focus to Vanilla Edition, because of following reasons:
+> 1. ProMods does not use same SCS map projection and uses their own map projection, which has been criticism between BenganJ and ProMods team (More information can be found [here](https://roextended.ro/forum/viewtopic.php?p=18491#p18491))
+> 
+> 2. ProMods has been criticized from several map creators for invading their territories by adding a place that does already exists, and this is still happening. As a response Arayas and Sergey made a statement that they won't be providing Road Connection for ProMods anymore, but that problem was resolved as both Arayas and Sergey made decision to bring back road connection once again. (Arayas' response about their behavior can be read [here](https://www.roextended.ro/forum/viewtopic.php?f=16&t=2015&start=450#p48472))
+> 
+> After long thinking about the decision we made before, we decided to consider ProMods as standalone mod. As a result, we will keep continue making improvement (Like we did on Vanilla Edition), but the Pro Edition will be restructured (Codenamed 'Next Gen Preview')on upcoming ETS2 1.44 release. 
+> 
+> You may experience following changes in the future:
+> * ROEX will completely be removed from map list. Also RusMap will be deprecated someday if ProMods makes changes to Russia and Belarus once again (Until the RusMap is considered to be obsolete)
+> * Southern Region map will be removed alongside with RusMap, as RusMap would be necessary.
+> * This map combo will be considered independent - no more SCS things EXCEPT possible expansions that is compatible with ProMods but NOT RusMap/ROEX and their addon map mods
+> * About the missing content, TRExtended will remain to make up for ROEX mod's absense but will be removed if ProMods team completes whole Turkey area.
+> 
+> Another problem is the Heart of Russia DLC release. SCS Software officially [announced](https://www.vortex.cz/exkluzivne-heart-of-russia-pro-euro-truck-simulator-2-ted-nevyjde/) through Czech press that Heart of Russia will be delayed until ongoing war(Russia and Ukraine war) ends, so this plan can be changed at anytime (We will let you know when that happens)
+>
+> Happy Trucking!
+>----
+> Original announcement on [Mystic Moonlight Discord](https://discord.gg/WbXhYQkkzw)
+
+This is another testing version of Pro Edition, which will be completely restructured on upcoming 1.44 release.
+
+Using the fresh profile is recommnended due to major changes to the map.
+
+Everything is explained on above announcement quotes, so there will be no more further explanations this time.
+
+Please note that the content is still work-in-progress: maps included on the list can be changed at any time.
+
+[Click here to view the combo.](https://docs.google.com/spreadsheets/d/1hWOWEoV38ZEiT8Oeef0FIxGqs9Uz8CtxS9tQdG3inC4)
+
 
 ## End of Support
 These map combos are no longer being supported by Mystic Moonlight and won't receive any updates in the future.
