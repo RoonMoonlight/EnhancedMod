@@ -1,4 +1,7 @@
 # Changelog
+## Team Fortress 2: Enhanced 8.0-2022.13b "April Fools Ghostie" (April 1, 2022)
+Uh oh! Seems [one of ghost from virtual world](https://twitter.com/MikaMelatika) has corrupted your voice files! Unfortunately this means all voicelines from TF2 (except Administrator) will have to be reversed until 1~2 weeks. Happy April Fools day!
+
 ## Team Fortress 2: Enhanced 8.0-2022.13a "Rainbow Monoculus" (Mar 27, 2022)
 Howdy! Due to Roon caught a COVID-19 and recovering from COVID-19, the experimental release of TF2: Enhanced had to be cancelled for several weeks. But no worries! We are now back.
 
