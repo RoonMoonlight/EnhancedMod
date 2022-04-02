@@ -64,7 +64,13 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 ### Visual Mod
 * [Clear Hitboxes](https://www.curseforge.com/minecraft/mc-mods/clear-hitboxes)
 * [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)
+* [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)
 * [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
+
+### Sound Mod
+* [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
+* [Presense Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps)
+* [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
 
 ### UI Mod
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (Fabric releases can be found [here](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/all?filter-game-version=2020709689%3A7499))

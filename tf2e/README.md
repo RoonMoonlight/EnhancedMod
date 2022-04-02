@@ -13,7 +13,7 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGEL
 3. Launch the game, enjoy the modpack!
 
 # List of Mods
-## April Fools Special Mod
+## April Fools Special Mod (Now Optional)
 * [Reversed Voicelines](https://www.dropbox.com/s/ib5txhihv4g71bu/Reversed%20Voicelines.vpk?dl=0)
 
 ## UI Mods
