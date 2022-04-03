@@ -49,7 +49,6 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/infinit
 * [HL2 Remake. Barrels](https://gamebanana.com/mods/182561)
 * [HEV Remastered](https://gamebanana.com/mods/182098)
 * [Hunter Chopper Remake](https://gamebanana.com/mods/183090)
-* [HL2 Lense Flare V2](https://gamebanana.com/mods/11382)
 * [Improved Gunship V2](https://gamebanana.com/mods/183101)
 * [Improved HL2 Advisor](https://gamebanana.com/mods/344166)
 * [Improved Hopper Mine Indicator](https://gamebanana.com/mods/182458)
