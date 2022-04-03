@@ -11,7 +11,7 @@ Project Infinity is yet another remake project of old project, Half-Life 2: Enha
 Other mods hasn't been tested, such as MMOD and more.
 
 # Changelog
-See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/infinity/CHANGELOG.md).
+See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/infinity/CHANGELOG.md).
 
 # How to Install
 1. Extract the archive file you downloaded (It should be `.zip`, `.rar`, or `.7z`)
