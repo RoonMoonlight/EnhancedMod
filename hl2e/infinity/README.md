@@ -36,7 +36,6 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/infinit
 * [Half Life 2 Weapons Fix Pack](https://www.moddb.com/games/half-life-2/addons/half-life-2-weapons-fix-pack)
 * [HD Ammo Crates](https://gamebanana.com/mods/182723)
 * [HD Explosion Decals](https://gamebanana.com/mods/11355)
-* [HL2 Lense Flare V2](https://gamebanana.com/mods/11382)
 * [HD Original face maps](https://gamebanana.com/mods/352271)
 * [HD Remake .357 Ammo Box](https://gamebanana.com/mods/182759)
 * [HD Remake Combine's Lock](https://gamebanana.com/mods/183151)
