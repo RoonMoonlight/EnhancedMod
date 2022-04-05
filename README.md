@@ -1,3 +1,8 @@
+# Notice
+Codename Utopia Preview for SDV:W is now available for testing! More info can be found [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/utopia/README.md).
+
+Half-Life 2: Enhanced now have own experimental branch! More info can be found [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/experimental/README.md).
+
 # Enhanced Mod Series
 Enhanced Mod Series are the collection of modpacks developed by Mystic Moonlight.
 
@@ -22,11 +27,12 @@ This repository is the compiliation of modpacks we made, so you can find them ea
 ## Experimental Branch
 Warning: This branch is not very stable and unexpected bugs and crashes may occur. It is recommended for testing purposes only!
 
+* [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/experimental/README.md)
 * [Team Fortress 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experimental/README.md)
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2701486568)
 * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697485771)
 * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697795824)
-* [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/experimental/README.md)
+* [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/experimental/README.md) ([Codename Utopia Preview](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/utopia/README.md) is now available)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/experimental/README.md) 
 
 # List of Other Modpacks
