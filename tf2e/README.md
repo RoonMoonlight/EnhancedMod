@@ -47,7 +47,7 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGEL
 
 ## Fixes and Optimization Mods
 * [Fixed Brass Beast Wind-Up Sound](https://gamebanana.com/sounds/44288)
-* [Improved tr_target](https://gamebanana.com/mods/74748) ([Unofficial fix](https://github.com/RoonMoonlight/Improved-tr_target-UnofficialFix/releases/latest) available)
+* [Improved tr_target](https://gamebanana.com/mods/74748) ([Unofficial fix](https://github.com/MysticMoonlight/Improved-tr_target-UnofficialFix/releases/latest) available)
 * [mastercomfig](https://mastercomfig.com)
 * [Mat_Picmip -10 Texture Fix Pack](https://gamebanana.com/mods/198036)
 * [Original Reload Sound Fix](https://gamebanana.com/sounds/44136)

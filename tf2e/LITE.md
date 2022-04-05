@@ -29,7 +29,7 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGEL
 * [Team Fortress 2 Soundtrack During Gameplay Mod](https://gamebanana.com/mods/36634)
 
 ## Fixes and Optimization Mods
-* [Improved tr_target](https://gamebanana.com/mods/74748) ([Unofficial fix](https://github.com/RoonMoonlight/Improved-tr_target-UnofficialFix/releases/latest) available)
+* [Improved tr_target](https://gamebanana.com/mods/74748) ([Unofficial fix](https://github.com/MysticMoonlight/Improved-tr_target-UnofficialFix/releases/latest) available)
 * [mastercomfig](https://mastercomfig.com)
 * [Smissmas Casual Gametype Image Fix](https://gamebanana.com/mods/27036)
 

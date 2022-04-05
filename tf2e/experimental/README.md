@@ -65,7 +65,7 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experim
 * [Unused MvM Sounds](https://gamebanana.com/sounds/41860)
 
 ## Other Mods
-* [Improved tr_target](https://gamebanana.com/mods/74748) ([Unofficial fix](https://github.com/RoonMoonlight/Improved-tr_target-UnofficialFix/releases/latest) available)
+* [Improved tr_target](https://gamebanana.com/mods/74748) ([Unofficial fix](https://github.com/MysticMoonlight/Improved-tr_target-UnofficialFix/releases/latest) available)
 * [mastercomfig](https://mastercomfig.com)
 
 ## MvM Improvement Mods
