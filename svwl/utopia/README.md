@@ -74,33 +74,33 @@ Note: You need to register or login into NexusMods account to download the mods!
 # Frequently Asked Questions (FAQ)
 Please read the FAQ below before making an issue.
 
-**Q)** Where did the other features go?
+**Q) Where did the other features go?**
 
 **A)** Most of features has been removed in favor of keeping original gameplay.
 
 
-**Q)** What will happen to old version?
+**Q) What will happen to old version?**
 
 **A)** The old version will be renamed to 'Stardew Valley: Wildlife Legacy Edition' and no support will be given for this version.
 
 
-**Q)** Why you had to change the direction of project?
+**Q) Why you had to change the direction of project?**
 
 **A)** After thinking about current version of SDV:W, the current one does not follow the original gameplay and it changes the gameplay too much and additionally, bloats. Also the artstyle(including UI) is way too different, and someone might dislike the changes. So we decided to shift direction to keep the artstyle to vanilla but expanding with slight gameplay additions and improvements.
 
 
-**Q)** What has been changed?
+**Q) What has been changed?**
 
 **A)** There is too much to explain... But to keep it short, it is mostly focused on UI/Portrait changes, and new Date system, and some changes to the feature. This branch aims to simplify the list of mods by keeping things original with slight.
 
 
-**Q)** Will there be Mobile/Console support?
+**Q) Will there be Mobile/Console support?**
 
 **A)** Console is obviously no, as they does not support modding.
 Mobile has lack of features compared with PC version, so it will less likely be supported.
 
 
-**Q)** Why you didn't add huge mod like Stardew Valley: Expanded? I would like to see them!
+**Q) Why you didn't add huge mod like Stardew Valley: Expanded? I would like to see them!**
 
 **A)** Remember, this is independent and community made project and it is NOT intended to support other big mods.
 The most reason why we are not adding mods like SVE is because of new NPC additions and gameplay changes that we cannot afford.
