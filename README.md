@@ -1,7 +1,7 @@
 # Notice
-Codename Utopia Preview for SDV:W is now available for testing! More info can be found [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/utopia/README.md).
+New minor additions has been made to Codename Utopia Preview branch! More info can be found [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/utopia/README.md).
 
-Half-Life 2: Enhanced now have own experimental branch! More info can be found [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/infinite/README.md).
+Left 4 Dead 2: Revengeance Reborn is now available to all users for testing! More information can be found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551).
 
 # Enhanced Mod Series
 Enhanced Mod Series are the collection of modpacks developed by Mystic Moonlight.
@@ -22,7 +22,7 @@ This repository is the compiliation of modpacks we made, so you can find them ea
 * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2662863110)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/README.md) 
-* [Left 4 Dead 2: Revengeance Reborn](https://github.com/RevReborn/RevReborn)
+* [Left 4 Dead 2: Revengeance Reborn (Public Experimental Release)](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551)
 
 ## Experimental Branch
 Warning: This branch is not very stable and unexpected bugs and crashes may occur. It is recommended for testing purposes only!

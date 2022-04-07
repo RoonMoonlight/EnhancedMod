@@ -35,6 +35,7 @@ Note: You need to register or login into NexusMods account to download the mods!
 * [(FS) SH's More Accessories and Stuff](https://www.nexusmods.com/stardewvalley/mods/10659)
 * [FS Wabi's Wardrobe](https://www.nexusmods.com/stardewvalley/mods/11113)
 * [Make Your Bed](https://www.nexusmods.com/stardewvalley/mods/5368)
+* [Shardust's Animated Hairstyles for Fashion Sense](https://www.nexusmods.com/stardewvalley/mods/10294)
 * [Shardust's Hairstyles](https://www.nexusmods.com/stardewvalley/mods/8138) (USE CP version)
 
 ## Improvement Mods
