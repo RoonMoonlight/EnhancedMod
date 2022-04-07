@@ -1,5 +1,5 @@
 # Changelog
-## 5.1-2022.14b "Codename Utopia Preview" (April 6, 2022)
+## 5.1-2022.14b "Codename Utopia Preview" (April 7, 2022)
 Small update that adds new hairstyle for people like Roon who wrongly chose the hair. Now animated!
 
 ### Highlights
