@@ -1,12 +1,4 @@
 # Changelog
-## Team Fortress 2: Enhanced 7.2c "System Destruction" (April 2, 2022)
-Good news everyone! Now we have a temporary solution for this corrupted voice file issue; that means now Reversed voice are now optional, for people who do not want reversed voice and want default voice. This is possible because it now downloads the voice files online ;)
-
-We are still working hard to fix this corrupted voice files, so please be patient! Thank you.
-
-## Team Fortress 2: Enhanced 7.2b "April Fools Ghostie" (April 1, 2022)
-Uh oh! Seems [one of ghost from virtual world](https://twitter.com/MikaMelatika) has corrupted your voice files! Unfortunately this means all voicelines from TF2 (except Administrator) will have to be reversed until 1~2 weeks. Happy April Fools day!
-
 ## Team Fortress 2: Enhanced 7.2 "Sweet Frostland" (Feb 17, 2022)
 Welcome to second minor update of version 7 series! Nothing was changed on this update, but to announce the major changes of HUD on TF2: Enhanced, powered by Sloofy's SOUP mod.
 

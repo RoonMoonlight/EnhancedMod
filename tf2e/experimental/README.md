@@ -15,9 +15,6 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experim
 3. Launch the game, enjoy the modpack!
 
 # List of Mods
-## April Fools Special Mod (Now Optional)
-* [Reversed Voicelines](https://www.dropbox.com/s/ib5txhihv4g71bu/Reversed%20Voicelines.vpk?dl=0)
-
 ## UI Mods
 * [Alternate Class Portraits (Full Version)](https://gamebanana.com/mods/26024)
 * [HD TF2 Menu Logo](https://gamebanana.com/mods/27061)
@@ -34,23 +31,26 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experim
 * [Alternative Skyboxes](https://gamebanana.com/mods/358474)
 * [Animated Computers](https://gamebanana.com/mods/199838)
 * [Beta Blast Door](https://gamebanana.com/mods/199779)
+* [Bloodiest Fortress 2](https://gamebanana.com/mods/367935)
 * [Enhanced Engineer Robot](https://gamebanana.com/mods/340370)
+* [Enhanced Explosions (V1.2)](https://gamebanana.com/mods/12442)
 * [Giblet Overhaul (TF2C Blood)](https://gamebanana.com/mods/288308)
 * [HD Intel Remake](https://gamebanana.com/mods/199381)
+* [Improved Muzzleflashes](https://gamebanana.com/mods/12593)
 * [Mat_Picmip -10 Texture Fix Pack](https://gamebanana.com/mods/198036)
 * [Morning Lightwarp](https://gamebanana.com/mods/205354)
-* [New Invulnerability & Shield FX](https://gamebanana.com/mods/197827) (You must install `New Shield FX ONLY.vpk`)
+* [New Invulnerability & Shield FX](https://gamebanana.com/mods/197827) (Install `New Shield FX ONLY.vpk` only otherwise it will conflict with other mods!)
 * [Non-Overlapping "Meet The Team" Blood](https://gamebanana.com/mods/12372)
 * [Reflective Water](https://gamebanana.com/mods/7560)
 * [Robot animation fixes](https://gamebanana.com/mods/206443)
 * [Sentry Buster fixes](https://gamebanana.com/mods/205386)
 * [SFM-like Phong and Normal Maps](https://gamebanana.com/mods/198538)
 * [Slightly Centered Viewmodels - The All-In-One Pack](https://gamebanana.com/mods/205759)
+* [Stylized Cow Mangler Effects Redux](https://gamebanana.com/mods/12388)
+* [Stylized Projectile Effects Redux](https://gamebanana.com/mods/11719)
+* [Stylized Righteous Bison Effects](https://gamebanana.com/mods/11720)
+* [Stylized Rockettrails Redux](https://gamebanana.com/mods/12387)
 * [Subtle Lens Flares](https://gamebanana.com/mods/11865)
-* [Toon Explosion FX](https://gamebanana.com/mods/12446)
-* [Toon Muzzle Flashes](https://gamebanana.com/mods/12592)
-* [Toon Righteous Bison FX](https://gamebanana.com/mods/11852)
-* [Toon Rocket Trails](https://gamebanana.com/mods/12410)
 * [Trees Sway](https://gamebanana.com/mods/36719)
 * [Unique Rockets](https://gamebanana.com/mods/324446)
 

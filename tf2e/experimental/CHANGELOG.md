@@ -1,11 +1,27 @@
 # Changelog
-## Team Fortress 2: Enhanced 8.0-2022.13c "System Destruction" (April 2, 2022)
-Good news everyone! Now we have a temporary solution for this corrupted voice file issue; that means now Reversed voice are now optional, for people who do not want reversed voice and want default voice. This is possible because it now downloads the voice files online ;)
+## Team Fortress 2: Enhanced 8.0-2022.14a "Cross Land" (April 2, 2022)
+This might probably the last development release due to upcoming exam happening soon. We will be back with great major update once the exams are all over! After test ends, 8.0 might release, so stay tuned!
 
-We are still working hard to fix this corrupted voice files, so please be patient! Thank you.
+### Highlight
+* Removed all Toon effects due to consistency issue and usage of other materials from Bandai Namco, Sora, etc.
+* New effects replacing all Toon effects for better consistency (Some of particles may not work, please report any issues if there is any bug related to particles)
+* New gore effect inspired from Open Fortress!
 
-## Team Fortress 2: Enhanced 8.0-2022.13b "April Fools Ghostie" (April 1, 2022)
-Uh oh! Seems [one of ghost from virtual world](https://twitter.com/MikaMelatika) has corrupted your voice files! Unfortunately this means all voicelines from TF2 (except Administrator) will have to be reversed until 1~2 weeks. Happy April Fools day!
+### Mod list changes
+#### Additions
+* [Bloodiest Fortress 2](https://gamebanana.com/mods/367935)
+* [Enhanced Explosions (V1.2)](https://gamebanana.com/mods/12442)
+* [Improved Muzzleflashes](https://gamebanana.com/mods/12593)
+* [Stylized Cow Mangler Effects Redux](https://gamebanana.com/mods/12388)
+* [Stylized Projectile Effects Redux](https://gamebanana.com/mods/11719)
+* [Stylized Righteous Bison Effects](https://gamebanana.com/mods/11720)
+* [Stylized Rockettrails Redux](https://gamebanana.com/mods/12387)
+
+#### Removal
+* [Toon Explosion FX](https://gamebanana.com/mods/12446)
+* [Toon Muzzle Flashes](https://gamebanana.com/mods/12592)
+* [Toon Righteous Bison FX](https://gamebanana.com/mods/11852)
+* [Toon Rocket Trails](https://gamebanana.com/mods/12410)
 
 ## Team Fortress 2: Enhanced 8.0-2022.13a "Rainbow Monoculus" (Mar 27, 2022)
 Howdy! Due to Roon caught a COVID-19 and recovering from COVID-19, the experimental release of TF2: Enhanced had to be cancelled for several weeks. But no worries! We are now back.
