@@ -65,6 +65,6 @@ All text assets(This includes all markdown files) are licensed under [Creative C
 
 # Special thanks to
 * [Selen Tatsuki](https://twitter.com/Selen_Tatsuki) for [motivation about the direction of project](https://twitter.com/Selen_Tatsuki/status/1453444303968038913)
-* Valve, Crowbar Collective, SCS Software, Turtle Rock Studio, Re-Logic, ConcernedApe, Mojang Studios for creating amazing games
+* Valve Corporation, Crowbar Collective, SCS Software, Turtle Rock Studio, Re-Logic, ConcernedApe, Mojang Studios, Wargaming, Lesta Studio for creating amazing games
 * All mod developers who participated on your work
 * And you!
