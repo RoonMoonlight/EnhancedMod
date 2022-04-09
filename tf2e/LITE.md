@@ -1,3 +1,6 @@
+# Notice
+**Important Notice! mastercomfig users now requires additional workaround for breaking changes.** More info can be found [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/NOTICE.md).
+
 # Team Fortress 2: Enhanced Lite
 Team Fortress 2: Enhanced is the modpack focused on improving overall visuals and sound effects while keeping original TF2 atmosphere.
 

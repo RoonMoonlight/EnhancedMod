@@ -1,12 +1,14 @@
 # Notice
-New minor additions has been made to Codename Utopia Preview branch! More info can be found [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/utopia/README.md).
+**Important Notice! mastercomfig users now requires additional workaround for breaking changes.** More info can be found [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/NOTICE.md).
+
+Great Vehicle Battle Series are now available!
 
 Left 4 Dead 2: Revengeance Reborn is now available to all users for testing! More information can be found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551).
 
 # Enhanced Mod Series
-Enhanced Mod Series are the collection of modpacks developed by Mystic Moonlight.
+Enhanced Mod Series are the collection of modpacks developed by Mystic Moonlight. Initially this project was begun as Team Fortress 2: Enhanced since Jun 16, 2021, and we continously made improvement and expansion and now it become one of biggest project named EnhancedMod and actively being maintained by passionate mod lover [Roon](https://twitter.com/Roon_Moonlight) and several project contributors.
 
-Enhanced Mod Series aims to improve overall gameplay experience while keeping the original atmosphere as possible and performance in mind.
+Our modpack series aims to be original-friendly and simplicity: Which does not include any of assets from other franchises if possible, and keeping original atmosphere of the game, and removing unnecessary features that are not required.
 
 This repository is the compiliation of modpacks we made, so you can find them easily on one page.
 
@@ -17,12 +19,15 @@ This repository is the compiliation of modpacks we made, so you can find them ea
    * [Team Fortress 2: Enhanced Lite](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/LITE.md)
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2603092378)
 * [Obsidian Conflict: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/oce/README.md)
-* [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2539528962)
-   * [Starlight ETS2 Map Combo](https://github.com/MysticMoonlight/EnhancedMod/blob/main/ets2e/MAPCOMBO.md)
-* [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2662863110)
+* Truck Simulator: Enhanced
+   * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2539528962)
+   * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2662863110)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/README.md) 
 * [Left 4 Dead 2: Revengeance Reborn (Public Experimental Release)](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551)
+* Great Vehicle Battle Series 
+   * [World of Tanks: Great Tank Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/README.md)
+   * [World of Warships: Great Warship Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wows/README.md)
 
 ## Experimental Branch
 Warning: This branch is not very stable and unexpected bugs and crashes may occur. It is recommended for testing purposes only!
@@ -38,6 +43,7 @@ Warning: This branch is not very stable and unexpected bugs and crashes may occu
 # List of Other Modpacks
 These mod collections are not the part of the Enhanced Mod Series.
 
+* [Starlight ETS2 Map Combo](https://github.com/MysticMoonlight/EnhancedMod/blob/main/ets2e/MAPCOMBO.md)
 * [PAYDAY 2: Heist of Frenzy](https://github.com/MysticMoonlight/PAYDAY2-HF)
 
 # List of obsolete Modpacks
