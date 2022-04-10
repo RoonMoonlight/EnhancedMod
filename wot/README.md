@@ -21,108 +21,44 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/CHANGELO
 # List of Mods
 Note: Anything that is not listed below should be unchecked during mod selection screen.
 
-## XVM
-* XVM Build
-    * Development
-
-### Vehicle Markers (OTM)
-* OTM By Aslain
-    * HP Bar Size: Slim
-    * 1st Line Over HP Bar
-        * 1st Line: Vehicle Name
-    * 2nd Line Over HP Bar
-        * 2nd Line: Player Name
-    * Left Side of HP Bar
-        * Left: Roman Tier Number
-    * Rating Marker Icon
-        * Rating marker: Star
-    * OTM Class Icons
-        * OTM Class Icons (Default)
-            * OTM Class Icons: Aslain's Colors
-    * Style of floating damage texts
-        * White Text with colored lines
-    * Size of floating damage taken
-        * damage taken size: 18 [default]
-    * Vehicle HP
-        * Vehicle HP: Current/Max
-    * The Shadow intensity behind OTM
-        * Strong Shadow
-
-### Panels & Windows (In-Battle)
-* Panels by Aslain
-    * Remove Rank badge from Battle Loading & Statistic Tabs
-    * Remove Country Flags
-    * Remove XVM Icons
-    * Players Panel
-        * Medium panels (default)
-            * Medium & Short: without stats and colors v2
-        * Large players panel
-            * Large without stats and colors v2
-        * Background transparency
-            * Transparency: 15 (strong)
-        * Show HP Bars
-            * HP Bars: Thin
-        * Remove Rank Badge icons from Players Panel
-
-### XVM Minimap
-* Labels
-    * Show icons for destroyed tanks
-    * Show vehicle names
-        * Full
-* Icon scale'
-    * Icon scale: x1.0 (default)
-
-### Damage Done logs
-* version #1 (detailed header + normal numbers)
-    * draggable with mouse
-
-### Player Statistics XVM
-* Rating Scale
-    * 6 Colors by Team XVM (Better blues)
-
-### Garage XVM
-* Hide counter on the system channel button
-* Hide a promotional tank in the garage background
-* Hide event banner
-* Hide Combat Intelligence
-* Show Price/XP button in the tech tree & research page
-* Show the garage Clock (Feel free to select 12h or 24h)
-
-### Tank Carousel XVM
-* Normal Carousel Cells
-    * Use game settings
-    * Scale of Carousel Cells
-        * 1.0 (default)
-    * carousel: Tank sorting criteria
-        * Tank Sorting: Nation, Tier, Class
-    * carousel: hide the stats window that appears when you hover the mouse over it
-
-### Other XVM Settings
-* Enable Auto-Login to the game
-* Show server ping at login screen and garage
-* Show online users at login screen
-* Show in-battle clock
-* XVM fps & ping
-    * fps & ping: v1
-* Class colored icons on the scoreboard
-    * Markers style: Main
-
 ## Non XVM Mods Branch
+### Vehicle Contour Icons
+* Jackhammer (by Pateji352)
+
+### PMOD
+* Show extra zoom indicator on crosshair
+* Armour Penetration Indicator
+    * Indicator for PMOD
+        * default
+
 ### In-Battle Chat
 * Chat Filter (hate & spam blocker)
 * Colored chat messages "Chat + Kill log" [EN/PL/RU]
+* Show results from previous battle [EN/PL/RU] [PMOD]
 
 ### Damage Panels
 * Damage Panel Zayaz
 
-### Others
-* Requesting Fire Marker
-    * Requesting Fire Marker: Arrow
-        * Red
-* Friends Notifier
-* Hidden Parameters
-* Real-time in-Battle achievements
+### Sixth Sense (Nox-XVM)
+* Sixth Sense Timer
+* static icon
+    * icon: WoT Default
 
+### Garage
+* Selected Tank Carousel LED Highlighter
+    * Red frame
+* Personal Reserve & Garage Header
+    * Red
+* Vehicle EXP Extended
+* Unanonymizer on battle results
+* Colored Personal Missions in Red
+* Extended Friends & Blacklist
+* Garage Clock & Calculator by AntonVK
+    * Garage Clock
+* Session Staticstics
+    * YasenKrasen session stats
+        * YK: Base
+    
 ### Sounds
 * Gun sound packs
     * Gnomefather's Historical Realism Gun Sounds (Zorgane)
@@ -140,3 +76,25 @@ Note: Anything that is not listed below should be unchecked during mod selection
     * Requesting fire marker on minimap
         * Marker on the minimap: arrow
             * Red
+
+### Various Mods
+* Players Panel HP Bars
+    * HP Bars: mini bottom
+
+### Others
+* Custom Damage Indicator
+    * Indicator: version #1
+* Debug Panels (lag, fps, clock indicator, etc.)
+    * Debug Panel Ball by Ragnarocek
+* Team HP Pool Bar
+    * Team HP Bars lebwa v1 [PMOD]
+* Requesting Fire Marker
+    * Requesting Fire Marker: Arrow
+        * Red
+* Friends Notifier
+* Hidden Parameters
+* Final Shot (Last hits)
+* Real-time in-Battle achievements
+* Better Context Menu
+* Alternative Vehicle Markers (OVM without XVM)
+    * AVM: Slim
