@@ -1,4 +1,47 @@
 # Changelog
+## Team Fortress 2: Enhanced 8.0 "Rocket Man" (Apr 26, 2022)
+Another spring, another major update! Welcome to first quarter's major update of Team Fortress 2: Enhanced. After Roon's all exams are over, our team wanted to surprise you with this major changes to the modpack. And now here we are!
+
+Huge thanks to [DemonstrationTF](https://www.youtube.com/DemonstrationTF) for your mod list reference and bloody hit/kill sounds!
+
+### Highlight
+* Major changes to list of particles which gives more stylished feelings of TF2
+* New Skyboxes
+* New Gore effects motivated from Open Fortress gore effects!
+* New hit/kill sounds by DemonstrationTF
+* New Quickplay Styled Portrait which brings back the old feeling of TF2 (~~Ignore the bots in the image btw~~)
+* Fixed and tweaked stamp background
+* Not related with TF2: Enhanced, but now EnhancedMod Experimental Branch will have 2 weeks delay between each releases for better organization of newly added mods.
+
+### Mod List changes
+#### Additions
+* [Aligned Heal Beam Vaccinator Fixed](https://gamebanana.com/mods/12082)
+* [Alternative Skyboxes](https://gamebanana.com/mods/358474)
+* [Bloodiest Fortress 2](https://gamebanana.com/mods/367935)
+* [DemonstrationTF Bloody Hit/Kill Sounds](https://drive.google.com/file/d/1TrAwgYa_wDi5Qab4c_PJe9p5GBbFp3Jd/view)
+* [Enhanced Explosions (V1.2)](https://gamebanana.com/mods/12442)
+* [Improved Muzzleflashes](https://gamebanana.com/mods/12593)
+* [Quickplay Styled Gamemode Portraits 2022 Edition](https://gamebanana.com/mods/366394)
+* [Stylized Cow Mangler Effects Redux](https://gamebanana.com/mods/12388)
+* [Stylized Projectile Effects Redux](https://gamebanana.com/mods/11719)
+* [Stylized Righteous Bison Effects](https://gamebanana.com/mods/11720)
+* [Stylized Rockettrails Redux](https://gamebanana.com/mods/12387)
+* [Tweaked Stamp Background](https://gamebanana.com/mods/356346)
+
+#### Removal
+* [Altered Projectile Trails](https://gamebanana.com/mods/12420)
+* [Classic Guilty Gear Slash Hitsounds](https://gamebanana.com/sounds/56790)
+* [Expensive Explosions](https://gamebanana.com/mods/12454)
+* [Simple Muzzleflashes V.3](https://gamebanana.com/mods/12584)
+* [Ultimate TF2 Visual Fix Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack)
+
+#### Moved
+* [Altered Fire FX](https://gamebanana.com/mods/289584) (Effect+ -> Main branch)
+* [Altered Projectile Trails](https://gamebanana.com/mods/12420) (Effect+ -> Main branch)
+
+#### Replacements
+* [Giblet Overhaul (Vanilla Blood)](https://gamebanana.com/mods/205664) -> [Giblet Overhaul (TF2C Blood)](https://gamebanana.com/mods/288308)
+
 ## Team Fortress 2: Enhanced 7.2 "Sweet Frostland" (Feb 17, 2022)
 Welcome to second minor update of version 7 series! Nothing was changed on this update, but to announce the major changes of HUD on TF2: Enhanced, powered by Sloofy's SOUP mod.
 

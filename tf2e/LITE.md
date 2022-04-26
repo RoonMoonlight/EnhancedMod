@@ -1,6 +1,3 @@
-# Notice
-**Important Notice! mastercomfig users now requires additional workaround for breaking changes.** More info can be found [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/NOTICE.md).
-
 # Team Fortress 2: Enhanced Lite
 Team Fortress 2: Enhanced is the modpack focused on improving overall visuals and sound effects while keeping original TF2 atmosphere.
 
@@ -22,7 +19,9 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGEL
 * [Alternate Class Portraits (Full Version)](https://gamebanana.com/mods/26024)
 * [HD TF2 Menu Logo](https://gamebanana.com/mods/27061)
 * [Improved Create Server Menu](https://gamebanana.com/mods/332109)
+* [Quickplay Styled Gamemode Portraits 2022 Edition](https://gamebanana.com/mods/366394)
 * [Sloofy's Overhauled UI Portraits (SOUP)](https://gamebanana.com/mods/26400)
+* [Tweaked Stamp Background](https://gamebanana.com/mods/356346)
 
 ## Visual Mods
 * [Morning Lightwarp](https://gamebanana.com/mods/205354)

@@ -10,7 +10,7 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wows/CHANGEL
 3. Check the Show preview window and click on 'Next'.
 4. If you are new to the Aslain's Mod, it is recommended to read the Read-Me Page. Click 'Next' to proceed.
 5. Read the changelog page to see if there is breaking changes, especially if you are updating from existing version. Click 'Next' to proceed.
-6. Select a directory. If you are using Windows Steam version, it is located at 'C:\Program Files (x86)\Steam\steamapps\common\World of Tanks\(Region name)'.
+6. Select a directory. If you are using Windows Steam version, it is located at 'C:\Program Files (x86)\Steam\steamapps\common\World of Warships'.
 7. Select the mod that is listed below. Anything that is not listed below should be unchecked on the list. If you finished click 'Next'.
 8. Leave the setting as is, and click 'Next'.
 9. After installion is done, launch the game.

@@ -69,16 +69,16 @@ This edition features the following map mods: ProMods, ProMods Middle-East Addon
 > After long thinking about the decision we made before, we decided to consider ProMods as standalone mod. As a result, we will keep continue making improvement (Like we did on Vanilla Edition), but the Pro Edition will be restructured (Codenamed 'Next Gen Preview')on upcoming ETS2 1.44 release. 
 > 
 > You may experience following changes in the future:
-> * ROEX will completely be removed from map list. Also RusMap will be deprecated someday if ProMods makes changes to Russia and Belarus once again (Until the RusMap is considered to be obsolete)
+> * ~~ROEX will completely be removed from map list.~~(April 26, 2022 update: ROEX will exist but it will be deprecated alongside RusMap in the future) Also RusMap will be deprecated someday if ProMods makes changes to Russia and Belarus once again (Until the RusMap is considered to be obsolete)
 > * Southern Region map will be removed alongside with RusMap, as RusMap would be necessary.
 > * This map combo will be considered independent - no more SCS things EXCEPT possible expansions that is compatible with ProMods but NOT RusMap/ROEX and their addon map mods
-> * About the missing content, TRExtended will remain to make up for ROEX mod's absense but will be removed if ProMods team completes whole Turkey area.
+> * ~~About the missing content, TRExtended will remain to make up for ROEX mod's absense but will be removed if ProMods team completes whole Turkey area.~~(April 26, 2022 update: ROEX replaced TRExtended due to map background issue)
 > 
 > Another problem is the Heart of Russia DLC release. SCS Software officially [announced](https://www.vortex.cz/exkluzivne-heart-of-russia-pro-euro-truck-simulator-2-ted-nevyjde/) through Czech press that Heart of Russia will be delayed until ongoing war(Russia and Ukraine war) ends, so this plan can be changed at anytime (We will let you know when that happens)
 >
 > Happy Trucking!
 >----
-> Original announcement on [Mystic Moonlight Discord](https://discord.gg/WbXhYQkkzw)
+> Original announcement on [Mystic Moonlight Discord](https://discord.gg/WbXhYQkkzw) (Now deleted due to announcement channel changes)
 
 This is another testing version of Pro Edition, which will be completely restructured on upcoming 1.44 release.
 
@@ -89,7 +89,6 @@ Everything is explained on above announcement quotes, so there will be no more f
 Please note that the content is still work-in-progress: maps included on the list can be changed at any time.
 
 [Click here to view the combo.](https://docs.google.com/spreadsheets/d/1hWOWEoV38ZEiT8Oeef0FIxGqs9Uz8CtxS9tQdG3inC4)
-
 
 ## End of Support
 These map combos are no longer being supported by Mystic Moonlight and won't receive any updates in the future.

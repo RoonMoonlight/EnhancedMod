@@ -10,10 +10,10 @@ Recently mastercomfig team released an 9.8.0 [update](https://github.com/masterc
 > * Renamed `apply_user` to `apply_overrides`.
 >   * `apply_user` will still work in this release, but is deprecated and will be removed in a future release.
 
-As a result, we are asking to all players who are using the custom configuartion to follow the instruction below. On the next version, the `user` folder will be deprecated.
+As a result, we are asking to all players who are using the custom configuartion to follow the instruction below. On the 9.8.1 and above version, the `user` folder will be deprecated.
 
 ## Additional Workaround
-You are allowed to skip Step 3 and 4 if you already installed 9.8.0 release.
+You are allowed to skip Step 3 and 4 if you already installed 9.8.0 and above releases.
 
 1. Head to C:\Program Data (x86)\Steam\steamapps\common\Team Fortress 2\tf\cfg
 2. Rename existing `user` folder to `overrides` (case-sensitive)
@@ -22,4 +22,4 @@ You are allowed to skip Step 3 and 4 if you already installed 9.8.0 release.
 5. Now you are done! Enjoy.
 
 ## Note
-Mystic Moonlight Team is not responsible for reading this document or following the instruction above. Do not post any issue about custom script not working with mastecomfig.
+Mystic Moonlight Team is not responsible for reading this document or following the instruction above. Do not post any issue about custom script not working with mastercomfig.

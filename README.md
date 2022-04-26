@@ -1,9 +1,8 @@
 # Notice
-**Important Notice! mastercomfig users now requires additional workaround for breaking changes.** More info can be found [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/NOTICE.md).
-
-Great Vehicle Battle Series are now available!
-
-Left 4 Dead 2: Revengeance Reborn is now available to all users for testing! More information can be found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551).
+* Team Fortress 2: Enhanced 8.0, codenamed "Rocket Man" is now available! [More info](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/README.md).
+* Stardew Valley: Enhanced 5.1 "Bergenia" is now available! [More info](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
+* final beta version of 44.0 version 'beta5' for Truck Sim: Enhanced(ETS2/ATS) are now available! 
+* Great Vehicle Battle Series Experimental Branch are now available!
 
 # Enhanced Mod Series
 Enhanced Mod Series are the collection of modpacks developed by Mystic Moonlight. Initially this project was begun as Team Fortress 2: Enhanced since Jun 16, 2021, and we continously made improvement and expansion and now it become one of biggest project named EnhancedMod and actively being maintained by passionate mod lover [Roon](https://twitter.com/Roon_Moonlight) and several project contributors.
@@ -14,17 +13,18 @@ This repository is the compiliation of modpacks we made, so you can find them ea
 
 # List of Enhanced Mods
 * [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/README.md)
-   * [Half-Life 2: Re;Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2re/README.md)
+   * [Half-Life 2: Re;Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2re/README.md) (Coming Soon)
 * [Team Fortress 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/README.md)
    * [Team Fortress 2: Enhanced Lite](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/LITE.md)
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2603092378)
-* [Obsidian Conflict: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/oce/README.md)
+* [Obsidian Conflict: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/oce/README.md) (Coming Soon)
 * Truck Simulator: Enhanced
    * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2539528962)
+      * [Starlight ETS2 Map Combo](https://github.com/MysticMoonlight/EnhancedMod/blob/main/ets2e/MAPCOMBO.md)
    * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2662863110)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/README.md) 
-* [Left 4 Dead 2: Revengeance Reborn (Public Experimental Release)](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551)
+* [Left 4 Dead 2: Revengeance Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551) (Public Experimental Release)
 * Great Vehicle Battle Series 
    * [World of Tanks: Great Tank Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/README.md)
    * [World of Warships: Great Warship Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wows/README.md)
@@ -32,28 +32,31 @@ This repository is the compiliation of modpacks we made, so you can find them ea
 ## Experimental Branch
 Warning: This branch is not very stable and unexpected bugs and crashes may occur. It is recommended for testing purposes only!
 
-* [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/infinite/README.md)
+* [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/experimental/README.md)
 * [Team Fortress 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experimental/README.md)
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2701486568)
-* [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697485771)
-* [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697795824)
+* Truck Simulator: Enhanced
+   * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697485771)
+   * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697795824)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/experimental/README.md) ([Codename Utopia Preview](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/utopia/README.md) is now available)
-* [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/experimental/README.md) 
+* [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/experimental/README.md)
+* Great Vehicle Battle Series 
+   * [World of Tanks: Great Tank Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/experimental/README.md)
+   * [World of Warships: Great Warship Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wows/experimental/README.md) 
 
 # List of Other Modpacks
 These mod collections are not the part of the Enhanced Mod Series.
 
-* [Starlight ETS2 Map Combo](https://github.com/MysticMoonlight/EnhancedMod/blob/main/ets2e/MAPCOMBO.md)
 * [PAYDAY 2: Heist of Frenzy](https://github.com/MysticMoonlight/PAYDAY2-HF)
 
 # List of obsolete Modpacks
 These modpacks no longer receives support anymore by Mystic Moonlight. Press `F` to pay respect to these modpack.
 
-* [PAYDAY 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/p2e/README.md)
-* [Death Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2319991144)
-* [Terraria: Starshifters](https://github.com/MysticMoonlight/Starshifters)
-   * [Starshifters Classic](https://github.com/MysticMoonlight/StarshiftersClassic)
-* [EndlessMod](https://github.com/MysticMoonlight/EndlessMod)
+* PAYDAY 2: Enhanced
+* Death Reborn
+* Terraria: Starshifters
+   * Starshifters Classic
+* EndlessMod
    
 # Our Standards
 [Read more here.](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md)

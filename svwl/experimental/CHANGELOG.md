@@ -1,4 +1,36 @@
 # Changelog
+## 6.0-2022.16b "Calendula" (April 7, 2022)
+Welcome to major update of Stardew Valley: Wildlife experimental branch! This update introduces new soundtrack replacing the original, new social page features, crop variation, and many more quality of life improvements!
+
+Also the next codename will now be Calendula.
+
+### Highlights
+* Added Order button on Social Page! You can now order your relations alphabetically or by hearts, ascending or descending.
+* Now crops will have more variations!
+* Smoother sprites and dozens of new breed/colour options for cats and dogs!
+* New soundtrack, 'Back to the Valley'! It adds 12 new and lore friendly original music pieces to Stardew Valley.
+
+### Mod list changes
+#### Additions
+* [Back to the Valley](https://www.nexusmods.com/stardewvalley/mods/11517)
+* [Crop Variation](https://www.nexusmods.com/stardewvalley/mods/11467)
+* [Custom Music](https://www.nexusmods.com/stardewvalley/mods/3043)
+* [Pet Facelift](https://www.nexusmods.com/stardewvalley/mods/9097)
+* [Social Page Order Button](https://www.nexusmods.com/stardewvalley/mods/7871)
+
+
+## 5.1-2022.14b "Codename Utopia Preview" (April 7, 2022)
+Small update that adds new hairstyle for people like Roon who wrongly chose the hair. Now animated!
+
+### Highlights
+* Added new animated hairstyles into Fashion Sense (No worries it works differently with Shardust main hairstyles mod)
+
+### Additions
+* [Shardust's Animated Hairstyles for Fashion Sense](https://www.nexusmods.com/stardewvalley/mods/10294)
+
+## 5.1-2022.14a "Codename Utopia Preview" (April 5, 2022)
+Rewritten all list of mods.
+
 ## 5.1-22.10.a "Nuremberg Octopus" (Mar 6, 2022)
 Welcome to second experimental release of 5.1 series! This update brings huge changes into the game, such as environment visual improvements, new building mode, crafting improvements and additional cosmetics!
 
@@ -50,7 +82,6 @@ We will let you know with development update if we found any solution!
 * Now NPC locations are displayed on the map! Now you don't need to miss opportunity to talk to npcs or miss your remaining quests anymore.
 * There was an earthquake on your farm... Now your farm have been expanded for better farming!
 * Node textures has been improved to match their surroundings based on current environment and other colors of nearby rocks.
-* There was an update since 5.0(Previously 2022.01) has been released... Don't forget to check any updates of the mod! 
 
 ### Mod list changes
 #### Additions
