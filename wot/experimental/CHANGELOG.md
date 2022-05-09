@@ -1,4 +1,18 @@
 # Changelog
+## 2.0-2022.18a "Treffaswagen"
+Welcome to second experimental release of Great Tank Battle! In this update we added several useful mods.
+
+### Highlight
+* New feature: Replay Manager! Now you can see your past gameplay skills with this replay manager tool.
+* New reticle based on old version: In case you did not loved the new reticle changes, now we reverted to old version of reticles.
+* Gun traverse angles and hit reviews are now available, which will help you improve your gameplay with even more information. Remember: Knowledge is a key to the victory!
+
+### Additions
+* GunConstraints: Gun traverse angles
+* Aiming Timer
+* Game replay manager
+* Hit review
+
 ## 2.0-2022.17a "Treffaswagen"
 Welcome to first experimental release of Great Tank Battle! This experimental update is now rebased on WGMods Essential and we are officially starting to ditch Aslain's Mod for following reasons:
 * Frequent Mod list changes and so many bloats included on the modpack

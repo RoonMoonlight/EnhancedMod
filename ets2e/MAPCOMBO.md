@@ -1,5 +1,5 @@
 # Notice
-Any issues requesting South Korea Map will be closed and locked immediately without any warning. For more info [see here](https://github.com/MysticMoonlight/EnhancedMod/issues/6).
+This branch is no longer maintained. For latest releases of Starlight Map Combos, please head to [this repository](https://github.com/MysticMoonlight/StarlightMod). This branch will now remain for archival purposes.
 
 # Starlight ETS2 Map Combos
 Welcome to Starlight ETS2 Map Combos! We decided to share the map combo that we use.

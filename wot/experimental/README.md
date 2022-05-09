@@ -26,6 +26,10 @@ Note: Anything that is not listed below should be unchecked during mod selection
 ### Damage Panels
 * DamageLog by GambitER
 
+### Others
+* GunConstraints: Gun traverse angles
+* Aiming Timer
+
 ## Step N2
 ### Useful things in combat
 * Increased Duration of Sixth Sense Indicator
@@ -42,13 +46,19 @@ Note: Anything that is not listed below should be unchecked during mod selection
 * Display results of finished battle in the game chat
 * Filter of messages in battle chat
 
+### Camera modifications
+* Old server reticle
+
 ## Step N4
 ### Replacement of standard sounds
+* Sound effect for the Sixth Sense
 * Caliber gun sounds
 
 ### Improvements in Garage
 * Colored post-battle messages
 * Shell tooltips
+* Game replay manager
+* Hit review
 
 ## Step N5, Step N6
 Skip, we are not gonna install XVM mod and we do not need performance improvements

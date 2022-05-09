@@ -2,14 +2,14 @@
 
 > **"May the nature be with you"**
 
-# Stardew Valley: Wildlife [Codename Utopia Preview]
+# Stardew Valley: Wildlife [Experimental Branch]
 Stardew Valley: Wildlife is 11th EnhancedMod Series, aiming to improve and expand original Stardew Valley while not changing gameplay too much.
 
-This is Codename Utopia Preview branch of Wildlife which recreates everything from scratch to completely follow the original artstyles and gameplays, while adding slight features into the game.
+This is Codename Utopia Preview/Experimental branch of Wildlife which recreates everything from scratch to completely follow the original artstyles and gameplays, while adding slight features into the game.
 
 # ⚠️ Warning ⚠️
 * This is same as experimental version and has not been tested yet. You may experience bugs and crashes.
-* This branch is incompatible with existing stable/experimental branch - It is advised to test on new saves for people who is about to try this branch. (We are NOT responsible for any save corrupts for ignoring this warning)
+* This branch is incompatible with existing stable/experimental branch * It is advised to test on new saves for people who is about to try this branch. (We are NOT responsible for any save corrupts for ignoring this warning)
 * Contents included on this branch may subject to change at any time.
 * The Frequently Answered Questions(FAQs) have received an update. Scroll down to read all of it. (And do NOT make issue about questions which is already answered below)
 

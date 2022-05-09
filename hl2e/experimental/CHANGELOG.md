@@ -1,4 +1,14 @@
 # Changelog
+## Project Infinity v2.0-2022.18a "Upwards" (May 8, 2022)
+Welcome to third experimental release of Project Infinity! This time there is lack of changes compared with other updates. However, the sounds from HL1 received quality improvements! Now enjoy playing Half-Life 2 with even more better quality sounds!
+
+### Highlights
+* Existing sounds reused from Half-Life 1 now replaced with high-quality audios!
+
+### Mod list changes
+#### Additions
+* [Remastered HL1 sounds for HL2](https://gamebanana.com/sounds/60511)
+ 
 ## Project Infinity v2.0-2022.16a "Heavy Resistance" (April 26, 2022)
 Welcome to second experimental release of Project Infinity! This mod introduces some new soundtrack inspired from HL2, Several new sound additions, and removal of mods which modifies the default weapons for better mod compatibility like MMOD.
 

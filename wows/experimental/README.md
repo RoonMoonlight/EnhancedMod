@@ -36,13 +36,17 @@ Note: Anything that is not listed below should be unchecked during mod selection
     * Blue
 * Gun Markers
     * Gun Marker V5
+* Zeiss and FOV
+  * Zeiss Extreme Client
 
 ## Second Tab: Battle Interface
 * Sector collision Red
 * Radio Location modifications
     * Radio Location Marker Blue
-* Target-Marker Locations
+* Target-Marker Modifications
     * Target-Lock Marker Aqua
+* Torpedo trails
+  * Torpedo trails v2
 
 ## Third Tab: Ship Icons
 * Customizable Panel by BADoBEST

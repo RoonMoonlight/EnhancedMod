@@ -59,6 +59,7 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experim
 * [Heavy "Jeers04" replacement](https://gamebanana.com/sounds/50373)
 * [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
 * [More Musical TF2 Events](https://gamebanana.com/sounds/53978) (Choose only one version - Barebones or Definitive)
+* [Remastered HL1 sounds for HL2](https://gamebanana.com/sounds/60511) (Backported from HL2)
 * [Team Fortress 2 Soundtrack During Gameplay Mod](https://gamebanana.com/mods/36634)
 * [The Vanilla Sound Fix Overhaul](https://gamebanana.com/sounds/51208)
 * [Tomislav's True Fire Rate](https://gamebanana.com/sounds/47174)

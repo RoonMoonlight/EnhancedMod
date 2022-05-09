@@ -26,14 +26,10 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/infinit
 * [Citizen Radio Remake](https://gamebanana.com/mods/348653)
 * [Combine Interface Remake](https://gamebanana.com/mods/303851)
 * [Combine Scanner 2k Retexture](https://gamebanana.com/mods/182459)
-* [Combine Thumper Glow Fix](https://gamebanana.com/mods/312579)
 * [Combine Turret Remake](https://gamebanana.com/mods/182474)
-* [Container Bumpmap Fix](https://gamebanana.com/mods/182534)
 * [Display Cooler Remake](https://gamebanana.com/mods/288868)
 * [Enhanced animated items](https://gamebanana.com/mods/314658)
-* [EP2 Helicopter Bombs](https://gamebanana.com/mods/182461)
 * [Fyah Explosions!](https://gamebanana.com/mods/11344)
-* [Fixed sky_day03_06_hdr](https://gamebanana.com/mods/345165)
 * [HD Ammo Crates](https://gamebanana.com/mods/182723)
 * [HD Explosion Decals](https://gamebanana.com/mods/11355)
 * [HD Original face maps](https://gamebanana.com/mods/352271)
@@ -69,6 +65,12 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/infinit
 * [Upscaled and Enhanced Zombie Textures](https://gamebanana.com/mods/182295)
 * [Washing Machine Remake](https://gamebanana.com/mods/347118)
 
+## Fix/Optimization Mods
+* [Combine Thumper Glow Fix](https://gamebanana.com/mods/312579)
+* [Container Bumpmap Fix](https://gamebanana.com/mods/182534)
+* [EP2 Helicopter Bombs](https://gamebanana.com/mods/182461)
+* [Fixed sky_day03_06_hdr](https://gamebanana.com/mods/345165)
+
 ## Sound Mods
 * [Airboat Gun Sound](https://gamebanana.com/sounds/47085)
 * [Additional Combine Sounds](https://gamebanana.com/sounds/44814)
@@ -91,6 +93,7 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/infinit
 * [Mr.Keyb0red's Antlion Grub Sounds](https://gamebanana.com/sounds/35464)
 * [New Fast Headcrab Sounds](https://gamebanana.com/sounds/33586)
 * [Realistic Airboat Sprint](https://gamebanana.com/sounds/22688)
+* [Remastered HL1 sounds for HL2](https://gamebanana.com/sounds/60511)
 * [Route Kanal - Improved Radio VO](https://gamebanana.com/sounds/56697)
 * [Zombine for EP2 sounds](https://gamebanana.com/sounds/57448)
 

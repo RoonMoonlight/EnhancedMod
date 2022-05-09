@@ -1,4 +1,16 @@
 # Changelog
+## Project Infinity v9.0-2022.18a "The Patriot's Legacy" (May 8, 2022)
+Welcome to first experimental release of v9.0 series! This update includes improvements from existing Half-Life 1 sounds, which is backported from Half-Life 2.
+
+This update is dedicated to Rick May, who was the Voice Actor of Soldier. Thank you Rick May.
+
+### Highlights
+* Existing sounds reused from Half-Life 1 now replaced with high-quality audios! (Backported from HL2)
+
+### Mod list changes
+#### Additions
+* [Remastered HL1 sounds for HL2](https://gamebanana.com/sounds/60511)
+
 ## Team Fortress 2: Enhanced 8.0-2022.14a "Cross Land" (April 2, 2022)
 This might probably the last development release due to upcoming exam happening soon. We will be back with great major update once the exams are all over! After test ends, 8.0 might release, so stay tuned!
 

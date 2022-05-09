@@ -1,6 +1,18 @@
 # Changelog
-## Cosmos 19.0-2022.14a "Dragon Sisters" (April 3, 2022)
-Welcome to first experimental version of version 19 series! This update adds improvements to environment. Version 19 codename will be 'Dragon Sisters', reference of Elira Pendora and Selen Tatsuki.
+## Cosmos 19.0-2022.18a "Mangrove" (May 5, 2022)
+Welcome to second experimental release of version 19 series! After long 1 month break, we are back with amazing updates!
+
+### Highlights
+* Just Enough Items mod has arrived to Cosmos! Recently Badlion Client team added the feature which acts like [Just Enough Items](https://twitter.com/BadlionClient/status/1518590660017676289). As we mentioned earlier in development, we are NOT going to include any of features which is exclusive to minigame servers that are NOT part of Minecraft features.
+* Chat now displays player's heads! When other player sends message in chat, now it also displays the player's head.
+
+### Mod list changes
+#### Additions
+* [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
+* [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
+
+## Cosmos 19.0-2022.14a "Mangrove" (April 3, 2022)
+Welcome to first experimental version of version 19 series! This update adds improvements to environment.
 
 This update was originally have plans to add Particle Mod and 
 Better Sounds which was recently updated on Lunar Client but there was no related mod that does the same thing. So instead of adding that feature, we decided to improve the environment instead ;)

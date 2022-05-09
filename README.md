@@ -1,7 +1,6 @@
 # Notice
-* Team Fortress 2: Enhanced 8.0, codenamed "Rocket Man" is now available! [More info](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/README.md).
-* Stardew Valley: Enhanced 5.1 "Bergenia" is now available! [More info](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
-* final beta version of 44.0 version 'beta5' for Truck Sim: Enhanced(ETS2/ATS) are now available! 
+* As of 1.44 release for SCS Truck Simulator, Truck Sim: Enhanced, [Starlight](https://github.com/MysticMoonlight/StarlightMod), Stardew Valley: Wildlife will no longer follow's the game's update schedule. The compatibility update will be the part of minor update in the future.
+* Experimental versions has been released for all Experimental branch of the game!
 * Great Vehicle Battle Series Experimental Branch are now available!
 
 # Enhanced Mod Series
@@ -20,8 +19,8 @@ This repository is the compiliation of modpacks we made, so you can find them ea
 * [Obsidian Conflict: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/oce/README.md) (Coming Soon)
 * Truck Simulator: Enhanced
    * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2539528962)
-      * [Starlight ETS2 Map Combo](https://github.com/MysticMoonlight/EnhancedMod/blob/main/ets2e/MAPCOMBO.md)
    * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2662863110)
+   * [Starlight](https://github.com/MysticMoonlight/StarlightMod)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/README.md) 
 * [Left 4 Dead 2: Revengeance Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551) (Public Experimental Release)
@@ -38,7 +37,8 @@ Warning: This branch is not very stable and unexpected bugs and crashes may occu
 * Truck Simulator: Enhanced
    * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697485771)
    * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697795824)
-* [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/experimental/README.md) ([Codename Utopia Preview](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/utopia/README.md) is now available)
+   * [Starlight](https://github.com/MysticMoonlight/StarlightMod)
+* [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/experimental/README.md)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/experimental/README.md)
 * Great Vehicle Battle Series 
    * [World of Tanks: Great Tank Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/experimental/README.md)

@@ -1,4 +1,4 @@
-# Euro Truck Simulator 2: Enhanced - Mod Priority
+# Euro Truck Simulator 2: Enhanced - Mod Priority & Additional Recommended Mods
 Welcome! Here is the priority of mod collection for ETS2: Enhanced (As well as Experimental Branch).
 Since we cannot maintain the mod priority list for every update, we decided to replace them with markdown version instead to keep the mod collection priority up to date easily.
 
