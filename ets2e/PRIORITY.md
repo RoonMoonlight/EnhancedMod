@@ -14,8 +14,8 @@ Coming Soon - They will be available when next update releases!
 * minimal adviser interface for ATS & ETS2
 * SiSL's Flat UI
 * Actual Day-/Night Times
-* Realistic Rain (If you are using Grime's Frosty Mod use [Winter sound](https://steamcommunity.com/sharedfiles/filedetails/?id=1268798385) instead)
-* [OPTIONAL] [Grimes Weather Mod](https://grimesmods.wordpress.com/)
+* Realistic Rain
+* [OPTIONAL] [Europe Reskin](https://forum.scssoft.com/viewtopic.php?t=284353) (Note: You need all Map Expansion DLCs)
 * Real Train Sounds ETS2
 * Real AI Traffic Sounds ETS2 (FMOD)
 * Reefer trailer sound addon for ETS2
