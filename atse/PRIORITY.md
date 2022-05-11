@@ -10,6 +10,7 @@ Since we cannot maintain the mod priority list for every update, we decided to r
 * SiSL's Flat UI
 * Actual Day-/Night times
 * Realistic Rain
+* [OPTIONAL] [Grimes Season Mod](https://grimesmods.wordpress.com/)
 * Real AI Traffic FMOD Sounds ATS
 * Reefer trailer sound addon for ATS
 * Sound Fixes Pack - ATS
