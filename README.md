@@ -1,7 +1,7 @@
 # Notice
+* 44.0 has been released for both ETS2/ATS: Enhanced!
 * As of 1.44 release for SCS Truck Simulator, Truck Sim: Enhanced, [Starlight](https://github.com/MysticMoonlight/StarlightMod), Stardew Valley: Wildlife will no longer follow's the game's update schedule. The compatibility update will be the part of minor update in the future.
 * Experimental versions has been released for all Experimental branch of the game!
-* Great Vehicle Battle Series Experimental Branch are now available!
 
 # Enhanced Mod Series
 Enhanced Mod Series are the collection of modpacks developed by Mystic Moonlight. Initially this project was begun as Team Fortress 2: Enhanced since Jun 16, 2021, and we continously made improvement and expansion and now it become one of biggest project named EnhancedMod and actively being maintained by passionate mod lover [Roon](https://twitter.com/Roon_Moonlight) and several project contributors.
