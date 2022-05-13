@@ -1,6 +1,6 @@
 # Changelog
-## Euro Truck Simulator 2: Enhanced 44.0 (Eugene) [May 13, 2022]
-We are happy to announce the major update of Euro Truck Simulator 2: Enhanced 44.0 (Eugene)! This update mainly focused on cleanup and recreation from scratch.
+## Euro Truck Simulator 2: Enhanced 44.0 (Edinburgh) [May 13, 2022]
+We are happy to announce the major update of Euro Truck Simulator 2: Enhanced 44.0 (Edinburgh)! This update mainly focused on cleanup and recreation from scratch.
 
 Additionally, we apologize for the delay - our developer Roon had a headache due to his stressful day and Roon needed his break, so we made decision to delay the release to tomorrow. Also we want to thank you to everyone who waited patiently for this release! We hope you enjoy driving around the Europe!
 
