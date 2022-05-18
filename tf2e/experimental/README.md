@@ -16,11 +16,14 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experim
 
 # List of Mods
 ## UI Mods
+* [Absolutely HD Item Icons](https://gamebanana.com/mods/316151)
 * [Alternate Class Portraits (Full Version)](https://gamebanana.com/mods/26024)
 * [HD TF2 Menu Logo](https://gamebanana.com/mods/27061)
 * [Improved Create Server Menu](https://gamebanana.com/mods/332109)
 * [Quickplay Styled Gamemode Portraits 2022 Edition](https://gamebanana.com/mods/366394)
-* [Sloofy's Overhauled UI Portraits (SOUP)](https://gamebanana.com/mods/26400)
+* [Sloofy's Overhauled UI Portraits (SOUP)](https://github.com/Sloofy/soup/releases) (Install art only version)
+* [Source Text Refont [Better Looking Default Text]](https://gamebanana.com/mods/314848)
+* [TF2HUD+ Old Updated](https://gamebanana.com/mods/26761)
 * [Tweaked Stamp Background](https://gamebanana.com/mods/356346)
 
 ## Visual Mods
@@ -55,10 +58,15 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experim
 * [Unique Rockets](https://gamebanana.com/mods/324446)
 
 ## Sound Mods
+* [Dynamic KOTH/CP Soundtrack](https://gamebanana.com/sounds/53977)
 * [Fixed Brass Beast Wind-Up Sound](https://gamebanana.com/sounds/44288)
 * [Heavy "Jeers04" replacement](https://gamebanana.com/sounds/50373)
 * [Improved MvM Ready Lines](https://gamebanana.com/sounds/23729)
-* [More Musical TF2 Events](https://gamebanana.com/sounds/53978) (Choose only one version - Barebones or Definitive)
+* [Intruder alert for intel steal](https://gamebanana.com/sounds/42420)
+* [Meet Your Match Match end (CASUAL MODE)](https://gamebanana.com/sounds/54246)
+* [More Musical TF2 Events](https://gamebanana.com/sounds/53978) (You MUST install Barebones)
+* [MYM Badge Domination/Nemesis/Revenge Sounds](https://gamebanana.com/sounds/44570)
+* [Payload Struggle Terminus Warning](https://gamebanana.com/sounds/53979)
 * [Remastered HL1 sounds for HL2](https://gamebanana.com/sounds/60511) (Backported from HL2)
 * [Team Fortress 2 Soundtrack During Gameplay Mod](https://gamebanana.com/mods/36634)
 * [The Vanilla Sound Fix Overhaul](https://gamebanana.com/sounds/51208)
@@ -67,9 +75,6 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experim
 
 ## Other Mods
 * [Improved tr_target](https://gamebanana.com/mods/74748) ([Unofficial fix](https://github.com/MysticMoonlight/Improved-tr_target-UnofficialFix/releases/latest) available)
-* [mastercomfig](https://mastercomfig.com)
-
-## MvM Improvement Mods
 
 ## Optional Mods
 * [Color Coded Lethality of Sniper Rifle Charge Meter](https://gamebanana.com/mods/345919)

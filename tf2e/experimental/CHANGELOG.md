@@ -1,5 +1,59 @@
 # Changelog
-## Project Infinity v9.0-2022.18a "The Patriot's Legacy" (May 8, 2022)
+## Team Fortress 2: Enhanced v9.0-2022.20a "Your Freedom" (May 8, 2022)
+> *"As of this version, you will gain more freedom of your choice."* 
+
+Welcome to yet another update of Team Fortress 2: Enhanced experimental release! This update brings many changes to the sound and hud effects.
+
+In this update, **mastercomfig has been removed** due to restricting many settings and unnecessarily limiting the user's choice by forcing the settings. Due to this change, you need to follow additional step to reset the config revert back to default TF2 settings. Steps to reset the settings and configurations are explained below.
+
+Many people have suffered from bot crisis on Team Fortress 2 Casual mode, leading tf2 community to protest about updating the game. We, as Team Fortress 2 community, wants the answer to Valve why they are ignoring community's voice and not updating to prevent cheaters and bots on TF2.
+
+Mystic Moonlight community now have a 6v6 community server; if you are tired of cheaters and bots from casual, you can now play on our server right [here](https://mysticmoonlight.carrd.co/) (Click on 'Community Server' then click 'Link' to connect).
+
+Enjoy the new features with this update!
+
+### Highlights
+* SOUP is replaced with art only due to forcing the usage of Community Fixes hud
+* Added TF2HUD+ Old Updated, allowing you to customize the HUD for your likings!
+* Fonts has been improved for better looking
+* Item images are now in HD
+* **mastercomfig is now obsolete**
+* Reverted domination sound with meet your match version
+
+### Breaking Changes
+Warning: This will reset ALL settings. Make sure you back up your binds and other custom settings before you do this.
+
+Due to removal of mastercomfig, unfortunately you will have to reset your config after update. Here's how to do that:
+
+1. Go to following directory: `STEAM_FOLDER/userdata/USER_ID/440/remote/cfg` (For windows it is located on C:\Steam\userdata\[Your User ID]\440\remote)
+2. Open the `config.cfg` with Notepad or any text editor, empty everything inside the cfg file and save it. DO NOT REMOVE THE CFG FILE.
+3. Go back to your steam library, Right Click on Team Fortress 2 on your game list, then click on Properties.
+4. Remove anything inside the Launch Option, replace it with the following launch option: `-novid -autoconfig -default +host_writeconfig config.cfg full +mat_savechanges +quit`
+5. Close the window and launch TF2.
+6. After the game closes, go back to Properties (Same with Step 3) and remove anything inside the launch options.
+7. Close it and launch TF2. Now you are done!
+
+As of this changes, you are now allowed to use your own launch options, such as `-novid` and more.
+
+### Mod list changes
+#### Additions
+* [Absolutely HD Item Icons](https://gamebanana.com/mods/316151)
+* [Dynamic KOTH/CP Soundtrack](https://gamebanana.com/sounds/53977)
+* [Intruder alert for intel steal](https://gamebanana.com/sounds/42420)
+* [Meet Your Match Match end (CASUAL MODE)](https://gamebanana.com/sounds/54246)
+* [MYM Badge Domination/Nemesis/Revenge Sounds](https://gamebanana.com/sounds/44570)
+* [Payload Struggle Terminus Warning](https://gamebanana.com/sounds/53979)
+* [Source Text Refont [Better Looking Default Text]](https://gamebanana.com/mods/314848)
+* [TF2HUD+ Old Updated](https://gamebanana.com/mods/26761)
+
+#### Changes
+* [Musical Events](https://gamebanana.com/sounds/53978) now forced to Barebones, NOT Definitive edition. If you have Definitive Edition installed, you should remove it and replace with Barebones otherwise there will be conflict with other additions.
+* [Sloofy's Overhauled UI Portraits (SOUP)](https://github.com/Sloofy/soup/releases) link changed to GitHub and you need to install art only version from now on; if you have existing `soup-v181` folder, remove it and download art only version and put it on custom folder
+#### Removal
+
+* [mastercomfig](https://mastercomfig.com)
+
+## Team Fortress 2: Enhanced v9.0-2022.18a "The Patriot's Legacy" (May 8, 2022)
 Welcome to first experimental release of v9.0 series! This update includes improvements from existing Half-Life 1 sounds, which is backported from Half-Life 2.
 
 This update is dedicated to Rick May, who was the Voice Actor of Soldier. Thank you Rick May.
