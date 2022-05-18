@@ -32,11 +32,8 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2ce/experi
 
 ## Sound Mods
 * [Improved Sound Effects for TF2 Classic](https://gamebanana.com/sounds/44608)
-* [Intruder Alert CTF Class Select](https://gamebanana.com/sounds/48089)
-* [MYM Badge Domination/Nemesis/Revenge Sounds](https://gamebanana.com/sounds/44570) (Backported from TF2E)
 * [Payload Struggle Terminus Warning](https://gamebanana.com/sounds/53979) (Backported from TF2E)
 * [Remastered HL1 sounds for HL2](https://gamebanana.com/sounds/60511) (Backported from HL2)
-* [(Blu & Red Triumphs/Nobody Triumphs) Casual End](https://gamebanana.com/sounds/46262) (Backported from TF2)
 
 ## Optional Mods
 These mods are optional and can be ignored if you don't want to install.
