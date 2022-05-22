@@ -1,4 +1,10 @@
 # Changelog
+## Team Fortress 2: Enhanced 8.1 "Pyro Technic" (Apr 26, 2022)
+Update to resolve [Issue #8](https://github.com/MysticMoonlight/EnhancedMod/issues/8) - Thank you Sloofy once again for the reporting a issue!
+
+### Highlight
+* Removed [Tweaked Stamp Background](https://gamebanana.com/mods/356346) as it is no longer necessary (Refer to [March 30, 2022 patch](https://wiki.teamfortress.com/wiki/March_30,_2022_Patch) for details)
+
 ## Team Fortress 2: Enhanced 8.0 "Rocket Man" (Apr 26, 2022)
 Another spring, another major update! Welcome to first quarter's major update of Team Fortress 2: Enhanced. After Roon's all exams are over, our team wanted to surprise you with this major changes to the modpack. And now here we are!
 

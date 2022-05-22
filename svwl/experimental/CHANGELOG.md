@@ -1,4 +1,18 @@
 # Changelog
+## 6.0-2022.20a "Calendula" (May 22, 2022)
+Welcome to yet another experimental release of 6.0 series! This update adds several useful features and contents into the game.
+
+### Highlights
+* Added more interior option - Now you will be able to customize your farm to your own likings!
+* If it is too late to plant a seed due to season changes, the game will now prevent you from doing so (Can be configured on Mod options)
+* Added optional mod: Skip Intro (Optional mods are not mandatory to install, it is for players who wish more convenience when playing the game)
+
+### Mod list changes
+#### Additions
+* [Asters Big Interior Mod](https://www.nexusmods.com/stardewvalley/mods/10400)
+* [Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)
+* [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533) [OPTIONAL]
+
 ## 6.0-2022.16b "Calendula" (April 7, 2022)
 Welcome to major update of Stardew Valley: Wildlife experimental branch! This update introduces new soundtrack replacing the original, new social page features, crop variation, and many more quality of life improvements!
 

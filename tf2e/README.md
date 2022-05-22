@@ -19,7 +19,6 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGEL
 * [Improved Create Server Menu](https://gamebanana.com/mods/332109)
 * [Quickplay Styled Gamemode Portraits 2022 Edition](https://gamebanana.com/mods/366394)
 * [Sloofy's Overhauled UI Portraits (SOUP)](https://gamebanana.com/mods/26400)
-* [Tweaked Stamp Background](https://gamebanana.com/mods/356346)
 
 ## Visual Mods
 * [2007-Styled Weapon Pack](https://gamebanana.com/mods/198560)

@@ -6,6 +6,8 @@ Welcome to yet another update of Team Fortress 2: Enhanced experimental release!
 
 In this update, **mastercomfig has been removed** due to restricting many settings and unnecessarily limiting the user's choice by forcing the settings. Due to this change, you need to follow additional step to reset the config revert back to default TF2 settings. Steps to reset the settings and configurations are explained below.
 
+This is one of the update to resolve [Issue #8](https://github.com/MysticMoonlight/EnhancedMod/issues/8) - Thank you Sloofy once again for the reporting a issue!
+
 Many people have suffered from bot crisis on Team Fortress 2 Casual mode, leading tf2 community to protest about updating the game. We, as Team Fortress 2 community, wants the answer to Valve why they are ignoring community's voice and not updating to prevent cheaters and bots on TF2.
 
 Mystic Moonlight community now have a 6v6 community server; if you are tired of cheaters and bots from casual, you can now play on our server right [here](https://mysticmoonlight.carrd.co/) (Click on 'Community Server' then click 'Link' to connect).
@@ -19,6 +21,7 @@ Enjoy the new features with this update!
 * Item images are now in HD
 * **mastercomfig is now obsolete**
 * Reverted domination sound with meet your match version
+* Removed [Tweaked Stamp Background](https://gamebanana.com/mods/356346) as it is no longer necessary (Refer to [March 30, 2022 patch](https://wiki.teamfortress.com/wiki/March_30,_2022_Patch) for details)
 
 ### Breaking Changes
 Warning: This will reset ALL settings. Make sure you back up your binds and other custom settings before you do this.
@@ -49,9 +52,10 @@ As of this changes, you are now allowed to use your own launch options, such as 
 #### Changes
 * [Musical Events](https://gamebanana.com/sounds/53978) now forced to Barebones, NOT Definitive edition. If you have Definitive Edition installed, you should remove it and replace with Barebones otherwise there will be conflict with other additions.
 * [Sloofy's Overhauled UI Portraits (SOUP)](https://github.com/Sloofy/soup/releases) link changed to GitHub and you need to install art only version from now on; if you have existing `soup-v181` folder, remove it and download art only version and put it on custom folder
+* 
 #### Removal
-
 * [mastercomfig](https://mastercomfig.com)
+* [Tweaked Stamp Background](https://gamebanana.com/mods/356346)
 
 ## Team Fortress 2: Enhanced v9.0-2022.18a "The Patriot's Legacy" (May 8, 2022)
 Welcome to first experimental release of v9.0 series! This update includes improvements from existing Half-Life 1 sounds, which is backported from Half-Life 2.

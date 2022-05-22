@@ -1,4 +1,108 @@
 # Changelog
+## Revengeance Reborn 8.0-2022.20a (Acropolis) (April 26, 2022)
+Welcome to third experimental release of Revengeance Reborn! Our team was recently busy with doing some works, so we could not able to update this collection for several weeks. Sorry about that!
+
+Fortunately this time we remember which mod is about to be removed, so you don't have to reinstall collection this time!
+
+Codename is finally confirmed to be "Acropolis". The old codename is no longer valid due to boring codename.
+
+### Highlights
+* Added new variant of campaigns for following campaign: The Last Stand, Dark Carnival, Swamp Fever, The Parish! Enjoy the campaign with alternative environment and different route.
+* Added Tutorial campaign for players who never played Left 4 Dead 2 before! 
+* Added back the new animations and sound effects from Death Reborn!
+* Added new dialogues for all L4D1/L4D2 survivors!
+* New color scheme to default HUD! Now it uses default HUD but it is Revengeance Reborn themed Magenta color.
+* Some UI elements are simplified and redesigned
+* Reorganized campaigns once again
+* Added back the Ping System! (Currently only works on Singleplayer and Local Server)
+* L4D2 survivors will now say "thanks" after being healed like L4D1 (Currently only works on Singleplayer and Local Server)
+* New Metal-styled theme for Tank and Witch!
+* Tank textures are now randomized depending on campaign! (Currently only works on Singleplayer and Local Server)
+* New bile effect for survivors!
+* New design for Guitar weapon! May the Midnight Riders protect your team.
+* Removed Checkpoint Heal as it makes the game easier than original L4D2
+* Human-Like Survivor Bots are no longer necessary and it uses default cvar, due to worst AI bot behavior while HLSB is active compared with default Left 4 Bots Cvars (You should enable load_convars again - To enable cvars again, play any singleplayer campaign -> type `!l4bsettings load_convars 1` in chat -> go back to main menu and you are done)
+* Improved corpse and dead piles
+* Improved physics for infected
+* Improved the color correction and skybox effects
+* Fixed arms and legs for Boomer - Now it should be more consistent
+
+### List of mods
+#### Additions
+##### UI
+* [Grouped Campaigns](https://steamcommunity.com/sharedfiles/filedetails/?id=2591742254)
+* [HD Interface, HD Textures + L4D1 Loading Spinner (White) for UI](https://steamcommunity.com/sharedfiles/filedetails/?id=2803073411)
+* [HQ - Lobby L4D1 Survivors Icons for Left 4 Dead 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2361796709)
+* [HQ - Lobby L4D2 Survivors Icons for Left 4 Dead 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2360255037)
+* [HQ - Online Icons for Left 4 Dead 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2363815102)
+* [Magenta progress bar](https://steamcommunity.com/sharedfiles/filedetails/?id=2731817511)
+* [Magenta killfeed](https://steamcommunity.com/sharedfiles/filedetails/?id=2731916195)
+* [Magenta weapon/item panel selector](https://steamcommunity.com/sharedfiles/filedetails/?id=2731995481)
+* [REFRESHED - L4D1 Survivors Portrait Icons for Left 4 Dead 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2366234346)
+* [REFRESHED - L4D2 Survivors Portrait Icons for Left 4 Dead 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2364419217)
+* [Vanilla Progressbar (Modified)](https://steamcommunity.com/sharedfiles/filedetails/?id=2346971132)
+* [Vanilla Spectator UI (No Black Border)](https://steamcommunity.com/sharedfiles/filedetails/?id=2348316944)
+* [Semi-Transparent Level Transition](https://steamcommunity.com/sharedfiles/filedetails/?id=2780731952)
+
+##### Visuals and Models
+* [Actual Flashlight](https://steamcommunity.com/sharedfiles/filedetails/?id=2562972464)
+* [Guitar signed by Midnight Riders / From Contest Event 2010](https://steamcommunity.com/sharedfiles/filedetails/?id=2800118176)
+* [Midnight - The Last Stand Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=2289240722)
+* [New physic and collision ragdoll mod (REUPLOAD)](https://steamcommunity.com/sharedfiles/filedetails/?id=2809938262)
+* [L4D2 Reanimation Pack](https://steamcommunity.com/workshop/filedetails/?id=1281098634)
+* [Skybox Remix](https://steamcommunity.com/sharedfiles/filedetails/?id=2793985609)
+* [Vibrant Color Correction Pack 2018](https://steamcommunity.com/sharedfiles/filedetails/?id=1978332830)
+
+##### Scripts
+* [[Support] Actively Talker](https://steamcommunity.com/sharedfiles/filedetails/?id=2696358865)
+* [Contextual Ping System](https://steamcommunity.com/sharedfiles/filedetails/?id=2638628508)
+* [L4D1 Tank Randomizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2582010491)
+* [L4D2 Tank Randomizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2581177751)
+* [Thankful L4D2 Survivors](https://steamcommunity.com/sharedfiles/filedetails/?id=2250597451)
+
+##### Sounds
+* [Metal Themes](https://steamcommunity.com/workshop/filedetails/?id=842044583)
+* [Skins on our Teeth Music Combination](https://steamcommunity.com/sharedfiles/filedetails/?id=1664883865)
+* Some part of [600+ Sounds](https://steamcommunity.com/workshop/filedetails/?id=532543904) and [Fixes](https://steamcommunity.com/workshop/filedetails/?id=2270762409)
+
+##### Fixes and Improvements
+* [Better Bile](https://steamcommunity.com/sharedfiles/filedetails/?id=2809558837)
+* [Correct Boomer legs for L4D2 Campaigns](https://steamcommunity.com/sharedfiles/filedetails/?id=2241399325)
+* [Correct L4D1 Boomer arms](https://steamcommunity.com/sharedfiles/filedetails/?id=2375185665)
+* [CS:S Utility Truck Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2793975289)
+* [Improved Classic Body Piles](https://steamcommunity.com/sharedfiles/filedetails/?id=2307970249)
+* [Improved Classic Corpses](https://steamcommunity.com/sharedfiles/filedetails/?id=2395887017)
+* [Improved Classic Dead Bodies](https://steamcommunity.com/sharedfiles/filedetails/?id=2576619798)
+
+##### Campaigns
+* [Sunrise Carnival](https://steamcommunity.com/sharedfiles/filedetails/?id=2805792607)
+* [Swamp Fever - Night (Version 6.2)](https://steamcommunity.com/sharedfiles/filedetails/?id=2062274615)
+* [The Last Daylight](https://steamcommunity.com/sharedfiles/filedetails/?id=2284030827)
+* [The Dark Center Demo - Atrium Survival](https://steamcommunity.com/sharedfiles/filedetails/?id=2801774685)
+* [The Dark Parish - Remastered](https://steamcommunity.com/sharedfiles/filedetails/?id=2476017454)
+* [The Unofficial Left 4 Dead Tutorial (Campaign)](https://steamcommunity.com/sharedfiles/filedetails/?id=2800506083)
+
+##### Mutations
+* [Realism Death's Door (new DD)](https://steamcommunity.com/sharedfiles/filedetails/?id=2809162199)
+
+#### Removal
+* [[Support] Checkpoint Heal](https://steamcommunity.com/sharedfiles/filedetails/?id=2294680496)
+* [A random Saferoom colour correction mod](https://steamcommunity.com/sharedfiles/filedetails/?id=389709628)
+* [Azure Night - The Last Stand Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=2373373116)
+* [Charged Survivor Screaming](https://steamcommunity.com/sharedfiles/filedetails/?id=2671523247)
+* [Correct Campaign Order](https://steamcommunity.com/sharedfiles/filedetails/?id=2238957546)
+* [Common Infected - New Physic](https://steamcommunity.com/sharedfiles/filedetails/?id=407107888)
+* [Default Pistol tweaks and adjustments](https://steamcommunity.com/sharedfiles/filedetails/?id=2568966040)
+* [HD Loading Spinner](https://steamcommunity.com/sharedfiles/filedetails/?id=1855981010)
+* [Human-Like Survivor Bots](https://steamcommunity.com/sharedfiles/filedetails/?id=1167386507)
+* [Left 4 Dead 1 Campaigns Re-Toned](https://steamcommunity.com/sharedfiles/filedetails/?id=1948440575)
+* [Left 4 Dead 2 Campaigns Re-Toned](https://steamcommunity.com/sharedfiles/filedetails/?id=1948440575)
+* [Low's Classic In-game Portraits](https://steamcommunity.com/sharedfiles/filedetails/?id=2779627706)
+* [Low's Custom Lobby Portraits](https://steamcommunity.com/sharedfiles/filedetails/?id=2779332146)
+* [Realistic Flashlight](https://steamcommunity.com/sharedfiles/filedetails/?id=622388851)
+* [Serene Lazuli - Crash Course Color Correction](https://steamcommunity.com/sharedfiles/filedetails/?id=2410219001)
+* [White Health Bar](https://steamcommunity.com/sharedfiles/filedetails/?id=343176339)
+
 ## Revengeance Reborn 8.0-2022.16a "Furious Wings" (April 26, 2022)
 Welcome to second experimental release of Revengeance Reborn! After long hiatus, we are happy to announce the second experimental version of Revengeance Reborn.
 

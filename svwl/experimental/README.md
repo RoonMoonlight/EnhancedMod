@@ -28,6 +28,7 @@ Note: You need to register or login into NexusMods account to download the mods!
 
 ## Content Mods
 <!-- The mod which adds more contents into the game -->
+* [Asters Big Interior Mod](https://www.nexusmods.com/stardewvalley/mods/10400)
 * [Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)
 * [Date Night](https://www.nexusmods.com/stardewvalley/mods/11459)
 * [Elle's Seasonal Buildings](https://www.nexusmods.com/stardewvalley/mods/1993)
@@ -44,6 +45,7 @@ Note: You need to register or login into NexusMods account to download the mods!
 * [Better Chests](https://www.nexusmods.com/stardewvalley/mods/9791)
 * [Better Shop Menu](https://www.nexusmods.com/stardewvalley/mods/2012)
 * [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+* [Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)
 * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
 * [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 * [Pet Facelift](https://www.nexusmods.com/stardewvalley/mods/9097)
@@ -73,12 +75,18 @@ Note: You need to register or login into NexusMods account to download the mods!
 
 ## Dependencies and Library Mods
 <!-- The mod which is library or dependencies of specific mods -->
+* [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
 * [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 * [Content Patcher Animations](https://www.nexusmods.com/stardewvalley/mods/3853)
 * [Custom Music](https://www.nexusmods.com/stardewvalley/mods/3043)
 * [Custom Tokens](https://www.nexusmods.com/stardewvalley/mods/7517)
 * [Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)
 * [FuryCore](https://www.nexusmods.com/stardewvalley/mods/10696)
+
+## Optional Mod
+These mods are optional and not really required unless you want additional features.
+
+* [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
 
 # Frequently Asked Questions (FAQ)
 Please read the FAQ below before making an issue.

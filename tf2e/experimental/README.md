@@ -24,7 +24,6 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experim
 * [Sloofy's Overhauled UI Portraits (SOUP)](https://github.com/Sloofy/soup/releases) (Install art only version)
 * [Source Text Refont [Better Looking Default Text]](https://gamebanana.com/mods/314848)
 * [TF2HUD+ Old Updated](https://gamebanana.com/mods/26761)
-* [Tweaked Stamp Background](https://gamebanana.com/mods/356346)
 
 ## Visual Mods
 * [2007-Styled Weapon Pack](https://gamebanana.com/mods/198560)
