@@ -20,7 +20,7 @@ This repository is the compiliation of modpacks we made, so you can find them ea
 * Truck Simulator: Enhanced
    * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2539528962)
    * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2662863110)
-   * [Starlight](https://github.com/MysticMoonlight/StarlightMod)
+   * [Starlight](https://github.com/MysticMoonlight/StarlightMap)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/README.md) 
 * [Left 4 Dead 2: Revengeance Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551) (Public Experimental Release)
@@ -38,7 +38,7 @@ Warning: This branch is not very stable and unexpected bugs and crashes may occu
 * Truck Simulator: Enhanced
    * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697485771)
    * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697795824)
-   * [Starlight](https://github.com/MysticMoonlight/StarlightMod)
+   * [Starlight](https://github.com/MysticMoonlight/StarlightMap)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/experimental/README.md)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/experimental/README.md)
 * Great Vehicle Battle Series 
