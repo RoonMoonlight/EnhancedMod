@@ -1,5 +1,5 @@
 # Changelog
-## Team Fortress 2: Enhanced v9.0-2022.20a "Your Freedom" (May 8, 2022)
+## Team Fortress 2: Enhanced v9.0-2022.20a "Your Freedom" (May 23, 2022)
 > *"As of this version, you will gain more freedom of your choice."* 
 
 Welcome to yet another update of Team Fortress 2: Enhanced experimental release! This update brings many changes to the sound and hud effects.

@@ -1,5 +1,5 @@
 # Changelog
-## 6.0-2022.20a "Calendula" (May 22, 2022)
+## 6.0-2022.20a "Calendula" (May 23, 2022)
 Welcome to yet another experimental release of 6.0 series! This update adds several useful features and contents into the game.
 
 ### Highlights
@@ -9,6 +9,7 @@ Welcome to yet another experimental release of 6.0 series! This update adds seve
 
 ### Mod list changes
 #### Additions
+* [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
 * [Asters Big Interior Mod](https://www.nexusmods.com/stardewvalley/mods/10400)
 * [Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)
 * [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533) [OPTIONAL]

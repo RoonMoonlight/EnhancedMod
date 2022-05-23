@@ -1,5 +1,5 @@
 # Changelog
-## Revengeance Reborn 8.0-2022.20a (Acropolis) (April 26, 2022)
+## Revengeance Reborn 8.0-2022.20a (Acropolis) (May 23, 2022)
 Welcome to third experimental release of Revengeance Reborn! Our team was recently busy with doing some works, so we could not able to update this collection for several weeks. Sorry about that!
 
 Fortunately this time we remember which mod is about to be removed, so you don't have to reinstall collection this time!
@@ -7,7 +7,7 @@ Fortunately this time we remember which mod is about to be removed, so you don't
 Codename is finally confirmed to be "Acropolis". The old codename is no longer valid due to boring codename.
 
 ### Highlights
-* Added new variant of campaigns for following campaign: The Last Stand, Dark Carnival, Swamp Fever, The Parish! Enjoy the campaign with alternative environment and different route.
+* Added new variant of campaigns for following campaign: The Last Stand, Dark Carnival, Hard Rain, The Parish, Cold Stream! Enjoy the campaign with alternative environment and different routes.
 * Added Tutorial campaign for players who never played Left 4 Dead 2 before! 
 * Added back the new animations and sound effects from Death Reborn!
 * Added new dialogues for all L4D1/L4D2 survivors!
@@ -76,7 +76,8 @@ Codename is finally confirmed to be "Acropolis". The old codename is no longer v
 
 ##### Campaigns
 * [Sunrise Carnival](https://steamcommunity.com/sharedfiles/filedetails/?id=2805792607)
-* [Swamp Fever - Night (Version 6.2)](https://steamcommunity.com/sharedfiles/filedetails/?id=2062274615)
+* [Lukewarm Stream](https://steamcommunity.com/sharedfiles/filedetails/?id=2781617457)
+* [No Rain](https://steamcommunity.com/sharedfiles/filedetails/?id=2581926298)
 * [The Last Daylight](https://steamcommunity.com/sharedfiles/filedetails/?id=2284030827)
 * [The Dark Center Demo - Atrium Survival](https://steamcommunity.com/sharedfiles/filedetails/?id=2801774685)
 * [The Dark Parish - Remastered](https://steamcommunity.com/sharedfiles/filedetails/?id=2476017454)

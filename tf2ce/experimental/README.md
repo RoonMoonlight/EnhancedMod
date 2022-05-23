@@ -41,6 +41,7 @@ These mods are optional and can be ignored if you don't want to install.
 * [DemonstrationTF Bloody Hit/Kill Sounds](https://drive.google.com/file/d/1TrAwgYa_wDi5Qab4c_PJe9p5GBbFp3Jd/view) (Backported from TF2:E)
 * [Quake Crosshairs on TF2](https://gamebanana.com/mods/12535) (Backported from TF2:E)
 * [Custom Weapons: Classic - Optional Files](https://gamebanana.com/mods/307880) (If you play Custom Weapons: Classic often this mod is recommended, but will leave it as optional)
+* [TF2C - The New-Old Weapons Pack!](https://gamebanana.com/mods/40389)
 
 # Note
 * This modpack will NOT work on sv_pure 1/2 servers.

@@ -1,4 +1,23 @@
 # Changelog
+## ETS2: Enhanced 45.0-2022.20a (Farsala) [April 26, 2022]
+Welcome to yet another experimental release of Euro Truck Simulator 2: Enhanced! This is the small update which improves visual of traffic and train sound improvements.
+
+Codename is confirmed to be Farsala, one of cities located on southern Thessaly of Greece (Hellenic Republic).
+
+### Highlights
+* Added back the Frkn's Realistic Vehicle Lights mod due to popularity
+* Train sounds are replaced with more realistic one
+
+### Mod list changes
+#### Additions
+* [Realistic Vehicle Lights Mod (by Frkn64)](https://steamcommunity.com/sharedfiles/filedetails/?id=774384307)
+* [Reworked Train Sounds](https://steamcommunity.com/sharedfiles/filedetails/?id=2799446816)
+
+#### Removal
+* [IMPROVED] Dynamic Suspension & Realistic Steering with Keyboard
+* SiSL's Route Adviser
+* SiSL's Trailer Pack
+
 ## ETS2: Enhanced 44.0-beta5 (April 26, 2022)
 After long hiatus due to exam, we are now back with final beta5 update! This might be last beta release as Open Beta is now in progress for ETS2/ATS.
 

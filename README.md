@@ -1,7 +1,7 @@
 # Notice
+* New experimental updates are now available on following mod series: TF2: Enhanced, SV: Wildlife, Revengeance Reborn, Truck Sim: Enhanced
 * Announcing the new sister project of TF2:E, Team Fortress 2 Classic: Enhanced! [More information can be found here.](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2ce/experimental/README.md)
 * 44.0 has been released for both ETS2/ATS: Enhanced!
-* As of 1.44 release for SCS Truck Simulator, Truck Sim: Enhanced, [Starlight](https://github.com/MysticMoonlight/StarlightMod), Stardew Valley: Wildlife will no longer follow's the game's update schedule. The compatibility update will be the part of minor update in the future.
 
 # Enhanced Mod Series
 Enhanced Mod Series are the collection of modpacks developed by Mystic Moonlight. Initially this project was begun as Team Fortress 2: Enhanced since Jun 16, 2021, and we continously made improvement and expansion and now it become one of biggest project named EnhancedMod and actively being maintained by passionate mod lover [Roon](https://twitter.com/Roon_Moonlight) and several project contributors.

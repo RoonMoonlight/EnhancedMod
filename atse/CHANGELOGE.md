@@ -1,4 +1,23 @@
 # Changelog
+## ATS: Enhanced 45.0-2022.20a (Fort Collins) [April 26, 2022]
+Welcome to yet another experimental release of American Truck Simulator: Enhanced! This is the small update which improves visual of traffic and train sound improvements.
+
+Codename is confirmed to be Fort Collins, one of home rule municipality located on Colorado, United States.
+
+### Highlights
+* Added back the Frkn's Realistic Vehicle Lights mod due to popularity
+* Train sounds are replaced with more realistic one
+* Improved dashboard for following trucks: Westernstar 49X, Freightliner Cascadia 2019, International 9900i, Mack Anthem
+
+### Mod list changes
+#### Additions
+* [Freightliner Cascadia 2019 Improved Dashboard](https://steamcommunity.com/sharedfiles/filedetails/?id=2800373758)
+* [International 9900i Improved Dashboard](https://steamcommunity.com/sharedfiles/filedetails/?id=2800180030)
+* [Mack Anthem Improved Dashboard](https://steamcommunity.com/sharedfiles/filedetails/?id=2800103618)
+* [Realistic Vehicle Lights Mod (by Frkn64)](https://steamcommunity.com/sharedfiles/filedetails/?id=777974467)
+* [Reworked Train Sounds](https://steamcommunity.com/sharedfiles/filedetails/?id=2799446618)
+* [Westernstar 49X Improved Dashboard](https://steamcommunity.com/sharedfiles/filedetails/?id=2801915483)
+
 ## ATS: Enhanced 44.0-beta5 (April 26, 2022)
 After long hiatus due to exam, we are now back with final beta5 update! This might be last beta release as Open Beta is now in progress for ETS2/ATS.
 

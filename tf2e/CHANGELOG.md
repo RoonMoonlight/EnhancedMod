@@ -1,5 +1,5 @@
 # Changelog
-## Team Fortress 2: Enhanced 8.1 "Pyro Technic" (Apr 26, 2022)
+## Team Fortress 2: Enhanced 8.1 (Pyro Technic) [May 23, 2022]
 Update to resolve [Issue #8](https://github.com/MysticMoonlight/EnhancedMod/issues/8) - Thank you Sloofy once again for the reporting a issue!
 
 ### Highlight
