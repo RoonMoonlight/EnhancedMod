@@ -1,4 +1,26 @@
 # Changelog
+## Revengeance Reborn 8.0-2022.20b (Acropolis) (May 23, 2022)
+Hotfix to remove No Rain, instead replacing the campaign with Hard Rain: Downpour (Pre-TLS) and color correction changes.
+
+### How to Update
+1. Close the game
+2. Go to listed mod(s) which is marked as 'Removal' below (Note: Steam Login is required to unsubscribe)
+3. Click on 'Unsubscribe' for all mods
+4. Go back to [Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551) and click on 'Subscribe to All'
+5. You are done, launch L4D2 and enjoy playing
+
+### Additions
+#### Visuals
+* Individual Color Corrections from [Mechanic](https://steamcommunity.com/workshop/filedetails/?id=1921810381) and [Olde](https://steamcommunity.com/workshop/filedetails/?id=1095804934)
+
+#### Campaigns
+* [Hard Rain: Downpour [Rollback Pre-TLS Version]](https://steamcommunity.com/sharedfiles/filedetails/?id=2727020976)
+
+### Removal
+* [No Rain](https://steamcommunity.com/sharedfiles/filedetails/?id=2581926298)
+* [Vibrant Color Correction Pack 2018](https://steamcommunity.com/sharedfiles/filedetails/?id=1978332830)
+
+
 ## Revengeance Reborn 8.0-2022.20a (Acropolis) (May 23, 2022)
 Welcome to third experimental release of Revengeance Reborn! Our team was recently busy with doing some works, so we could not able to update this collection for several weeks. Sorry about that!
 

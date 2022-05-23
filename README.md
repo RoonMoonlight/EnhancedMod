@@ -1,4 +1,5 @@
 # Notice
+* Hotfix has been pushed for Revengeance Reborn - Read the [changelog](https://github.com/MysticMoonlight/EnhancedMod/blob/main/revreborn/CHANGELOG.md) for more information
 * New experimental updates are now available on following mod series: TF2: Enhanced, SV: Wildlife, Revengeance Reborn, Truck Sim: Enhanced
 * Announcing the new sister project of TF2:E, Team Fortress 2 Classic: Enhanced! [More information can be found here.](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2ce/experimental/README.md)
 * 44.0 has been released for both ETS2/ATS: Enhanced!
