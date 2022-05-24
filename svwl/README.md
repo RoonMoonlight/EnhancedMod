@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/25527589/153413693-8abd320c-84db-49fc-8bea-87ee96c81a3b.png)
 
-> **"Welcome to wild life... Which lively nature surrounds you."**
+> **"Welcome to the wild life, where nature surrounds you."**
 
 # Stardew Valley: Wildlife
 Stardew Valley: Wildlife is the 11th EnhancedMod Series, aiming to improve and expand on the original Stardew Valley gameplay while feeling close to home.

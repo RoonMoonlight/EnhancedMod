@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/25527589/153413693-8abd320c-84db-49fc-8bea-87ee96c81a3b.png)
 
-> **"May the nature be with you"**
+> **"May nature be with you"**
 
 # Stardew Valley: Wildlife [Experimental Branch]
 Stardew Valley: Wildlife is the 11th EnhancedMod Series, aiming to improve and expand on the original Stardew Valley gameplay while feeling close to home.
