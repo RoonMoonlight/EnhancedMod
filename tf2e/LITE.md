@@ -1,5 +1,5 @@
 # Team Fortress 2: Enhanced Lite
-Team Fortress 2: Enhanced is a modpack focused on improving the overall visuals and sound effects while keeping original TF2 atmosphere.
+Team Fortress 2: Enhanced is a modpack focused on improving the overall visuals and sound effects while keeping the original TF2 atmosphere.
 
 Due to licensing issues, the entire modpack will not be available to download, so you must download each mod individually from the links below.
 
