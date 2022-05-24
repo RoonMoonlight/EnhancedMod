@@ -1,16 +1,17 @@
 # Team Fortress 2: Enhanced 
-Team Fortress 2: Enhanced is the modpack focused on improving overall visuals and sound effects while keeping original TF2 atmosphere.
+Team Fortress 2: Enhanced is a modpack focused on improving the overall visuals and sound effects while keeping original TF2 atmosphere.
 
-Due to license issue, the modpack will not be available, so you must download it on their mod page manually.
+Due to licensing issues, the entire modpack will not be available to download, so you must download each mod individually from the links below.
 
 # Changelog
 See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGELOG.md).
 
 # How to Install
-1. Extract the archive file you downloaded (It should be `.zip`, `.rar`, or `.7z`)
-2. Put the folder or vpk file to `tf/custom` folder inside Local Files (To access local files, Go to Properties -> Local Files -> Browse...)
-	* 2-1. **Attention to Linux/macOS Users!** If the folder contains uppercase and space, you must rename the folder to contain only lowercase/underscore otherwise TF2 cannot detect the folder mod(s) upon launch!
-3. Launch the game, enjoy the modpack!
+1. Download the mods you want from the links below.
+2. Extract the archive file you downloaded (it should end with `.zip`, `.rar`, or `.7z`).
+3. Move the folder or .vpk file to `tf/custom` folder inside Local Files (To access local files, Go to Properties -> Local Files -> Browse...)
+	* 2-1. **Attention to Linux/macOS users!** If the folder contains uppercase and/or spaces, you must rename the folder to contain only lowercase characters, otherwise TF2 cannot detect the folder mod(s) upon launch!
+4. Launch the game, and enjoy the modpack!
 
 # List of Mods
 ## UI Mods
@@ -74,5 +75,5 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGEL
 * [Smissmas Background in Color](https://gamebanana.com/mods/25229)
 
 # Note
-* This modpack will NOT work on sv_pure 1/2 servers. [Lite version](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/LITE.md) is available for users who play on Valve/sv_pure 1 servers.
-* Please use official download such as GameBanana, and do NOT use other illegal redistribution website.
+* This modpack will NOT work on sv_pure 1/2 servers. [Lite version](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/LITE.md) is available for players who join Valve/sv_pure 1 servers.
+* Please use official download sources such as GameBanana, and do NOT use other illegal redistribution websites.

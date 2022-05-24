@@ -1,6 +1,6 @@
 # Changelog
 ## Team Fortress 2: Enhanced 8.1 (Pyro Technic) [May 23, 2022]
-Update to resolve [Issue #8](https://github.com/MysticMoonlight/EnhancedMod/issues/8) - Thank you Sloofy once again for the reporting a issue!
+Update to resolve [Issue #8](https://github.com/MysticMoonlight/EnhancedMod/issues/8) - Thank you Sloofy once again for the reporting an issue!
 
 ### Highlight
 * Removed [Tweaked Stamp Background](https://gamebanana.com/mods/356346) as it is no longer necessary (Refer to [March 30, 2022 patch](https://wiki.teamfortress.com/wiki/March_30,_2022_Patch) for details)
