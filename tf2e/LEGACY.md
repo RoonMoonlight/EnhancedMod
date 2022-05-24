@@ -1,18 +1,18 @@
 # This mod is outdated
-This mod is outdated and no longer supported. This document will remain for archival purposes. Please check out the [Next generation of TF2:E](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/README.md) for better experience.
+This mod is outdated and no longer supported. This document will remain for archival purposes. Please check out the [next generation of TF2:E](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/README.md) for a better and actively supported experience.
 
 # Team Fortress 2: Enhanced
-Team Fortress 2 Enhanced is the modpack focused on improving overall visuals and sound effects while keeping original TF2 atmosphere.
+Team Fortress 2: Enhanced is a modpack focused on improving the overall visuals and sound effects while keeping the original TF2 atmosphere.
 
-Due to license issue, the modpack will not be available, so you must download it on their mod page manually.
+Due to licensing issues, the entire modpack will not be available to download, so you must download each mod individually from the links below.
 
-**NOTE:** This modpack may not work properly on sv_pure 1 servers(e.g. Skial, Valve Official Server, etc), use at own risk if you play on these servers.
+**NOTE:** This modpack may not work properly on sv_pure 1 servers (e.g. Skial, official Valve server, etc), so use at own risk if you play on these servers.
 
 # Changelog
 See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/CHANGELOG.md).
 
 # List of Mods
-Last Updated on December 13, 2021
+Last Updated on December 13th, 2021.
 
 ### Optimization Mod (Recommended)
 - [mastercomfig](https://mastercomfig.com)
@@ -97,7 +97,7 @@ Last Updated on December 13, 2021
 
 #### Optional UI Mods
 - [Drastically Improved tf_english.txt](https://gamebanana.com/mods/314843) (Do not use if you use HUD which replaces tf_english.txt)
-- [Source Text Refont [Better Looking Default Text]](https://gamebanana.com/mods/314848) (Do not use if you use Linux and/or HUD which changes default font)
+- [Source Text Refont [Better Looking Default Text]](https://gamebanana.com/mods/314848) (Do not use if you use Linux and/or HUD which changes the default font)
 
 #### Seasonal Mods (Must be put in high priority than other mods!)
 ##### Scream Fortress 2021
@@ -105,8 +105,8 @@ Last Updated on December 13, 2021
 - [TF2 Dynamic Music Mod - HALLOWEEN SPECIAL](https://gamebanana.com/sounds/56638)
 
 # Note
-Before installing mods, please read the description and installation carefully. Mystic Moonlight has no responsiblity about these mods!
+Before installing mods, please read the description and installation instructions carefully. Mystic Moonlight carries no responsibility with incompatibility issues or problems arising from these mods!
 
 Valve, the Valve logo, Steam, the Steam logo, Team Fortress, the Team Fortress logo, Source, the Source logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.
 
-Team Fortress 2 Enhanced is not sponsored, endorsed, licensed by, or affiliated with Valve Corporation.
+Team Fortress 2: Enhanced is not sponsored, endorsed, licensed by, or affiliated with Valve Corporation.

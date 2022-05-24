@@ -1,33 +1,33 @@
 ![logo](https://user-images.githubusercontent.com/25527589/153413693-8abd320c-84db-49fc-8bea-87ee96c81a3b.png)
 
-> **"May the nature be with you"**
+> **"May nature be with you"**
 
 # Stardew Valley: Wildlife [Experimental Branch]
-Stardew Valley: Wildlife is 11th EnhancedMod Series, aiming to improve and expand original Stardew Valley while not changing gameplay too much.
+Stardew Valley: Wildlife is the 11th EnhancedMod Series, aiming to improve and expand on the original Stardew Valley gameplay while feeling close to home.
 
-This is Codename Utopia Preview/Experimental branch of Wildlife which recreates everything from scratch to completely follow the original artstyles and gameplays, while adding slight features into the game.
+This is codename Utopia Preview/Experimental branch of Wildlife, which recreates everything from scratch to completely follow the original artstyles and gameplay, while adding slight features into the game.
 
 # ⚠️ Warning ⚠️
-* This is same as experimental version and has not been tested yet. You may experience bugs and crashes.
-* This branch is incompatible with existing stable/experimental branch * It is advised to test on new saves for people who is about to try this branch. (We are NOT responsible for any save corrupts for ignoring this warning)
+* This is same as experimental version and has not been tested yet. You may experience bugs or crashes.
+* This branch is incompatible with the existing stable/experimental branch * It is advised to playtest the modpack on new saves (we are NOT responsible for any save corrupts for ignoring this warning).
 * Contents included on this branch may subject to change at any time.
-* The Frequently Answered Questions(FAQs) have received an update. Scroll down to read all of it. (And do NOT make issue about questions which is already answered below)
+* The Frequently Answered Questions (FAQs) have received an update. Scroll down to read all of it (and do NOT make issue about questions which is already answered below).
 
 # Installation
-This modpack requires [SMAPI](https://smapi.io/) to install this modpack. More installation tutorial can be found [here](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started).
+This modpack requires [SMAPI](https://smapi.io/) to install this modpack. Additional installation documentation can be found [here](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started).
 
-We recommend you to install this modpack on clean state (Without any saves) for best experience.
+We recommend you install this modpack on a new save file.
 
 # Release Notes
-[Click here to see release notes.](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/utopia/CHANGELOG.md)
+[Click here to see release notes](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/utopia/CHANGELOG.md).
 
 # List of Mods
-Due to complicated copyright issues, you need to install mods manually from this list of mods.
+Due to licensing issues, the entire modpack will not be available to download, so you must download each mod individually from the links below.
 
-Note: You need to register or login into NexusMods account to download the mods!
+**Note**: You need to have a NexusMods account to download mods!
 
 ## Content Mods
-<!-- The mod which adds more contents into the game -->
+<!-- Mods adding new content to the game -->
 * [Asters Big Interior Mod](https://www.nexusmods.com/stardewvalley/mods/10400)
 * [Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)
 * [Date Night](https://www.nexusmods.com/stardewvalley/mods/11459)
@@ -40,7 +40,7 @@ Note: You need to register or login into NexusMods account to download the mods!
 * [Shardust's Hairstyles](https://www.nexusmods.com/stardewvalley/mods/8138) (USE CP version)
 
 ## Improvement Mods
-<!-- The mod which improves the game but not excessively -->
+<!-- Mods offering QOL features and other smaller improvements -->
 * [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
 * [Better Chests](https://www.nexusmods.com/stardewvalley/mods/9791)
 * [Better Shop Menu](https://www.nexusmods.com/stardewvalley/mods/2012)
@@ -53,7 +53,7 @@ Note: You need to register or login into NexusMods account to download the mods!
 * [Time of the Prairie King](https://www.nexusmods.com/stardewvalley/mods/5631)
 
 ## Visual Mods
-<!-- The mod which simply changes visual of graphics -->
+<!-- Mods changing visual style and improving graphical fidelity -->
 * [Ambient Light](https://www.nexusmods.com/stardewvalley/mods/4639)
 * [Crop Variation](https://www.nexusmods.com/stardewvalley/mods/11467)
 * [Festivals Recolor and Animations](https://www.nexusmods.com/stardewvalley/mods/2822)
@@ -62,7 +62,7 @@ Note: You need to register or login into NexusMods account to download the mods!
 * [Vanilla Tweaks](https://www.nexusmods.com/stardewvalley/mods/10852)
 
 ## UI Mods 
-<!-- The mod which simply changes existing UI -->
+<!-- Mods altering the UI -->
 * [CP - Animated Pet Icons](https://www.nexusmods.com/stardewvalley/mods/10392)
 * [Experience Bars](https://www.nexusmods.com/stardewvalley/mods/509)
 * [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
@@ -70,11 +70,11 @@ Note: You need to register or login into NexusMods account to download the mods!
 * [Social Page Order Button](https://www.nexusmods.com/stardewvalley/mods/7871)
 
 ## Sound Mods
-<!-- The mod which simply changes the sounds or adds music -->
+<!-- Mods changing sounds or adding new music -->
 * [Back to the Valley](https://www.nexusmods.com/stardewvalley/mods/11517)
 
 ## Dependencies and Library Mods
-<!-- The mod which is library or dependencies of specific mods -->
+<!-- Dependencies or libraries of other mods -->
 * [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
 * [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 * [Content Patcher Animations](https://www.nexusmods.com/stardewvalley/mods/3853)
@@ -84,40 +84,39 @@ Note: You need to register or login into NexusMods account to download the mods!
 * [FuryCore](https://www.nexusmods.com/stardewvalley/mods/10696)
 
 ## Optional Mod
-These mods are optional and not really required unless you want additional features.
+These mods are optional and aren't required unless you want additional features.
 
 * [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
 
 # Frequently Asked Questions (FAQ)
 Please read the FAQ below before making an issue.
 
-**Q) Where did the other features go?**
+**Q) Where did the older features go?**
 
-**A)** Most of features has been removed in favor of keeping original gameplay.
+**A)** Most of features has been removed in favor of staying true to what made Stardew Stardew.
 
 
 **Q) What will happen to old version?**
 
-**A)** The old version will be renamed to 'Stardew Valley: Wildlife Legacy Edition' and no support will be given for this version.
+**A)** The old version will be renamed to 'Stardew Valley: Wildlife Legacy Edition' and no support will be given to that version.
 
 
-**Q) Why you had to change the direction of project?**
+**Q) So, what happened to the direction of the project?**
 
-**A)** After thinking about current version of SDV:W, the current one does not follow the original gameplay and it changes the gameplay too much and additionally, bloats. Also the artstyle(including UI) is way too different, and someone might dislike the changes. So we decided to shift direction to keep the artstyle to vanilla but expanding with slight gameplay additions and improvements.
-
-
-**Q) What has been changed?**
-
-**A)** There is too much to explain... But to keep it short, it is mostly focused on UI/Portrait changes, and new Date system, and some changes to the feature. This branch aims to simplify the list of mods by keeping things original with slight.
+**A)** After working on SDV:W, the current list didn't closely resemble the vanilla experience and changed the gameplay too much. Plus, there was a lot of bloat. Not to mention, the artstyle (including the UI) was way too different, causing disparities to the average player looking for something familiar. So, we decided to shift direction to keep the artstyle to vanilla but expanding with slight gameplay additions and improvements.
 
 
-**Q) Will there be Mobile/Console support?**
+**Q) What's changed?**
 
-**A)** Console is obviously no, as they does not support modding.
-Mobile has lack of features compared with PC version, so it will less likely be supported.
+**A)** There's a lot to unpack, here. But to keep a long story short, it is mostly focused on UI/portrait changes, and new date system, and some changes to the feature. This branch aims to simplify the list of mods by keeping things original with slight.
 
 
-**Q) Why you didn't add huge mod like Stardew Valley: Expanded? I would like to see them!**
+**Q) Will there be mobile/console support?**
 
-**A)** Remember, this is independent and community made project and it is NOT intended to support other big mods.
-The most reason why we are not adding mods like SVE is because of new NPC additions and gameplay changes that we cannot afford.
+**A)** Consoles lack modding tools and won't be supported here.
+Mobile lacks features compared to the PC version, so support won't be prioritized.
+
+
+**Q) Why didn't you add big mods like Stardew Valley: Expanded? I'd love to see them!**
+
+**A)** This is an independently curated list and we will not be supporting large additions by default. However, in the case of SVE, the biggest reason is mod compatibility, NPC support, and gameplay changes too large to currently account for.
