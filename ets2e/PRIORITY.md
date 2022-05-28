@@ -56,6 +56,8 @@ Since we cannot maintain the mod priority list for every update, we decided to r
 * RJL Scania G, R, R 4-series & Streamline
 * RJL Scania T & T 4-series
 * Mercedes-Benz Actros MP2
+* Ford Trucks F-MAX Sound Fix for 1.44.x
+* Ford Trucks F-MAX Dashboard Fix for 1.44.x
 * Ford Trucks F-MAX
 
 ## Experimental Branch
