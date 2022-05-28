@@ -1,4 +1,16 @@
 # Changelog
+## ETS2: Enhanced 45.0-2022.20b (Farsala) [April 28, 2022]
+Quick hotfix to address fixes from Ford Trucks F-Max. Also patched on main branch of ETS2: Enhanced.
+
+### Highlights
+* Fixed engine sounds not playing on Ford Trucks F-MAX.
+* Fixed broken dashboard for Ford Trucks F-MAX.
+
+### Mod Changes
+#### Additions
+* [Ford Trucks F-MAX Sound Fix for 1.44.x](https://steamcommunity.com/sharedfiles/filedetails/?id=2812712219)
+* [Ford Trucks F-MAX Dashboard Fix for 1.44.x](https://steamcommunity.com/sharedfiles/filedetails/?id=2810594386)
+
 ## ETS2: Enhanced 45.0-2022.20a (Farsala) [April 26, 2022]
 Welcome to yet another experimental release of Euro Truck Simulator 2: Enhanced! This is the small update which improves visual of traffic and train sound improvements.
 
