@@ -1,7 +1,6 @@
 # Notice
 * A hotfix has been pushed for Revengeance Reborn - Read the [changelog](https://github.com/MysticMoonlight/EnhancedMod/blob/main/revreborn/CHANGELOG.md) for more information.
-* New experimental updates are now available on following mod series: TF2: Enhanced, SV: Wildlife, Revengeance Reborn, Truck Sim: Enhanced.
-* Announcing the new sister project of TF2:E, Team Fortress 2 Classic: Enhanced! [More information can be found here.](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2ce/experimental/README.md).
+* New experimental updates are now available on following mod series: TF2: Enhanced, SV: Wildlife, Revengeance Reborn, Truck Sim: Enhanced
 * 44.0 has been released for both ETS2/ATS: Enhanced!
 
 # Enhanced Mod Series
@@ -14,8 +13,6 @@ This repository is a compilation of modpacks we've made, so you can find them ea
 # List of Enhanced Mods
 * [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/README.md)
    * [Half-Life 2: Re;Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2re/README.md) (Coming Soon)
-* [Team Fortress 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/README.md)
-   * [Team Fortress 2: Enhanced Lite](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/LITE.md)
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2603092378)
 * [Obsidian Conflict: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/oce/README.md) (Coming Soon)
 * Truck Simulator: Enhanced
@@ -33,8 +30,6 @@ This repository is a compilation of modpacks we've made, so you can find them ea
 Warning: This branch is not very stable, and unexpected bugs and crashes may occur. It is recommended for testing purposes only!
 
 * [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/experimental/README.md)
-* [Team Fortress 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2e/experimental/README.md)
-  * [Team Fortress 2 Classic: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2ce/experimental/README.md)
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2701486568)
 * Truck Simulator: Enhanced
    * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697485771)

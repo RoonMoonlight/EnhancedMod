@@ -16,7 +16,6 @@ There is exception of this case, which is:
 * Optional mods which respects user's decision to install the mods or not
 * Franchise IP owners of assets are the same (e.g. Half-Life 2 and Half-Life Alyx are the same IP owner so it is allowed)
 
-
 ### Performance matters
 Performance is really important for better gameplay experience. Never add mod which can affect performance unless it does the opposite (Which improves performance)
 
