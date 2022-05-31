@@ -4,9 +4,7 @@
 * 44.0 has been released for both ETS2/ATS: Enhanced!
 
 # Enhanced Mod Series
-Enhanced Mod Series is a collection of modpacks developed by Mystic Moonlight. Initially this project started as Team Fortress 2: Enhanced on June 16th, 2021. Following that, we've continuously added improvements and expansions, and now we've consolidated it down to one massive project. Currently, it is actively maintained by passionate mod lover [Roon](https://twitter.com/Roon_Moonlight) and several other project contributors.
-
-Our modpack series aims to be vanilla-friendly and simplistic yet nuanced: Which does not include any assets from other franchises, if possible; keeping the original atmosphere of the game; and removing unnecessary features.
+Enhanced Mod Series is a collection of modpacks developed by Mystic Moonlight and community contributors. Initially this project started on June 16th, 2021 as a single modpack. Following that, we've continuously added improvements and expansions for more game support, and now we've consolidated it down to one massive project.
 
 This repository is a compilation of modpacks we've made, so you can find them easily on one page.
 
@@ -21,7 +19,6 @@ This repository is a compilation of modpacks we've made, so you can find them ea
    * [Starlight](https://github.com/MysticMoonlight/StarlightMap)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/README.md) 
-* [Left 4 Dead 2: Revengeance Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551) (Public Experimental Release)
 * Great Vehicle Battle Series 
    * [World of Tanks: Great Tank Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/README.md)
    * [World of Warships: Great Warship Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wows/README.md)
@@ -37,6 +34,7 @@ Warning: This branch is not very stable, and unexpected bugs and crashes may occ
    * [Starlight](https://github.com/MysticMoonlight/StarlightMap)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/experimental/README.md)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/experimental/README.md)
+* [Left 4 Dead 2: Revengeance Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551)
 * Great Vehicle Battle Series 
    * [World of Tanks: Great Tank Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/experimental/README.md)
    * [World of Warships: Great Warship Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wows/experimental/README.md) 
@@ -64,7 +62,7 @@ All image assets and branding included on this repository is licensed under [Cre
 All text assets (this includes all markdown files) are licensed under [Creative Commons CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/).
 
 # Special thanks to
-* [Selen Tatsuki](https://twitter.com/Selen_Tatsuki) for [motivation about the direction of project](https://twitter.com/Selen_Tatsuki/status/1453444303968038913).
-* Valve Corporation, Crowbar Collective, SCS Software, Turtle Rock Studio, Re-Logic, ConcernedApe, Mojang Studios, Wargaming, Lesta Studio for creating amazing games.
-* All mod developers who've worked passionately on their projects.
+* [Selen Tatsuki](https://twitter.com/Selen_Tatsuki) for [motivation about the direction of project](https://twitter.com/Selen_Tatsuki/status/1453444303968038913)
+* Valve Corporation, Crowbar Collective, SCS Software, Turtle Rock Studio, Re-Logic, ConcernedApe, Mojang Studios, Wargaming, Lesta Studio for creating amazing games
+* All mod developers and project contributors
 * And you!
