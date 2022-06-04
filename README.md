@@ -10,32 +10,32 @@ Enhanced Mod Series is a collection of modpacks developed by Mystic Moonlight an
 This repository is a compilation of modpacks we've made, so you can find them easily on one page.
 
 # List of Enhanced Mods
-* [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/README.md)
-   * [Half-Life 2: Re;Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2re/README.md) (Coming Soon)
-* [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2603092378)
-* [Obsidian Conflict: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/oce/README.md) (Coming Soon)
+* ~~[Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/README.md)~~
+   * ~~Half-Life 2: Re;Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2re/README.md)~~ (Coming Soon)
+* ~~[Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2603092378)~~
+* ~~[Obsidian Conflict: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/oce/README.md)~~ (Coming Soon)
 * Truck Simulator: Enhanced
    * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2539528962)
    * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2662863110)
    * [Starlight](https://github.com/MysticMoonlight/StarlightMap)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
-* [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/README.md) 
-* Great Vehicle Battle Series 
+* [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/README.md)
+* Great Vehicle Battle Series
    * [World of Tanks: Great Tank Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/README.md)
    * [World of Warships: Great Warship Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wows/README.md)
 
 ## Experimental Branch
 Warning: This branch is not very stable, and unexpected bugs and crashes may occur. It is recommended for testing purposes only!
 
-* [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/experimental/README.md)
-* [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2701486568)
+* ~~Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/experimental/README.md)~~
+* ~~[Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2701486568)~~
 * Truck Simulator: Enhanced
    * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697485771)
    * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697795824)
    * [Starlight](https://github.com/MysticMoonlight/StarlightMap)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/experimental/README.md)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/experimental/README.md)
-* [Left 4 Dead 2: Revengeance Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551)
+* ~~[Left 4 Dead 2: Revengeance Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551)~~
 * Great Vehicle Battle Series 
    * [World of Tanks: Great Tank Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/experimental/README.md)
    * [World of Warships: Great Warship Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wows/experimental/README.md) 
