@@ -1,4 +1,5 @@
 # Notice
+* Due to Valve's [recent behaviors](https://twitter.com/csco_dev/status/1533051583134670850), we are halting the update of all projects that uses Source Engine. This includes Half-Life 2: Enhanced, Black Mesa: Enhanced, Left 4 Dead 2: Revengeance Reborn. Our main priority will be non-source engine games. Non-source engine games like Truck Sim: Enhanced will remain updated normally.
 * A hotfix has been pushed for Revengeance Reborn - Read the [changelog](https://github.com/MysticMoonlight/EnhancedMod/blob/main/revreborn/CHANGELOG.md) for more information.
 * New experimental updates are now available on following mod series: TF2: Enhanced, SV: Wildlife, Revengeance Reborn, Truck Sim: Enhanced
 * 44.0 has been released for both ETS2/ATS: Enhanced!
