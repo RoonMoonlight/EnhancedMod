@@ -1,16 +1,16 @@
-# Mystic Moonlight Code of Conduct 2022
+# Mystic Moonlight Code of Conduct
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
+We(Mystic Moonlight) as members, contributors, and leaders pledge to make participation in our
+community a harassment-free and clean community experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,
 nationality, personal appearance, race, religion, or sexual identity
 and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+diverse, inclusive, and healthy community, for creating friendly place together.
 
 ## Our Standards
 
@@ -30,35 +30,35 @@ Examples of unacceptable behavior include:
 * The use of sexualized language or imagery, and sexual attention or
   advances of any kind
 * Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
+* Public or private harassment in any form
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
+* Other acts which could reasonably be considered inappropriate in a
   professional setting
+* Posting any contents which is not related to main topic of specific subject (e.g. advertisements, spam and off-topic contents)
 
 ## Enforcement Responsibilities
 
-Community leaders are responsible for clarifying and enforcing our standards of
+Community managers (including but not limited to project leader(s), project collaborators) are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
 response to any behavior that they deem inappropriate, threatening, offensive,
 or harmful.
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
+Community managers have the right and responsibility to remove, edit, move any contents that are
+not aligned to this Code of Conduct, or restrict access to our projects, and will communicate reasons for moderation
 decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when
+This Code of Conduct applies within all projects related to Mystic Moonlight, and also applies when
 an individual is officially representing the community in public spaces.
 Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
+posting via an Mystic Moonlight official social media account(GitHub, Twitter, etc.), or acting as an appointed
 representative at an online or offline event.
 
-## Attribution
+## Attribution / Notes
 
-This Code of Conduct is adapted from the slightly modified [Contributor Covenant][homepage],
+This Code of Conduct is adapted and modified from [Contributor Covenant][homepage],
 version 2.0, available at
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
@@ -70,3 +70,5 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+Our Code of Conduct was last revised on June 17, 2022.
