@@ -30,7 +30,7 @@ Everything featured on this modpack are configurable via Mod Menu.
 * FOV
 * FPS/CPS/Ping/Potions/Arrows
 * Keystrokes
-* Replay (Removed on recent Lunar Client, but it is now available again)
+* Replay (Removed on recent Lunar Client, but it is now available again on this modpack)
 * Saturation/Exhaustion Display
 * Schematica
 * Scoreboard

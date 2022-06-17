@@ -1,4 +1,61 @@
 # Changelog
+## 6.0-experimental3 (Calendula) [May 23, 2022]
+This is biggest update so far!
+
+### Highlights
+#### New NPC: Aspen
+![New NPC Aspen](https://staticdelivery.nexusmods.com/mods/1303/images/6754/6754-1622257959-546544364.png)
+Say hello to new original Stardew Valley NPC, Aspen! Aspen is a new NPC who lives on her own farm west of the railroads! She got screwed over with
+Joja's accident, preventing her from going home until they clear the path! Fortunately for her,
+Gus was nice enough to let her stay at the Saloon until then.
+
+This is original NPC created by Invatorzen. **Please do note that all content related to Aspen is a Non-Canon.**
+
+#### NPC Adventure
+![NPC Adventure](https://staticdelivery.nexusmods.com/mods/1303/images/4582/4582-1571776046-241199285.png)
+Feeling adventurous? Now you can bring any NPCs to adventure together! New NPC Aspen is also supported.
+
+#### Visitors on your farm?!
+![NPC Adventure](https://staticdelivery.nexusmods.com/mods/1303/images/12457/12457-1655096960-1314944583.png)
+Feeling lonely? Now NPCs can visit your farm!
+
+#### Quality of Life Adjustments
+We have adjusted some features for better improvement!
+* Makes Bee House, Mushroom Box and Tapper produce improve quality with age, following the example of Fruit Trees. NEW: Quality also considers skill levels.
+* Makes Mushroom Box, Tappers and Berry Bushes reward foraging experience when harvested.
+* Makes Meads take after the flower type of the input Honey item.
+* Makes large Eggs and Milk double the output stack instead of increasing the quality.
+* Prevents Fruit Trees from growing in winter.
+* Allow Botanist/Ecologist perk to apply to hoed Ginger and Coconuts obtained from shaking palm trees.
+* Causes bombs to explode immediately if in range of another explosion.
+
+#### Other changes
+* Adjusted some combat features.
+* Light tweaks has been made to fireplace and such.
+* Added Required Libraries that were missing since June 2022
+* Moved Generic Mod Config Menu to Framework mod
+* Renamed existing dependency category to 'Dependencies, Frameworks and Libraries Mod'
+
+### Mod list changes
+#### Additions
+* [Aspen - New Custom Dateable NPC](https://www.nexusmods.com/stardewvalley/mods/6754)
+* [Aspen - NPC Adventures](https://www.nexusmods.com/stardewvalley/mods/8832)
+* [Combat Controls Redux](https://www.nexusmods.com/stardewvalley/mods/10496)
+* [Farmhouse Visits](https://www.nexusmods.com/stardewvalley/mods/12457)
+* [Minor Light Tweaks and Auto Fireplaces](https://www.nexusmods.com/stardewvalley/mods/10223)
+* [NPC Adventures](https://www.nexusmods.com/stardewvalley/mods/4582)
+* [Quality Of Life - Immersive Tweaks](https://www.nexusmods.com/stardewvalley/mods/11296)
+* [Yri's Customizable House Replacer for Aspen](https://www.nexusmods.com/stardewvalley/mods/9490)
+
+### Libraries changes
+#### Additions
+* [Custom Gift Dialogue Utility](https://www.nexusmods.com/stardewvalley/mods/7304/)
+* [Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)
+* [Expanded Preconditions Utility](https://www.nexusmods.com/stardewvalley/mods/6529)
+* [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536)
+* [Quest Framework](https://www.nexusmods.com/stardewvalley/mods/6414)
+* [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
+
 ## 6.0-2022.20a "Calendula" (May 23, 2022)
 Welcome to yet another experimental release of 6.0 series! This update adds several useful features and contents into the game.
 

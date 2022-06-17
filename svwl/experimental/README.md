@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/25527589/153413693-8abd320c-84db-49fc-8bea-87ee96c81a3b.png)
 
-> **"May nature be with you"**
+> **"May the nature be with you"**
 
 # Stardew Valley: Wildlife [Experimental Branch]
 Stardew Valley: Wildlife is the 11th EnhancedMod Series, aiming to improve and expand on the original Stardew Valley gameplay while feeling close to home.
@@ -28,6 +28,8 @@ Due to licensing issues, the entire modpack will not be available to download, s
 
 ## Content Mods
 <!-- Mods adding new content to the game -->
+* [Aspen - New Custom Dateable NPC](https://www.nexusmods.com/stardewvalley/mods/6754)
+* [Aspen - NPC Adventures](https://www.nexusmods.com/stardewvalley/mods/8832)
 * [Asters Big Interior Mod](https://www.nexusmods.com/stardewvalley/mods/10400)
 * [Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)
 * [Date Night](https://www.nexusmods.com/stardewvalley/mods/11459)
@@ -36,6 +38,7 @@ Due to licensing issues, the entire modpack will not be available to download, s
 * [(FS) SH's More Accessories and Stuff](https://www.nexusmods.com/stardewvalley/mods/10659)
 * [FS Wabi's Wardrobe](https://www.nexusmods.com/stardewvalley/mods/11113)
 * [Make Your Bed](https://www.nexusmods.com/stardewvalley/mods/5368)
+* [NPC Adventures](https://www.nexusmods.com/stardewvalley/mods/4582)
 * [Shardust's Animated Hairstyles for Fashion Sense](https://www.nexusmods.com/stardewvalley/mods/10294)
 * [Shardust's Hairstyles](https://www.nexusmods.com/stardewvalley/mods/8138) (USE CP version)
 
@@ -44,13 +47,17 @@ Due to licensing issues, the entire modpack will not be available to download, s
 * [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
 * [Better Chests](https://www.nexusmods.com/stardewvalley/mods/9791)
 * [Better Shop Menu](https://www.nexusmods.com/stardewvalley/mods/2012)
+* [Combat Controls Redux](https://www.nexusmods.com/stardewvalley/mods/10496)
 * [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
 * [Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)
-* [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
+* [Farmhouse Visits](https://www.nexusmods.com/stardewvalley/mods/12457)
 * [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+* [Minor Light Tweaks and Auto Fireplaces](https://www.nexusmods.com/stardewvalley/mods/10223)
 * [Pet Facelift](https://www.nexusmods.com/stardewvalley/mods/9097)
+* [Quality Of Life - Immersive Tweaks](https://www.nexusmods.com/stardewvalley/mods/11296)
 * [Show Item Sell Price](https://www.nexusmods.com/stardewvalley/mods/5)
 * [Time of the Prairie King](https://www.nexusmods.com/stardewvalley/mods/5631)
+* [Yri's Customizable House Replacer for Aspen](https://www.nexusmods.com/stardewvalley/mods/9490)
 
 ## Visual Mods
 <!-- Mods changing visual style and improving graphical fidelity -->
@@ -73,15 +80,22 @@ Due to licensing issues, the entire modpack will not be available to download, s
 <!-- Mods changing sounds or adding new music -->
 * [Back to the Valley](https://www.nexusmods.com/stardewvalley/mods/11517)
 
-## Dependencies and Library Mods
-<!-- Dependencies or libraries of other mods -->
+## Dependencies, Frameworks and Libraries Mod
+<!-- Dependencies, Frameworks or libraries of other mods -->
 * [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
 * [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 * [Content Patcher Animations](https://www.nexusmods.com/stardewvalley/mods/3853)
+* [Custom Gift Dialogue Utility](https://www.nexusmods.com/stardewvalley/mods/7304/)
 * [Custom Music](https://www.nexusmods.com/stardewvalley/mods/3043)
 * [Custom Tokens](https://www.nexusmods.com/stardewvalley/mods/7517)
+* [Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)
 * [Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)
+* [Expanded Preconditions Utility](https://www.nexusmods.com/stardewvalley/mods/6529)
 * [FuryCore](https://www.nexusmods.com/stardewvalley/mods/10696)
+* [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
+* [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536)
+* [Quest Framework](https://www.nexusmods.com/stardewvalley/mods/6414)
+* [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
 
 ## Optional Mod
 These mods are optional and aren't required unless you want additional features.

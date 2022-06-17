@@ -1,5 +1,5 @@
 # Notice
-* Due to Valve's [recent behaviors](https://twitter.com/csco_dev/status/1533051583134670850), we are halting the update of all projects that uses Source Engine. This includes Half-Life 2: Enhanced, Black Mesa: Enhanced, Left 4 Dead 2: Revengeance Reborn. Our main priority will be non-source engine games. Non-source engine games like Truck Sim: Enhanced will remain updated normally.
+* Project is now resumed for all source engine games. TF2:E and TF2C:E will remain discontinued.
 * A hotfix has been pushed for Revengeance Reborn - Read the [changelog](https://github.com/MysticMoonlight/EnhancedMod/blob/main/revreborn/CHANGELOG.md) for more information.
 * New experimental updates are now available on following mod series: TF2: Enhanced, SV: Wildlife, Revengeance Reborn, Truck Sim: Enhanced
 * 44.0 has been released for both ETS2/ATS: Enhanced!
@@ -10,35 +10,37 @@ Enhanced Mod Series is a collection of modpacks developed by Mystic Moonlight an
 This repository is a compilation of modpacks we've made, so you can find them easily on one page.
 
 # List of Enhanced Mods
-* ~~[Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/README.md)~~
-   * ~~Half-Life 2: Re;Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2re/README.md)~~ (Coming Soon)
-* ~~[Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2603092378)~~
-* ~~[Obsidian Conflict: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/oce/README.md)~~ (Coming Soon)
+* [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2603092378)
+* Great Vehicle Battle Series
+   * [World of Tanks: Great Tank Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/README.md)
+   * [World of Warships: Great Warship Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wows/README.md)
+* [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/README.md)
+* [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/README.md)
+* [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
 * Truck Simulator: Enhanced
    * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2539528962)
    * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2662863110)
    * [Starlight](https://github.com/MysticMoonlight/StarlightMap)
-* [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
-* [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/README.md)
-* Great Vehicle Battle Series
-   * [World of Tanks: Great Tank Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/README.md)
-   * [World of Warships: Great Warship Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wows/README.md)
 
 ## Experimental Branch
 Warning: This branch is not very stable, and unexpected bugs and crashes may occur. It is recommended for testing purposes only!
 
-* ~~Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/experimental/README.md)~~
-* ~~[Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2701486568)~~
+* [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2701486568)
+* [Left 4 Dead 2: Revengeance Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551)
+* [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/experimental/README.md)
+* Great Vehicle Battle Series 
+   * [World of Tanks: Great Tank Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/experimental/README.md)
+   * [World of Warships: Great Warship Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wows/experimental/README.md) 
+* [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/experimental/README.md)
+* [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/experimental/README.md)
 * Truck Simulator: Enhanced
    * [Euro Truck Simulator 2: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697485771)
    * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697795824)
    * [Starlight](https://github.com/MysticMoonlight/StarlightMap)
-* [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/experimental/README.md)
-* [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/experimental/README.md)
-* ~~[Left 4 Dead 2: Revengeance Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551)~~
-* Great Vehicle Battle Series 
-   * [World of Tanks: Great Tank Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/experimental/README.md)
-   * [World of Warships: Great Warship Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wows/experimental/README.md) 
+
+## Coming Soon
+* Half-Life 2: Re;Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2re/README.md)
+* [Obsidian Conflict: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/oce/README.md)
 
 # List of Other Modpacks
 These mod collections are not the part of the Enhanced Mod Series.
@@ -50,6 +52,7 @@ These modpacks no longer receive support anymore by Mystic Moonlight. Press `F` 
 
 * PAYDAY 2: Enhanced
 * Death Reborn
+* [Team Fortress 2: Enhanced](https://github.com/MysticMoonlight/TF2Enhanced-Archive) and Team Fortress 2 Classic: Enhanced
 * Terraria: Starshifters
    * Starshifters Classic
 * EndlessMod
@@ -64,6 +67,9 @@ All text assets (this includes all markdown files) are licensed under [Creative 
 
 # Special thanks to
 * [Selen Tatsuki](https://twitter.com/Selen_Tatsuki) for [motivation about the direction of project](https://twitter.com/Selen_Tatsuki/status/1453444303968038913)
+* Michi for providing naming idea for some of projects
 * Valve Corporation, Crowbar Collective, SCS Software, Turtle Rock Studio, Re-Logic, ConcernedApe, Mojang Studios, Wargaming, Lesta Studio for creating amazing games
 * All mod developers and project contributors
 * And you!
+
+<!-- Thank you as always for giving us a hope, Selen! -->
