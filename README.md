@@ -1,8 +1,8 @@
 # Notice
+* Update has been released for experimental release of Stardew Valley: Wildlife, Black Mesa: Enhanced, Revengeance Reborn, Truck Sim: Enhanced! Cosmos 1.19 is now available to public (Some features are unavailable for Cosmos 1.19)
 * Project is now resumed for all source engine games. TF2:E and TF2C:E will remain discontinued.
 * A hotfix has been pushed for Revengeance Reborn - Read the [changelog](https://github.com/MysticMoonlight/EnhancedMod/blob/main/revreborn/CHANGELOG.md) for more information.
 * New experimental updates are now available on following mod series: TF2: Enhanced, SV: Wildlife, Revengeance Reborn, Truck Sim: Enhanced
-* 44.0 has been released for both ETS2/ATS: Enhanced!
 
 # Enhanced Mod Series
 Enhanced Mod Series is a collection of modpacks developed by Mystic Moonlight and community contributors. Initially this project started on June 16th, 2021 as a single modpack. Following that, we've continuously added improvements and expansions for more game support, and now we've consolidated it down to one massive project.
