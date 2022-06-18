@@ -1,5 +1,5 @@
 # Changelog
-## 6.0-experimental3 (Calendula) [May 23, 2022]
+## 6.0-experimental3 (Calendula) [Jun 18, 2022]
 This is biggest update so far!
 
 ### Highlights
