@@ -38,10 +38,6 @@ Warning: This branch is not very stable, and unexpected bugs and crashes may occ
    * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697795824)
    * [Starlight](https://github.com/MysticMoonlight/StarlightMap)
 
-## Coming Soon
-* Half-Life 2: Re;Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2re/README.md)
-* [Obsidian Conflict: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/oce/README.md)
-
 # List of Other Modpacks
 These mod collections are not the part of the Enhanced Mod Series.
 

@@ -1,4 +1,24 @@
 # Changelog
+## ETS2: Enhanced 45.0-experimental2 (Farsala) [June 18, 2022]
+Now it's time for bigger update for ETS2: Enhanced! This update includes some tidying up, 
+
+### Highlights
+![Volvo FH](https://steamuserimages-a.akamaihd.net/ugc/1706286890250004169/1D6847459699632F462ACEF953868FF7F1B71F21/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false)
+* New Truck is now available on Truck Dealer: Introducing Volvo FH 3rd Generation! In September 2012, Volvo Trucks re-launched the Volvo FH with the name 'Volvo FH 3rd Generation', including major technology upgrades, a new design, and more.
+* Introducing new Truck accesories which comes in a handy: Radar Detector! It detects any nearby cameras and warns you with low beep noise. It is useful for country with no camera warning signs like Estonia. (Please note that there is no official radar detectors mechanisms on ETS2 so no fines will be occured in any way. Because of that, you are allowed to use radar detector on any country from ETS2)
+* AI Traffic now have more various colors.
+
+### Mod Changes
+#### Additions
+* [Volvo FH 3rd Generation (1.06)](https://steamcommunity.com/sharedfiles/filedetails/?id=2355498395)
+* [The Anti - Radar/Laser Speed Detector™](https://steamcommunity.com/sharedfiles/filedetails/?id=2465445903)
+* [Realistic Vehicle Colours](https://steamcommunity.com/sharedfiles/filedetails/?id=1137746569)
+
+#### Removal
+* [Real Advertisements](https://steamcommunity.com/sharedfiles/filedetails/?id=1248913107)
+* [Realistic Flares](https://steamcommunity.com/sharedfiles/filedetails/?id=2293400124)
+* [Realistic Headlights](https://steamcommunity.com/sharedfiles/filedetails/?id=2112187479)
+
 ## ETS2: Enhanced 45.0-2022.20b (Farsala) [April 28, 2022]
 Quick hotfix to address fixes from Ford Trucks F-Max. Also patched on main branch of ETS2: Enhanced.
 

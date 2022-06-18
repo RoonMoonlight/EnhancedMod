@@ -1,4 +1,39 @@
 # Changelog
+## Revengeance Reborn 8.0-experimental4 (Acropolis) (Jun 17, 2022)
+Welcome to another big update of Revengeance Reborn! This update includes major hud changes, new soundtracks, and more.
+
+### Highlights
+* Brand new HUD inspired from Minimal V.O hud! Enjoy the simplicity.
+* New metal remix soundtracks by Hawka, AcidDragon! This change was intended to give new soundtrack style of Revengeance Reborn.
+* Finally the new Revengeance Reborn logo is now on Main Menu!
+* Removed 600+ Sound Misc due to possible conflict with other mods.
+* Removed several unnecessary/conflicting mods.
+
+### Mod List Changes
+#### Additions
+* [Main Menu Theme (Metal Rework) v1.0](https://steamcommunity.com/sharedfiles/filedetails/?id=2569110128)
+* [Metal Horde Theme](https://steamcommunity.com/sharedfiles/filedetails/?id=2119786365)
+* [Mini vHUD](https://steamcommunity.com/sharedfiles/filedetails/?id=2821651400)
+* [Orchestral Metal Credits Theme](https://steamcommunity.com/sharedfiles/filedetails/?id=2278412674)
+* [Realistic Flashlight](https://steamcommunity.com/sharedfiles/filedetails/?id=622388851)
+* Revengeance Reborn Logo replacement for Main Menu
+* [Saferoom Theme Metal Rework](https://steamcommunity.com/sharedfiles/filedetails/?id=2282212194)
+* [Skin on Our Teeth Remix (by Hawka)](https://steamcommunity.com/sharedfiles/filedetails/?id=2156845730)
+* [Skin on Our Teeth Remix (by Hawka) L4D](https://steamcommunity.com/sharedfiles/filedetails/?id=2157430905)
+
+#### Removal
+* [600+ Sounds (Misc)](https://steamcommunity.com/sharedfiles/filedetails/?id=532909501)
+* [Actual Flashlight](https://steamcommunity.com/sharedfiles/filedetails/?id=2562972464)
+* [Compact Default Survival Elements](https://steamcommunity.com/sharedfiles/filedetails/?id=2676221522)
+* [HD Enhanced Tipgraphic + FIXES](https://steamcommunity.com/sharedfiles/filedetails/?id=2244927803)
+* [L4D/2: Creepier Level End Music](https://steamcommunity.com/sharedfiles/filedetails/?id=2294479465)
+* [Magenta weapon/item panel selector](https://steamcommunity.com/sharedfiles/filedetails/?id=2731995481)
+* [Reworked Heads-Up Display](https://steamcommunity.com/sharedfiles/filedetails/?id=1206291369)
+* [Reworked HUD - Teammate Panel](https://steamcommunity.com/sharedfiles/filedetails/?id=1351022196)
+* [Semi-Transparent Transition](https://steamcommunity.com/sharedfiles/filedetails/?id=2780731952)
+* [Vanilla Progressbar (Modified)](https://steamcommunity.com/sharedfiles/filedetails/?id=2346971132)
+* [Vanilla Spectator UI (No Black Border)](https://steamcommunity.com/sharedfiles/filedetails/?id=2348316944)
+
 ## Revengeance Reborn 8.0-2022.20b (Acropolis) (May 23, 2022)
 Hotfix to remove No Rain, instead replacing the campaign with Hard Rain: Downpour (Pre-TLS) and color correction changes.
 

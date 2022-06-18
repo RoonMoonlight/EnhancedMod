@@ -29,7 +29,7 @@ Since we cannot maintain the mod priority list for every update, we decided to r
 * Interior Light & Emblems
 * Photo Camera no limit
 * True Mirror FOV for ETS2
-* ETS2 Police Tweaks
+* Roon's Police Tweaks for ETS2
 * Real Fuel Prices
 * Sleep Less Work More
 * Realistic Truck Physics Mod (by Frkn64)
@@ -59,6 +59,7 @@ Since we cannot maintain the mod priority list for every update, we decided to r
 * Ford Trucks F-MAX Sound Fix for 1.44.x
 * Ford Trucks F-MAX Dashboard Fix for 1.44.x
 * Ford Trucks F-MAX
+* (Any Map Combos below)
 
 ## Experimental Branch
 * ProMods New Map Icons ETS2
@@ -71,6 +72,7 @@ Since we cannot maintain the mod priority list for every update, we decided to r
 * Actual Day-/Night Times
 * Realistic Rain
 * [OPTIONAL] [Grimes Season Mod](https://grimesmods.wordpress.com/) OR [Europe Reskin](https://forum.scssoft.com/viewtopic.php?t=284353) (Requires all Map Expansion DLCs)
+* Reworked Train Sounds
 * Real AI Traffic Sounds ETS2 (FMOD)
 * Reefer trailer sound addon for ETS2
 * Sound Fixes Pack - ETS2
@@ -79,20 +81,19 @@ Since we cannot maintain the mod priority list for every update, we decided to r
 * Smaller Dead End Barriers
 * Street Lamps - Without Fog
 * Realistic Signs
-* Real Advertisements
 * [OPTIONAL] [Real company logos (Schumi)](https://forum.scssoft.com/viewtopic.php?t=276521)
-* Realistic Headlights
-* Realistic Flares
+* Realistic Vehicle Lights Mod (by Frkn64)
 * Dashboard Brightness
 * Interior Light & Emblems
 * Photo Camera no limit
 * True Mirror FOV for ETS2
-* ETS2 Police Tweaks
+* Roon's Police Tweaks for ETS2
 * Real Fuel Prices
 * Sleep Less Work More
 * Realistic Truck Physics Mod (by Frkn64)
 * Extended Traffic Light Timing
 * Real Traffic Density and Ratio for ETS2
+* Realistic Vehicle Colours
 * [OPTIONAL] [Daniels Random Events](https://forum.scssoft.com/viewtopic.php?t=265242)
 * [OPTIONAL] [Jazzycat](https://ets2.lt/en/?s=Jazzycat)/[TrafficManiac](https://ets2.lt/en/?s=TrafficManiac)'s AI Traffic Pack Mods
 * Hologram GPS
@@ -114,4 +115,8 @@ Since we cannot maintain the mod priority list for every update, we decided to r
 * RJL Scania G, R, R 4-series & Streamline
 * RJL Scania T & T 4-series
 * Mercedes-Benz Actros MP2
+* Ford Trucks F-MAX Sound Fix for 1.44.x
+* Ford Trucks F-MAX Dashboard Fix for 1.44.x
 * Ford Trucks F-MAX
+* Volvo FH 3rd Generation (1.06)
+* (Any Map Combos below)

@@ -58,6 +58,7 @@ Since we cannot maintain the mod priority list for every update, we decided to r
 * SiSL's Flat UI
 * Actual Day-/Night times
 * Realistic Rain
+* Reworked Train Sounds
 * Real AI Traffic FMOD Sounds ATS
 * Reefer trailer sound addon for ATS
 * Sound Fixes Pack - ATS
@@ -69,8 +70,7 @@ Since we cannot maintain the mod priority list for every update, we decided to r
 * Realistic Signs
 * Real Advertisements
 * [OPTIONAL] Real companies, gas stations & billboards
-* Realistic Headlights
-* Realistic Flares
+* Realistic Vehicle Lights Mod (by Frkn64)
 * Dashboard Brightness
 * Interior Cabin Lights
 * Photo Camera no limit
@@ -81,6 +81,7 @@ Since we cannot maintain the mod priority list for every update, we decided to r
 * Realistic Truck Physics Mod (by Frkn64)
 * Extended Traffic Light Timing
 * Real Traffic Density and Ratio for ATS
+* Realistic Vehicle Colours (ATS Edition)
 * [OPTIONAL] [Daniels Random Events ATS](https://forum.scssoft.com/viewtopic.php?t=293448)
 * [OPTIONAL] [Jazzycat](https://atsmods.lt/?s=Jazzycat)/[TrafficManiac](https://atsmods.lt/?s=TrafficManiac)'s AI Traffic Pack Mods
 * Boreman LED Marker Lights Pack
@@ -91,6 +92,10 @@ Since we cannot maintain the mod priority list for every update, we decided to r
 * [OPTIONAL] [Arnook's Container Mod ATS Edition](https://forum.scssoft.com/viewtopic.php?t=303954)
 * [OPTIONAL] [Jazzycat's Trailer and Cargo Pack](https://atsmods.lt/trailers-and-cargo-pack-by-jazzycat-v5-0/)
 * [OPTIONAL] [Scout ExtraD (Skoda Superb)](https://truckymods.io/euro-truck-simulator-2/Other%20Vehicles/scout-extrad-skoda-superb) (Works on both ETS2 and ATS)
+* Freightliner Cascadia 2019 Improved Dashboard
+* International 9900i Improved Dashboard
+* Mack Anthem Improved Dashboard
+* Westernstar 49X Improved Dashboard
 * Kenworth T880
 * Volvo VNL 2018
 * Volvo VNR

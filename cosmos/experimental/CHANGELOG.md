@@ -3,7 +3,7 @@
 Welcome to second experimental release of version 19 series! After long 1 month break, we are back with amazing updates!
 
 ### Highlights
-* Just Enough Items mod has arrived to Cosmos! Recently Badlion Client team added the feature which acts like [Just Enough Items](https://twitter.com/BadlionClient/status/1518590660017676289). As we mentioned earlier in development, we are NOT going to include any of features which is exclusive to minigame servers that are NOT part of Minecraft features.
+* Just Enough Items mod has arrived to Cosmos! Recently Badlion Client team added the feature which acts like [Just Enough Items](https://twitter.com/BadlionClient/status/1518590660017676289).
 * Chat now displays player's heads! When other player sends message in chat, now it also displays the player's head.
 
 ### Mod list changes
@@ -20,14 +20,13 @@ Better Sounds which was recently updated on Lunar Client but there was no relate
 ### Highlights
 * **Major improvements to ambient sounds** - New environment effects, footstep sounds and more
 * New Falling Leaves effect - Enjoy the beautiful forest atmosphere of the game
-* Sound will play when Cosmos is successfully loaded
+* New Pling Sound will play when Cosmos is successfully loaded
 
 ### Mod changes
 #### Additions
-* Falling Leaves
-* Pling
-* Presense Footsteps
-* Sound Physics Remastered
+* [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)
+* [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
+* [Resounding](https://modrinth.com/mod/resounding)
 
 ## Cosmos 18.2-beta (February 27, 2022)
 Due to upcoming 1.18.2 release on Feb 28, 2022 this might be the last development release of 18.2 release, unless there is serious bug that needs to be addressed.

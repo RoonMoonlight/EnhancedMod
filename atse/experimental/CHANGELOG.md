@@ -1,4 +1,20 @@
 # Changelog
+## ATS: Enhanced 45.0-experimental2 (Fort Collins) [June 18, 2022]
+This time experimental2 has lack of updates for ATS: Enhanced because there was already had a big update from ATS: Enhanced 45.0-2022.20a. For this update, you can consider like tidying up some stuff this time!
+
+### Highlights
+* Removed conflicting/unnecessary mods.
+* AI Traffic now have more various colors.
+
+### Mod list changes
+#### Additions
+* [Realistic Vehicle Colours (ATS Edition)](https://steamcommunity.com/sharedfiles/filedetails/?id=1505979862)
+
+#### Removal
+* [Realistic Flares](https://steamcommunity.com/sharedfiles/filedetails/?id=2293314099)
+* [Realistic Headlights](https://steamcommunity.com/sharedfiles/filedetails/?id=2112203913)
+* [Real companies, gas stations & billboards](https://steamcommunity.com/sharedfiles/filedetails/?id=2316796205)
+
 ## ATS: Enhanced 45.0-2022.20a (Fort Collins) [April 26, 2022]
 Welcome to yet another experimental release of American Truck Simulator: Enhanced! This is the small update which improves visual of traffic and train sound improvements.
 
