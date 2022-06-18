@@ -19,7 +19,7 @@ This modpack requires [SMAPI](https://smapi.io/) to install this modpack. Additi
 We recommend you install this modpack on a new save file.
 
 # Release Notes
-[Click here to see release notes](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/utopia/CHANGELOG.md).
+[Click here to see release notes](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/experimental/CHANGELOG.md).
 
 # List of Mods
 Due to licensing issues, the entire modpack will not be available to download, so you must download each mod individually from the links below.
