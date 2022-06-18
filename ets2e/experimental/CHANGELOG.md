@@ -4,6 +4,7 @@ Now it's time for bigger update for ETS2: Enhanced! This update includes some ti
 
 ### Highlights
 ![Volvo FH](https://steamuserimages-a.akamaihd.net/ugc/1706286890250004169/1D6847459699632F462ACEF953868FF7F1B71F21/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false)
+
 * New Truck is now available on Truck Dealer: Introducing Volvo FH 3rd Generation! In September 2012, Volvo Trucks re-launched the Volvo FH with the name 'Volvo FH 3rd Generation', including major technology upgrades, a new design, and more.
 * Introducing new Truck accesories which comes in a handy: Radar Detector! It detects any nearby cameras and warns you with low beep noise. It is useful for country with no camera warning signs like Estonia. (Please note that there is no official radar detectors mechanisms on ETS2 so no fines will be occured in any way. Because of that, you are allowed to use radar detector on any country from ETS2)
 * AI Traffic now have more various colors.

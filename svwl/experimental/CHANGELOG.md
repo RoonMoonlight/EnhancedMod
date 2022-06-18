@@ -5,6 +5,7 @@ This is biggest update so far!
 ### Highlights
 #### New NPC: Aspen
 ![New NPC Aspen](https://staticdelivery.nexusmods.com/mods/1303/images/6754/6754-1622257959-546544364.png)
+
 Say hello to new original Stardew Valley NPC, Aspen! Aspen is a new NPC who lives on her own farm west of the railroads! She got screwed over with
 Joja's accident, preventing her from going home until they clear the path! Fortunately for her,
 Gus was nice enough to let her stay at the Saloon until then.
@@ -13,10 +14,12 @@ This is original NPC created by Invatorzen. **Please do note that all content re
 
 #### NPC Adventure
 ![NPC Adventure](https://staticdelivery.nexusmods.com/mods/1303/images/4582/4582-1571776046-241199285.png)
+
 Feeling adventurous? Now you can bring any NPCs to adventure together! New NPC Aspen is also supported.
 
 #### Visitors on your farm?!
 ![NPC Adventure](https://staticdelivery.nexusmods.com/mods/1303/images/12457/12457-1655096960-1314944583.png)
+
 Feeling lonely? Now NPCs can visit your farm!
 
 #### Quality of Life Adjustments
