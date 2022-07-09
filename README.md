@@ -68,4 +68,7 @@ All text assets (this includes all markdown files) are licensed under [Creative 
 * All mod developers and project contributors
 * And you!
 
+# Note
+Check out our sister project, [EnhancedMod Classic](https://github.com/MysticMoonlight/EnhancedModClassic).
+
 <!-- Thank you as always for giving us a hope, Selen! -->
