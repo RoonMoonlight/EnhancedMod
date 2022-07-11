@@ -50,7 +50,6 @@ Due to licensing issues, the entire modpack will not be available to download, s
 * [Combat Controls Redux](https://www.nexusmods.com/stardewvalley/mods/10496)
 * [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
 * [Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)
-* [Farmhouse Visits](https://www.nexusmods.com/stardewvalley/mods/12457)
 * [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 * [Minor Light Tweaks and Auto Fireplaces](https://www.nexusmods.com/stardewvalley/mods/10223)
 * [Pet Facelift](https://www.nexusmods.com/stardewvalley/mods/9097)

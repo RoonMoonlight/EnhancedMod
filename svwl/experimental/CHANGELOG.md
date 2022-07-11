@@ -1,4 +1,11 @@
 # Changelog
+## 6.0-experimental3b (Calendula) [Jul 11, 2022]
+This is hotfix experimental release 3 to fix the blurry background issue after sleeping while one of NPCs exists on your farm. Nothing was changed, except the removal of farmhouse visits mod.
+
+### Mod list changes
+#### Removal
+* [Farmhouse Visits](https://www.nexusmods.com/stardewvalley/mods/12457)
+
 ## 6.0-experimental3 (Calendula) [Jun 18, 2022]
 This is biggest update so far!
 

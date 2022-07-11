@@ -1,4 +1,31 @@
 # Changelog
+## Revengeance Reborn 8.0-experimental5 (Fatal Vengeance) (July 11, 2022)
+![Suicide Blitz 2](https://steamuserimages-a.akamaihd.net/ugc/267220742938471940/C97805447A580894EAC131BEEC38ABF17C1B0C39/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false)
+This update might one of best overhaul in Reborn series history - featuring [Realistic FX Pack](https://steamcommunity.com/workshop/filedetails/?id=2832141553), and fresh new custom campaigns! Welcome to the yet another modern L4D2 experience.
+
+### Highlights
+* Overhaul of most particles, thanks to Realistic FX Pack by Kriegs. Now the particles will look more realistic. (We are planning to add other missing two particle mods if author improves performance with it)
+* Two brand new campaigns: Introducing 'Suicide Blitz 2' and 'Fatal Freight: Remastered'! These campaign replaces existing campaigns which aims to remake L4D/L4D2 campaigns.
+* Removed remake of existing campaigns due to unnecessary of alternative environment variant (In the future we are going to only add campaigns which are only original and suits with original L4D experience)
+* Update name changed to 'Fatal Vengeance'
+
+### Mod List Changes
+#### Additions
+* [Fatal Freight: Remastered](https://steamcommunity.com/workshop/filedetails/?id=372031503)
+* [Realistic FX Pack](https://steamcommunity.com/workshop/filedetails/?id=2832141553) (Bullet Impact and Environment FX is not included due to performance issues)
+* [Suicide Blitz 2](https://steamcommunity.com/workshop/filedetails/?id=128428201)
+
+#### Removal
+* [Adrenaline Post Process Optimiser](https://steamcommunity.com/sharedfiles/filedetails/?id=356606916)
+* [Enhacement Particle FX](https://steamcommunity.com/sharedfiles/filedetails/?id=1402054533)
+* [Remove Explosion Flash](https://steamcommunity.com/sharedfiles/filedetails/?id=2165823958)
+* [Sunrise Carnival](https://steamcommunity.com/sharedfiles/filedetails/?id=2805792607)
+* [The Dark Center Demo - Atrium Survival](https://steamcommunity.com/sharedfiles/filedetails/?id=2801774685)
+* [The Dark Parish - Remastered](https://steamcommunity.com/sharedfiles/filedetails/?id=2476017454)
+* [The Last Daylight](https://steamcommunity.com/sharedfiles/filedetails/?id=2284030827)
+* [Lukewarm Stream](https://steamcommunity.com/sharedfiles/filedetails/?id=2781617457)
+* [Hard Rain: Downpour [Rollback Pre-TLS Version]](https://steamcommunity.com/sharedfiles/filedetails/?id=2727020976)
+
 ## Revengeance Reborn 8.0-experimental4 (Acropolis) (Jun 17, 2022)
 Welcome to another big update of Revengeance Reborn! This update includes major hud changes, new soundtracks, and more.
 
