@@ -1,5 +1,5 @@
 # Notice
-* 
+* Cosmos 19.1 (The Doomed 9th Update) has been released.
 * Update has been released for experimental release of Stardew Valley: Wildlife, Black Mesa: Enhanced, Revengeance Reborn, Truck Sim: Enhanced! Cosmos 1.19 is now available to public (Some features are unavailable for Cosmos 1.19)
 * Project is now resumed for all source engine games. TF2:E and TF2C:E will remain discontinued.
 * A hotfix has been pushed for Revengeance Reborn - Read the [changelog](https://github.com/MysticMoonlight/EnhancedMod/blob/main/revreborn/CHANGELOG.md) for more information.
