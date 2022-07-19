@@ -28,10 +28,10 @@ Everything featured on this modpack are configurable via Mod Menu.
 * DirectionHUD
 * Fabrishot
 * FOV
-* ~~FPS/CPS/Ping/Potions/Arrows~~ (Currently unavailable due to code rewrite process)
-* ~~Keystrokes~~ (Currently unavailable due to code rewrite process)
+* FPS/CPS/Ping/Potions/Arrows
+* Keystrokes
 * Saturation/Exhaustion Display
-* ~~Schematica~~ (Currently unavailable due to code rewrite process)
+* Schematica
 * Scoreboard
 * Shaders
 * ~~Sound Enhancements~~ (Coming Soon)
