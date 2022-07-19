@@ -15,7 +15,6 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/stabl
 * Huge optimization has been made, compared with Vanilla Minecraft
 * Shader compatible
 * Community-made project
-* OptiFine format resource packs are partially compatible (As of 18.2 update)
 
 ## List of Mod features
 Everything featured on this modpack are configurable via Mod Menu.
