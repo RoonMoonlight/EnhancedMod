@@ -70,6 +70,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Disable Custom Worlds Advice](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice)
 * [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
 * [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
+* [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud)
 * [Ugly Scoreboard Fix](https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix)
 
 ### Sound Mod
@@ -79,12 +80,11 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 * [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+* [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib/files/all?filter-game-version=2020709689%3A7499)
 
 ### Incompatible Mods
 These mods are incompatible at the moment.
-* [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib/files/all?filter-game-version=2020709689%3A7499) (Code rewrite process)
-	* [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud)
-	* [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
+* [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
 * [Resounding](https://modrinth.com/mod/resounding) (Incompatible at the moment, will add when they add support for 1.19 release)
 
 ### Note

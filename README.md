@@ -11,9 +11,6 @@ This repository is a compilation of modpacks we've made, so you can find them ea
 
 # List of Enhanced Mods
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2603092378)
-* Great Vehicle Battle Series
-   * [World of Tanks: Great Tank Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/README.md)
-   * [World of Warships: Great Warship Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wows/README.md)
 * [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/README.md)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/stable/README.md)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
@@ -27,10 +24,6 @@ Warning: This branch is not very stable, and unexpected bugs and crashes may occ
 
 * [Black Mesa: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2701486568)
 * [Left 4 Dead 2: Revengeance Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2735145551)
-* [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/experimental/README.md)
-* Great Vehicle Battle Series 
-   * [World of Tanks: Great Tank Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/experimental/README.md)
-   * [World of Warships: Great Warship Battle](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wows/experimental/README.md) 
 * [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/experimental/README.md)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/experimental/README.md)
 * Truck Simulator: Enhanced
@@ -38,20 +31,17 @@ Warning: This branch is not very stable, and unexpected bugs and crashes may occ
    * [American Truck Simulator: Enhanced](https://steamcommunity.com/sharedfiles/filedetails/?id=2697795824)
    * [Starlight](https://github.com/MysticMoonlight/StarlightMap)
 
-# List of Other Modpacks
-These mod collections are not the part of the Enhanced Mod Series.
-
-* [PAYDAY 2: Heist of Frenzy](https://github.com/MysticMoonlight/PAYDAY2-HF)
-
 # List of obsolete Modpacks
 These modpacks no longer receive support anymore by Mystic Moonlight. Press `F` to pay respects to these modpacks.
 
 * PAYDAY 2: Enhanced
+	* [PAYDAY 2: Heist of Frenzy](https://github.com/MysticMoonlight/PAYDAY2-HF)
 * Death Reborn
 * [Team Fortress 2: Enhanced](https://github.com/MysticMoonlight/TF2Enhanced-Archive) and Team Fortress 2 Classic: Enhanced
 * Terraria: Starshifters
    * Starshifters Classic
 * EndlessMod
+* Great Vehicle Battle Series
    
 # Our Standards
 [Read more here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md).

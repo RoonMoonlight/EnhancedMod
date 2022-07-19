@@ -1,6 +1,8 @@
 # World of Tanks: Great Tank Battle
 World of Tanks: Great Tank Battle is the selection of mods based on latest version of Aslain's WoT Modpack.
 
+Unfortunately it is now discontinued due to lack of interests in the game.
+
 # Changelog
 See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wot/CHANGELOG.md).
 

@@ -1,6 +1,8 @@
 # World of Warships: Great Warship Battle
 World of Warships: Great Warship Battle is the selection of mods based on latest version of Aslain's WoT Modpack.
 
+Unfortunately it is now discontinued due to lack of interests in the game.
+
 # Changelog
 See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/wows/CHANGELOG.md).
 

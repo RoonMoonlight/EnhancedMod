@@ -1,4 +1,14 @@
 # Changelog
+## Cosmos 19.1 (The Doomed 9th Update) [Jun 18, 2022]
+[Welcome to doomed 9th update, which was controversial for many Minecraft users.](https://arstechnica.com/gaming/2022/06/microsoft-will-start-banning-players-from-all-private-minecraft-servers/) We don't understand why the Mojang is ruining their own game by adding report feature into the game.
+
+Anyways, welcome to yet another update! Thankfully the author of MaLiLib announced that he will be releasing the 1.19 version based on old source codes, meaning that KronHUD can also receive an update without any hassles.
+We are happy to announce that KronHUD and MaLiLib are now returned to Cosmos, meaning that now you can customize the HUD to your likings once again, without having to rely on bloat clients.
+
+### Highlights
+* MaLiLib and KronHUD has been returned from long break! Enjoy customizing the pvp experience for yourself.
+* This modpack should now support 1.19.1 snapshot and stable release (If released). We hope that the M$ doesn't do any harm to Mojang...
+
 ## Cosmos 19.0 "Mangrove" (Jun 18, 2022)
 Welcome back to yet another major update of Cosmos! This update introduces new sound and visual effects, Just Enough Items, and more.
 
