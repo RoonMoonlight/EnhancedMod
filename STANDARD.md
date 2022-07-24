@@ -4,7 +4,7 @@ Welcome to EnhancedMod! Here is the standard we follow when making the Enhanced 
 This was last revised on July 24, 2022.
 
 ### Do not try to change game too much
-Our project is to revamp and give fresh-new style the original game with mods, while keeping original gameplay.
+Our project is to revamp and give fresh-new style the original game with mods, while keeping original gameplay as much as possible. Keep game-changing mods to the minimum.
 
 ### Only originals are accepted with some exceptions
 We only adds mod which uses original/self-made content. We do not tolerate adding things that is from other franchises or games. (e.g. Games, Artwork, Franchises which doesn't present in-game)
