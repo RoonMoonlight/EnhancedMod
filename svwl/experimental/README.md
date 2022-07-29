@@ -22,8 +22,6 @@ We recommend you install this modpack on a new save file.
 [Click here to see release notes](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/experimental/CHANGELOG.md).
 
 # List of Mods
-Due to licensing issues, the entire modpack will not be available to download, so you must download each mod individually from the links below.
-
 **Note**: You need to have a NexusMods account to download mods!
 
 ## Content Mods
@@ -82,7 +80,7 @@ Due to licensing issues, the entire modpack will not be available to download, s
 * [Quality Of Life - Immersive Tweaks](https://www.nexusmods.com/stardewvalley/mods/11296)
 * [Show Item Sell Price](https://www.nexusmods.com/stardewvalley/mods/5)
 * [Time of the Prairie King](https://www.nexusmods.com/stardewvalley/mods/5631)
-* [Yri's Customizable House Replacer for Aspen](https://www.nexusmods.com/stardewvalley/mods/9490)
+* [Warp Network](https://www.nexusmods.com/stardewvalley/mods/8567)
 
 ## Visual Mods
 <!-- Mods changing visual style and improving graphical fidelity -->
@@ -110,6 +108,7 @@ Due to licensing issues, the entire modpack will not be available to download, s
 <!-- Dependencies, Frameworks or libraries of other mods -->
 * [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
 * [Anti-Social NPCs](https://www.nexusmods.com/stardewvalley/mods/5371)
+* [AtraCore](https://www.nexusmods.com/stardewvalley/mods/12932)
 * [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 * [Content Patcher Animations](https://www.nexusmods.com/stardewvalley/mods/3853)
 * [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
@@ -129,6 +128,7 @@ Due to licensing issues, the entire modpack will not be available to download, s
 * [FuryCore](https://www.nexusmods.com/stardewvalley/mods/10696)
 * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
 * [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)
+* [Lumisteria Tilesheets - Indoor](https://www.nexusmods.com/stardewvalley/mods/9599)
 * [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536)
 * [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)
 * [Quest Framework](https://www.nexusmods.com/stardewvalley/mods/6414)

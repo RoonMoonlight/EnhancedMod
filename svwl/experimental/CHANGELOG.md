@@ -10,6 +10,7 @@ That's not all; NPC Adventures support was also added into the game, as well as 
 * New NPCs from independent mods to discover, including Sterling, Henry, Mia, Mister Ginger, Juliet, Jessie, Lunna, Bianca, Raphael, Wilford, Sable, Tristan
 * Holiday Sales will occur, now you can buy items cheaper during holiday
 * If someone is their birthday for NPCs, other NPCs will interact to NPCs who is birthday
+* Feeling too far from destination? Thanks to Wizard's power, warp statues has been added to easily teleport to any other warp statues!
 
 ### Mod Changes
 #### Additions
@@ -30,20 +31,27 @@ That's not all; NPC Adventures support was also added into the game, as well as 
 * [Show Birthday](https://www.nexusmods.com/stardewvalley/mods/7495)
 * [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)
 * [Tristan](https://www.nexusmods.com/stardewvalley/mods/6675)
+* [Warp Network](https://www.nexusmods.com/stardewvalley/mods/8567)
 * [Wilford - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/7313)
+
+#### Removal
+* [Yri's Customizable House Replacer for Aspen](https://www.nexusmods.com/stardewvalley/mods/9490) (Removed by NexusMods: This mod is currently not supported by the author(s) and/or has issue(s) they are unable to fix yet.)
 
 ### Dependency Changes
 #### Additions
 * [Anti-Social NPCs](https://www.nexusmods.com/stardewvalley/mods/5371)
+* [AtraCore](https://www.nexusmods.com/stardewvalley/mods/12932)
 * [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
 * [Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)
 * [Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089)
 * [Custom NPC Fixes](https://www.nexusmods.com/stardewvalley/mods/3849)
+* [Customisable Empty Spouse Rooms with NPC furniture](https://www.nexusmods.com/stardewvalley/mods/11641)
 * [DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)
 * [Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)
 * [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
 * [Flower Dance Fix](https://www.moddrop.com/stardew-valley/mods/980853-flower-dance-fix) [Moddrop]
 * [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)
+* [Lumisteria Tilesheets - Indoor](https://www.nexusmods.com/stardewvalley/mods/9599)
 * [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)
 * [SAAT - Audio API and Toolkit](https://www.nexusmods.com/stardewvalley/mods/10747)
 * [Shop Tile Framework](https://www.nexusmods.com/stardewvalley/mods/5005)
