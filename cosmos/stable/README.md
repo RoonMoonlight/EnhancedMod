@@ -14,6 +14,7 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/stabl
 * Focused on fair-play
 * Huge optimization has been made, compared with Vanilla Minecraft
 * Shader compatible
+* Privacy focused
 * Community-made project
 
 ## List of Mod features
@@ -41,17 +42,16 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 
 ## Mod List
 ### Optimization
+* [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
 * [Indium](https://www.modrinth.com/mod/indium/)
-* [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
 * [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight)
 * [Sodium](https://modrinth.com/mod/sodium)
 
 ### Utility
 * [CraftPresense](https://www.curseforge.com/minecraft/mc-mods/craftpresence) (Fabric releases can be found [here](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/all?filter-game-version=2020709689%3A7499))
-* [Custom FoV](https://www.curseforge.com/minecraft/mc-mods/custom-fov-fabric)
 * [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)
-* [Logical Zoom](https://www.curseforge.com/minecraft/mc-mods/logical-zoom)
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
+* [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
 
 ### Visual Mod
 * [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)
@@ -59,7 +59,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
 
 ### UI Mod
-* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (Fabric releases can be found [here](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/all?filter-game-version=2020709689%3A7499))
+* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 * [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
 * [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
 * [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
@@ -67,9 +67,10 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Compass Ribbon](https://www.curseforge.com/minecraft/mc-mods/compass-ribbon)
 * [Custom Crosshairs](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod) (See all Fabric releases [here](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A7499))
 * [Disable Custom Worlds Advice](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice)
+* [Disable Insecure Chat Toast](https://www.curseforge.com/minecraft/mc-mods/disable-insecure-chat-toast)
 * [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
-* [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 * [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud)
+* [Roughly Enough Items](https://modrinth.com/mod/roughly-enough-items)
 * [Ugly Scoreboard Fix](https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix)
 
 ### Sound Mod
@@ -79,11 +80,13 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 * [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+* [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 * [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib/files/all?filter-game-version=2020709689%3A7499)
 
 ### Incompatible Mods
 These mods are incompatible at the moment.
 * [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
+* [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) (Authors are working on 1.19.1 update, meanwhile don't use this mod, will update it when it becomes available)
 * [Resounding](https://modrinth.com/mod/resounding) (Incompatible at the moment, will add when they add support for 1.19 release)
 
 ### Note

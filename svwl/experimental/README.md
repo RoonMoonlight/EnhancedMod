@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/25527589/153413693-8abd320c-84db-49fc-8bea-87ee96c81a3b.png)
 
-> **"May the nature be with you"**
+> **"Achieve your dream as farmer. Wild natures will always be on your side."**
 
 # Stardew Valley: Wildlife [Experimental Branch]
 Stardew Valley: Wildlife is the 11th EnhancedMod Series, aiming to improve and expand on the original Stardew Valley gameplay while feeling close to home.
@@ -9,7 +9,7 @@ This is codename Utopia Preview/Experimental branch of Wildlife, which recreates
 
 # ⚠️ Warning ⚠️
 * This is same as experimental version and has not been tested yet. You may experience bugs or crashes.
-* This branch is incompatible with the existing stable/experimental branch * It is advised to playtest the modpack on new saves (we are NOT responsible for any save corrupts for ignoring this warning).
+* This branch is incompatible with the existing stable/experimental branch. It is advised to playtest the modpack on new saves (we are NOT responsible for any save corrupts for ignoring this warning).
 * Contents included on this branch may subject to change at any time.
 * The Frequently Answered Questions (FAQs) have received an update. Scroll down to read all of it (and do NOT make issue about questions which is already answered below).
 
@@ -28,19 +28,44 @@ Due to licensing issues, the entire modpack will not be available to download, s
 
 ## Content Mods
 <!-- Mods adding new content to the game -->
-* [Aspen - New Custom Dateable NPC](https://www.nexusmods.com/stardewvalley/mods/6754)
-* [Aspen - NPC Adventures](https://www.nexusmods.com/stardewvalley/mods/8832)
+### Big Content Additions
+* [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
+* [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
+
+### Interiors
 * [Asters Big Interior Mod](https://www.nexusmods.com/stardewvalley/mods/10400)
-* [Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)
-* [Date Night](https://www.nexusmods.com/stardewvalley/mods/11459)
 * [Elle's Seasonal Buildings](https://www.nexusmods.com/stardewvalley/mods/1993)
+* [Make Your Bed](https://www.nexusmods.com/stardewvalley/mods/5368)
+
+### Player Customizations
 * [Fashion Sense](https://www.nexusmods.com/stardewvalley/mods/9969)
 * [(FS) SH's More Accessories and Stuff](https://www.nexusmods.com/stardewvalley/mods/10659)
 * [FS Wabi's Wardrobe](https://www.nexusmods.com/stardewvalley/mods/11113)
-* [Make Your Bed](https://www.nexusmods.com/stardewvalley/mods/5368)
-* [NPC Adventures](https://www.nexusmods.com/stardewvalley/mods/4582)
 * [Shardust's Animated Hairstyles for Fashion Sense](https://www.nexusmods.com/stardewvalley/mods/10294)
 * [Shardust's Hairstyles](https://www.nexusmods.com/stardewvalley/mods/8138) (USE CP version)
+
+### NPCs
+* [Always Raining in the Valley - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/9999)
+* [Aspen - New Custom Dateable NPC](https://www.nexusmods.com/stardewvalley/mods/6754)
+* [Aspen - NPC Adventures](https://www.nexusmods.com/stardewvalley/mods/8832)
+* [Axell's Alternate Mr. Ginger Portraits](https://www.nexusmods.com/stardewvalley/mods/10582)
+* [Always Raining in the Valley - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/9999)
+* [Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)
+* [Date Night](https://www.nexusmods.com/stardewvalley/mods/11459)
+* [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)
+* [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)
+* [Mister Ginger (cat NPC)](https://www.nexusmods.com/stardewvalley/mods/5295)
+* [NPC Adventures](https://www.nexusmods.com/stardewvalley/mods/4582)
+* [PC's Alternative Portraits for Wilford](https://www.nexusmods.com/stardewvalley/mods/12300)
+* [Ridgeside Village - NPC Adventures Addon](https://www.nexusmods.com/stardewvalley/mods/10968)
+* [Sable - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/12533)
+* [Tristan](https://www.nexusmods.com/stardewvalley/mods/6675)
+* [Wilford - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/7313)
+
+### Events
+* [Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)
+* [Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)
+* [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)
 
 ## Improvement Mods
 <!-- Mods offering QOL features and other smaller improvements -->
@@ -50,6 +75,7 @@ Due to licensing issues, the entire modpack will not be available to download, s
 * [Combat Controls Redux](https://www.nexusmods.com/stardewvalley/mods/10496)
 * [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
 * [Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)
+* [Holiday Sales](https://www.nexusmods.com/stardewvalley/mods/13050)
 * [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 * [Minor Light Tweaks and Auto Fireplaces](https://www.nexusmods.com/stardewvalley/mods/10223)
 * [Pet Facelift](https://www.nexusmods.com/stardewvalley/mods/9097)
@@ -73,6 +99,7 @@ Due to licensing issues, the entire modpack will not be available to download, s
 * [Experience Bars](https://www.nexusmods.com/stardewvalley/mods/509)
 * [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
 * [Seasonal Outfits - Slightly Cuter Aesthetic](https://www.nexusmods.com/stardewvalley/mods/5450)
+* [Show Birthday](https://www.nexusmods.com/stardewvalley/mods/7495)
 * [Social Page Order Button](https://www.nexusmods.com/stardewvalley/mods/7871)
 
 ## Sound Mods
@@ -82,19 +109,33 @@ Due to licensing issues, the entire modpack will not be available to download, s
 ## Dependencies, Frameworks and Libraries Mod
 <!-- Dependencies, Frameworks or libraries of other mods -->
 * [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
+* [Anti-Social NPCs](https://www.nexusmods.com/stardewvalley/mods/5371)
 * [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 * [Content Patcher Animations](https://www.nexusmods.com/stardewvalley/mods/3853)
+* [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
+* [Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)
 * [Custom Gift Dialogue Utility](https://www.nexusmods.com/stardewvalley/mods/7304/)
 * [Custom Music](https://www.nexusmods.com/stardewvalley/mods/3043)
+* [Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089)
+* [Custom NPC Fixes](https://www.nexusmods.com/stardewvalley/mods/3849)
 * [Custom Tokens](https://www.nexusmods.com/stardewvalley/mods/7517)
+* [DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)
 * [Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)
 * [Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)
 * [Expanded Preconditions Utility](https://www.nexusmods.com/stardewvalley/mods/6529)
+* [Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)
+* [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
+* [Flower Dance Fix](https://www.moddrop.com/stardew-valley/mods/980853-flower-dance-fix) [Moddrop]
 * [FuryCore](https://www.nexusmods.com/stardewvalley/mods/10696)
 * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
+* [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)
 * [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536)
+* [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)
 * [Quest Framework](https://www.nexusmods.com/stardewvalley/mods/6414)
+* [SAAT - Audio API and Toolkit](https://www.nexusmods.com/stardewvalley/mods/10747)
+* [Shop Tile Framework](https://www.nexusmods.com/stardewvalley/mods/5005)
 * [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
+* [TMXL Map Toolkit](https://www.nexusmods.com/stardewvalley/mods/1820)
 
 ## Optional Mod
 These mods are optional and aren't required unless you want additional features.
@@ -133,3 +174,8 @@ Mobile lacks features compared to the PC version, so support won't be prioritize
 **Q) Why didn't you add big mods like Stardew Valley: Expanded? I'd love to see them!**
 
 **A)** This is an independently curated list and we will not be supporting large additions by default. However, in the case of SVE, the biggest reason is mod compatibility, NPC support, and gameplay changes too large to currently account for.
+
+
+**Q) Some NPCs does not support NPC Adventures!**
+
+**A)** Unless someone creates mod to support NPC Adventures, some NPCs won't be supported. The following NPC mods does not support NPC Adventures: East Scarp, Always Raining in the Valley, Tristan, Lunna - Astray, Mister Ginger, Juliet and Jessie the Joja Clerks, 

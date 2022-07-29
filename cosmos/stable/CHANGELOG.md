@@ -1,4 +1,35 @@
 # Changelog
+## Cosmos 19.84 (The 1984 Update) [Jun 28, 2022]
+**WARNING: This version is incomplete. We recommend you to stay at 19.0 until the crash issues are solved.**
+
+Welcome to ~~not obviously april fools joke~~ 'The 1984 Update' (A.K.A Doomed 9th Update: Part 2). This update exists for mitigation against the Chat Report feature.
+As you may heard but Mojang finally added worst feature: The report system.
+
+Many Minecraft fans did not liked this change, so we decided to add this feature to prevent anyone from abusing report feature, as well as chat improvements.
+
+### Highlights
+* Starting from this update, our client will strip signatures that since 1.19 are attached to every message sent in the chat. tl;dr - Your privacy of chat messages are now secured
+* Telemetry is disabled by default, now Mojang won't be able to collect your information
+* Version name is now 1.19.84 (Can be disabled on mod settings)
+
+### Additions
+* [Disable Insecure Chat Toast](https://www.curseforge.com/minecraft/mc-mods/disable-insecure-chat-toast)
+* [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
+* [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
+* [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
+
+### Replaced & Moved
+* [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) (Main -> Incompatible)
+* Just Enough Items -> [Roughly Enough Items](https://modrinth.com/mod/roughly-enough-items) (Mod outdated)
+
+### Removal
+* [Custom FoV](https://www.curseforge.com/minecraft/mc-mods/custom-fov-fabric) (Mod Author inactive)
+* [Logical Zoom](https://www.curseforge.com/minecraft/mc-mods/logical-zoom) (Author inactive)
+
+### Note
+* As of this minor update, ReplayMod will no longer be compatible and we are not gonna add them back into the game, because of their nature of mod distribution and slow updates.
+* If the `enforce-secure-profile` setting is turned on server you wish to join, you won't be able to join their server. Try asking the server owner to disable this feature in chat (And of course explain why that settings should be disabled).
+
 ## Cosmos 19.1 (The Doomed 9th Update) [Jun 18, 2022]
 [Welcome to doomed 9th update, which was controversial for many Minecraft users.](https://arstechnica.com/gaming/2022/06/microsoft-will-start-banning-players-from-all-private-minecraft-servers/) We don't understand why the Mojang is ruining their own game by adding report feature into the game.
 

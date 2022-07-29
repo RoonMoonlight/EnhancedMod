@@ -1,4 +1,54 @@
 # Changelog
+## 6.0-experimental4 (Calendula) [Jul 29, 2022]
+This is one of massive content update in history: We are happy to introduce that Ridgeside Village, East Scarp is now included to Stardew Valley: Wildlife!
+That's not all; NPC Adventures support was also added into the game, as well as several NPC additions, and Community Center Improvements.
+
+### Features
+* Community Centers has been improved, when the weather is rainy everyone will head to Community Center for hang-outs
+* **Ridgeside Village, East Scarp is now included.** Enjoy the fresh new content while keeping vanilla contents into the game
+* Contents section had to be split into multiple category due to increasement of mods
+* New NPCs from independent mods to discover, including Sterling, Henry, Mia, Mister Ginger, Juliet, Jessie, Lunna, Bianca, Raphael, Wilford, Sable, Tristan
+* Holiday Sales will occur, now you can buy items cheaper during holiday
+* If someone is their birthday for NPCs, other NPCs will interact to NPCs who is birthday
+
+### Mod Changes
+#### Additions
+* [Always Raining in the Valley - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/9999)
+* [Axell's Alternate Mr. Ginger Portraits](https://www.nexusmods.com/stardewvalley/mods/10582)
+* [Always Raining in the Valley - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/9999)
+* [Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)
+* [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
+* [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)
+* [Holiday Sales](https://www.nexusmods.com/stardewvalley/mods/13050)
+* [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)
+* [Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)
+* [Mister Ginger (cat NPC)](https://www.nexusmods.com/stardewvalley/mods/5295)
+* [PC's Alternative Portraits for Wilford](https://www.nexusmods.com/stardewvalley/mods/12300)
+* [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
+* [Ridgeside Village - NPC Adventures Addon](https://www.nexusmods.com/stardewvalley/mods/10968)
+* [Sable - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/12533)
+* [Show Birthday](https://www.nexusmods.com/stardewvalley/mods/7495)
+* [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)
+* [Tristan](https://www.nexusmods.com/stardewvalley/mods/6675)
+* [Wilford - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/7313)
+
+### Dependency Changes
+#### Additions
+* [Anti-Social NPCs](https://www.nexusmods.com/stardewvalley/mods/5371)
+* [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
+* [Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)
+* [Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089)
+* [Custom NPC Fixes](https://www.nexusmods.com/stardewvalley/mods/3849)
+* [DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)
+* [Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)
+* [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
+* [Flower Dance Fix](https://www.moddrop.com/stardew-valley/mods/980853-flower-dance-fix) [Moddrop]
+* [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)
+* [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)
+* [SAAT - Audio API and Toolkit](https://www.nexusmods.com/stardewvalley/mods/10747)
+* [Shop Tile Framework](https://www.nexusmods.com/stardewvalley/mods/5005)
+* [TMXL Map Toolkit](https://www.nexusmods.com/stardewvalley/mods/1820)
+
 ## 6.0-experimental3b (Calendula) [Jul 11, 2022]
 This is hotfix experimental release 3 to fix the blurry background issue after sleeping while one of NPCs exists on your farm. Nothing was changed, except the removal of farmhouse visits mod.
 
