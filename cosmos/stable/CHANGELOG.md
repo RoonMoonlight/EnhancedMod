@@ -1,7 +1,5 @@
 # Changelog
-## Cosmos 19.84 (The 1984 Update) [Jun 28, 2022]
-**WARNING: This version is incomplete. We recommend you to stay at 19.0 until the crash issues are solved.**
-
+## Cosmos 19.84 (The 1984 Update) [Jun 30, 2022]
 Welcome to ~~not obviously april fools joke~~ 'The 1984 Update' (A.K.A Doomed 9th Update: Part 2). This update exists for mitigation against the Chat Report feature.
 As you may heard but Mojang finally added worst feature: The report system.
 
