@@ -3,8 +3,11 @@
 ![RememberFreeman Campaign](https://pbs.twimg.com/media/FXyp6HGUYAMxUly?format=jpg&name=large)
 
 > Spread The Word.
+>
 > August 14th, 15:00 GMT. Play Half-Life 1 on Steam.
+>
 > Like last year's HL2 Event, we'll be breaking the all-time player record that's at 6k right now.
+>
 > Many YTbers, from last year and new, will be joining in too.
 
 We are happy to announce that Mystic Moonlight will be participating in the upcoming event, #RememberFreeman! We decided to participate in this event for modding community.

@@ -2,7 +2,7 @@
 Half-Life: Enhanced is the first project of EnhancedMod Classic Series to improve the popular game in 1998, Half-Life while keeping the classic atmosphere of the game.
 
 # Changelog
-See [here](https://github.com/MysticMoonlight/EnhancedModClassic/blob/main/hle/CHANGELOG.md).
+See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hle/CHANGELOG.md).
 
 # How to Install
 1. Extract the archive file you downloaded (It should be `.zip`, `.rar`, or `.7z`)

@@ -14,7 +14,7 @@ Multiverse Everyday is the second project of EnhancedMod Classic Series for Sven
 > 𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔪𝔲𝔩𝔱𝔦𝔳𝔢𝔯𝔰𝔢.
 
 ## Changelog
-See [here](https://github.com/MysticMoonlight/EnhancedModClassic/blob/main/sc/CHANGELOG.md).
+See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/sc/CHANGELOG.md).
 
 ## How to Install
 1. Extract the archive file you downloaded (It should be `.zip`, `.rar`, or `.7z`)
