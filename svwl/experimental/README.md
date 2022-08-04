@@ -5,7 +5,7 @@
 # Stardew Valley: Wildlife [Experimental Branch]
 Stardew Valley: Wildlife is the 11th EnhancedMod Series, aiming to improve and expand on the original Stardew Valley gameplay while feeling close to home.
 
-This is codename Utopia Preview/Experimental branch of Wildlife, which recreates everything from scratch to completely follow the original artstyles and gameplay, while adding slight features into the game.
+This is codename Utopia Preview/Experimental branch of Wildlife, which recreates everything from scratch to completely follow the original artstyles and gameplay, while adding several contents into the game.
 
 # ⚠️ Warning ⚠️
 * This is same as experimental version and has not been tested yet. You may experience bugs or crashes.
