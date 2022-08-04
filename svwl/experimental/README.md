@@ -84,8 +84,8 @@ We recommend you install this modpack on a new save file.
 
 ## Visual Mods
 <!-- Mods changing visual style and improving graphical fidelity -->
-* [Ambient Light](https://www.nexusmods.com/stardewvalley/mods/4639)
 * [Crop Variation](https://www.nexusmods.com/stardewvalley/mods/11467)
+* [Dynamic Light Time](https://github.com/Sakorona/SDVMods/releases/tag/dynamic-night-time%2F1.3.10) (GitHub)
 * [Festivals Recolor and Animations](https://www.nexusmods.com/stardewvalley/mods/2822)
 * [Matching Nodes](https://www.nexusmods.com/stardewvalley/mods/11124)
 * [Starblue Valley World Recolor](https://www.nexusmods.com/stardewvalley/mods/1869)

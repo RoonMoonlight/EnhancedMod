@@ -1,7 +1,20 @@
 # Changelog
+## 6.0-prerelease1 (Calendula) [Aug 4, 2022]
+### Highlights
+* Bug fixes to resolve lag spikes in-game. Replaced ambient light mod with better one which is lightweight.
+
+### Mod Changes
+#### Additions
+* [Dynamic Light Time](https://github.com/Sakorona/SDVMods/releases/tag/dynamic-night-time%2F1.3.10)
+
+#### Removal
+* [Ambient Light](https://www.nexusmods.com/stardewvalley/mods/4639)
+
 ## 6.0-experimental4 (Calendula) [Jul 29, 2022]
 This is one of massive content update in history: We are happy to introduce that Ridgeside Village, East Scarp is now included to Stardew Valley: Wildlife!
 That's not all; NPC Adventures support was also added into the game, as well as several NPC additions, and Community Center Improvements.
+
+08/04/22 Additional note: This is the final release of experimental branch unless there is additional bugs present in the modpack that needs to be addressed.
 
 ### Features
 * Community Centers has been improved, when the weather is rainy everyone will head to Community Center for hang-outs
