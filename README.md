@@ -16,7 +16,6 @@ This repository is a compilation of modpacks we've made, so you can find them ea
 * [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/README.md)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/stable/README.md)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
-* [Starlight](https://github.com/MysticMoonlight/StarlightMap)
 * [Half-Life: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hle/README.md)
 * [Sven Co-op: Multiverse Everyday](https://github.com/MysticMoonlight/EnhancedMod/blob/main/sc/README.md)
    
@@ -35,7 +34,7 @@ Warning: DO NOT make a pull request for master/main branch or your pull request 
 * If you wish, you could financially support via Mystic Moonlight OpenCollective(Not open yet because of Stripe region limit issues).
 
 Some modpacks costs DLC because some mods require DLC to be able to use. We want everyone to be able to use our modpack for free, without any cost.
-By financially supporting via OpenCollective, we use all of your donations for keeping this project alive, as well as for future biiiig projects.
+By financially supporting via OpenCollective, we use all of your donations for keeping this project alive, as well as for future beeeg projects and upgrades of our offices.
 
 # Special thanks to
 * [Selen Tatsuki](https://twitter.com/Selen_Tatsuki) for [motivation about the direction of project](https://twitter.com/Selen_Tatsuki/status/1453444303968038913)
