@@ -40,7 +40,7 @@ Everything featured on this modpack are configurable via Mod Menu.
 * Scoreboard
 * Shaders
 * Sound Enhancements
-* Toggle Sprints
+* Toggle Sprints (Coming Soon)
 * Zoom
 
 ## Fair-play Warning
