@@ -5,7 +5,7 @@
 Ahem. Anyways welcome back to Cosmos 19.2 Update! We apologize for not having any updates.
 Due to Roon's class enrollment issues, the release could not be able to proceed until this weekend.
 
-However we are happy to release this update to public, and this release might be the final version that dues own versioning scheme.
+However we are happy to release this update to public, and this release might be the final version that uses own versioning scheme.
 Starting from major update planned on August 20th, updates will be git commit/git branch based and all EnhancedMod projects will be synchronized for each updates. From now on to check what was changed please refer to our [releases](https://github.com/MysticMoonlight/EnhancedMod/releases) page or [commits](https://github.com/MysticMoonlight/EnhancedMod/commits/main) section.
 
 ### Highlights
