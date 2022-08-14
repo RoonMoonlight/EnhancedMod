@@ -5,6 +5,10 @@ Cosmos is the EnhancedMod series for popular sandbox game Minecraft, aims to be 
 
 This project is also known as continuation of forgotten modpack, Solaire.
 
+## Dependencies
+* [Minecraft: Java Edition](https://minecraft.net)
+* [Fabric](https://fabricmc.net/)
+
 ## Changelog
 See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/stable/CHANGELOG.md).
 
@@ -30,11 +34,13 @@ Everything featured on this modpack are configurable via Mod Menu.
 * FOV
 * FPS/CPS/Ping/Potions/Arrows
 * Keystrokes
+* Lightmaticas
 * Saturation/Exhaustion Display
 * Schematica
 * Scoreboard
 * Shaders
-* ~~Sound Enhancements~~ (Coming Soon)
+* Sound Enhancements
+* Toggle Sprints
 * Zoom
 
 ## Fair-play Warning
@@ -44,12 +50,14 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 ### Optimization
 * [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
 * [Indium](https://www.modrinth.com/mod/indium/)
+* [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
 * [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight)
 * [Sodium](https://modrinth.com/mod/sodium)
 
 ### Utility
-* [CraftPresense](https://www.curseforge.com/minecraft/mc-mods/craftpresence) (Fabric releases can be found [here](https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/all?filter-game-version=2020709689%3A7499))
+* [CraftPresense](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
 * [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)
+* [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 * [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
 
@@ -63,7 +71,6 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
 * [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
 * [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
-* [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
 * [Compass Ribbon](https://www.curseforge.com/minecraft/mc-mods/compass-ribbon)
 * [Custom Crosshairs](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod) (See all Fabric releases [here](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A7499))
 * [Disable Custom Worlds Advice](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice)
@@ -75,8 +82,10 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 
 ### Sound Mod
 * [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
+* [Resounding](https://modrinth.com/mod/resounding)
 
 ### Library/Dependency Mods
+* [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) (Use v6.2.43 or higher)
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 * [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
@@ -85,10 +94,9 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 
 ### Incompatible Mods
 These mods are incompatible at the moment.
-* [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
-* [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) (Authors are working on 1.19.1 update, meanwhile don't use this mod, will update it when it becomes available)
-* [Resounding](https://modrinth.com/mod/resounding) (Incompatible at the moment, will add when they add support for 1.19 release)
+
+None at the moment.
 
 ### Note
-* Recommended resource pack and shader pack are: [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true), [New Default+](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus) and [BSL Shaders](https://bitslablab.com/bslshaders/). (If you are using both resource pack place Stay True on top, New Default+ to the bottom on Resource Pack List)
+* If the mod page displays old Minecraft version(Like 1.18.2, etc), check out the Files tab on CurseForge/Modrinth and find Fabric 1.19 version.
 

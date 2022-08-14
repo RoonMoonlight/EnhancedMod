@@ -1,4 +1,24 @@
 # Changelog
+## Cosmos 19.2 (Mangrove) [August 13, 2022]
+> *"Enough with the 19.84 joke, let's move along."*
+
+Ahem. Anyways welcome back to Cosmos 19.2 Update! We apologize for not having any updates.
+Due to Roon's class enrollment issues, the release could not be able to proceed until this weekend.
+
+However we are happy to release this update to public, and this release might be the final version that dues own versioning scheme.
+Starting from major update planned on August 20th, updates will be git commit/git branch based and all EnhancedMod projects will be synchronized for each updates. From now on to check what was changed please refer to our [releases](https://github.com/MysticMoonlight/EnhancedMod/releases) page or [commits](https://github.com/MysticMoonlight/EnhancedMod/commits/main) section.
+
+### Highlights
+* Reverted 1.19.84 joke to 1.18.2 - *Seriously, this is enough.*
+* Added back the Lithium, Resounding and Lightmatica mod as the mod now supports latest version of the game
+* Updated to support 1.19.2 (Some mods might still say 1.19.1 but it should be supported... Unless the Fabric loader refuses to launch due to strict version limit)
+* Removed mod which was not intended to be added into the modpack: Please remove ChatHeads if you have any similar mod installed (It was supposed to be removed due to crash issue but we forgot to remove it from modpack)
+* Missing dependency issue was finally fixed. Roughly Enough Items required Architectury API to be installed and loaded, but we totally forgot to move that to the construction site; this is no longer the case.
+
+### Replaced & Moved
+* [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) (Incompatible -> Main)
+* [Resounding](https://modrinth.com/mod/resounding) (Incompatible -> Main)
+
 ## Cosmos 19.84 (The 1984 Update) [Jun 30, 2022]
 Welcome to ~~not obviously april fools joke~~ 'The 1984 Update' (A.K.A Doomed 9th Update: Part 2). This update exists for mitigation against the Chat Report feature.
 As you may heard but Mojang finally added worst feature: The report system.
