@@ -9,7 +9,7 @@ However we are happy to release this update to public, and this release might be
 Starting from major update planned on August 20th, updates will be git commit/git branch based and all EnhancedMod projects will be synchronized for each updates. From now on to check what was changed please refer to our [releases](https://github.com/MysticMoonlight/EnhancedMod/releases) page or [commits](https://github.com/MysticMoonlight/EnhancedMod/commits/main) section.
 
 ### Highlights
-* Reverted 1.19.84 joke to 1.18.2 - *Seriously, this is enough.*
+* Reverted 1.19.84 joke to 1.19.2 - *Seriously, this is enough.*
 * Added back the Lithium, Resounding and Lightmatica mod as the mod now supports latest version of the game
 * Updated to support 1.19.2 (Some mods might still say 1.19.1 but it should be supported... Unless the Fabric loader refuses to launch due to strict version limit)
 * Removed mod which was not intended to be added into the modpack: Please remove ChatHeads if you have any similar mod installed (It was supposed to be removed due to crash issue but we forgot to remove it from modpack)
