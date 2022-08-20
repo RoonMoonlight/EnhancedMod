@@ -178,4 +178,4 @@ Mobile lacks features compared to the PC version, so support won't be prioritize
 
 **Q) Some NPCs does not support NPC Adventures!**
 
-**A)** Unless someone creates mod to support NPC Adventures, some NPCs won't be supported. The following NPC mods does not support NPC Adventures: East Scarp, Always Raining in the Valley, Tristan, Lunna - Astray, Mister Ginger, Juliet and Jessie the Joja Clerks, 
+**A)** Unless someone creates mod to support NPC Adventures, some NPCs won't be supported. The following NPC mods does not support NPC Adventures: East Scarp, Always Raining in the Valley, Tristan, Lunna - Astray, Mister Ginger, Juliet and Jessie the Joja Clerks.
