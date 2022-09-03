@@ -53,6 +53,9 @@ We recommend installing this modpack on a new save file.
 * [Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)
 * [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)
 
+### Weapons
+* [Stardew Valley Armaments](https://www.nexusmods.com/stardewvalley/mods/13343)
+
 ## Improvement Mods
 <!-- Mods offering QOL features and other smaller improvements -->
 * [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
