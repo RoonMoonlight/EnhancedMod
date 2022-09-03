@@ -55,6 +55,7 @@ We recommend installing this modpack on a new save file.
 
 ## Improvement Mods
 <!-- Mods offering QOL features and other smaller improvements -->
+* [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
 * [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
 * [Better Chests](https://www.nexusmods.com/stardewvalley/mods/9791)
 * [Better Shop Menu](https://www.nexusmods.com/stardewvalley/mods/2012)
