@@ -97,6 +97,8 @@ We recommend installing this modpack on a new save file.
 
 ## Dependencies, Frameworks and Libraries Mod
 <!-- Dependencies, Frameworks or libraries of other mods -->
+* [Advanced Melee Framework](https://www.nexusmods.com/stardewvalley/mods/7886)
+* [AeroCore](https://github.com/tlitookilakin/AeroCore/releases) (GitHub)
 * [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
 * [Anti-Social NPCs](https://www.nexusmods.com/stardewvalley/mods/5371)
 * [AtraCore](https://www.nexusmods.com/stardewvalley/mods/12932)
@@ -121,6 +123,7 @@ We recommend installing this modpack on a new save file.
 * [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)
 * [Lumisteria Tilesheets - Indoor](https://www.nexusmods.com/stardewvalley/mods/9599)
 * [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536)
+* [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970)
 * [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)
 * [Quest Framework](https://www.nexusmods.com/stardewvalley/mods/6414)
 * [SAAT - Audio API and Toolkit](https://www.nexusmods.com/stardewvalley/mods/10747)

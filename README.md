@@ -1,7 +1,3 @@
-# Notice
-* **NOTE: As of July 23 2022, All steam workshop based mod collections has been moved to EnhancedMod Forgery project. [These mod collections can be found here.](https://github.com/MysticMoonlight/EnhancedMod-Forgery)**
-* **NOTE #2: EnhancedMod Classic has been merged with main EnhancedMod repository.**
-
 # EnhancedMod
 EnhancedMod is a group of modpack project developed by Mystic Moonlight and community contributors.
 
