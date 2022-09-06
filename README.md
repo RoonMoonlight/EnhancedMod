@@ -14,6 +14,7 @@ This repository is a compilation of modpacks we've made, so you can find them ea
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
 * [Half-Life: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hle/README.md)
 * [Sven Co-op: Multiverse Everyday](https://github.com/MysticMoonlight/EnhancedMod/blob/main/sc/README.md)
+* [Half-Life 2 MMOD: Dystopia Returns](https://github.com/MysticMoonlight/EnhancedMod/blob/main/mmod/README.md)
    
 # Our Standards
 [Read more here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md).
