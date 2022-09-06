@@ -115,10 +115,3 @@ If you are using Windows, using this patch is recommended to save storage spaces
 
 * For Half-Life 2 Update users: [Half-Life 2: Update, custom folder link](https://gamebanana.com/mods/35641)
 * For Half-Life 2 MMOD users: [MMod Universal custom folder support](https://gamebanana.com/mods/40726)
-
-## Note ##
-Always remember to read the description of each mod before installing!
-
-Valve, the Valve logo, Steam, the Steam logo, Half-Life, the Half-Life logo, Source, the Source logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.
-
-Half-Life 2 Enhanced is not sponsored, endorsed, licensed by, or affiliated with Valve Corporation.

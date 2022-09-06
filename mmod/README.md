@@ -124,10 +124,3 @@ Also in case of you being confused: DO NOT PUT just single file named above. you
 These mods are optional and not required, but recommended for best experience.
 
 * [Keba's Personal ReShade](https://gamebanana.com/mods/11385) (Put all contents inside Half-Life 2/hl2/bin)
-
-## Note ##
-Always remember to read the description of each mod before installing!
-
-Valve, the Valve logo, Steam, the Steam logo, Half-Life, the Half-Life logo, Source, the Source logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.
-
-Half-Life 2 Enhanced is not sponsored, endorsed, licensed by, or affiliated with Valve Corporation.
