@@ -31,7 +31,7 @@ Also in case of you being confused: DO NOT PUT just single file named above. you
 ## Installing this modpack
 1. Extract the archive file you downloaded (It should be `.zip`, `.rar`, or `.7z`)
 2. Put the folder or vpk file to `sourcemods/HL2MMOD/custom` folder inside Local Files (To access local files, Go to Properties -> Local Files -> Browse...)
-	* 2-1. **Attention to Linux/macOS Users!** If the folder contains uppercase and space, you must rename the folder to contain only lowercase/underscore otherwise TF2 cannot detect the folder mod(s) upon launch!
+	* 2-1. **Attention to Linux/macOS Users!** If the folder contains uppercase and space, you must rename the folder to contain only lowercase/underscore otherwise the game cannot detect the folder mod(s) upon launch!
 3. Launch the game, enjoy the modpack!
 
 # List of Mods
