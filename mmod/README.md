@@ -60,12 +60,12 @@ Also in case of you being confused: DO NOT PUT just single file named above. you
 * [Laundry Machines Remake](https://gamebanana.com/mods/182498)
 * [Payphone Replacement](https://gamebanana.com/mods/182510)
 * [Razor Train Remake](https://gamebanana.com/mods/301708)
-* [Striderbuster+ULTRA](https://gamebanana.com/mods/11350)
 * [Suit Charger Remake](https://gamebanana.com/mods/300619)
 * [Washing Machine Remake](https://gamebanana.com/mods/347118)
 
 ## NPCs
 * [Combine Turret Remake](https://gamebanana.com/mods/182474)
+* [Half-Life: Alyx Styled Dr. Breen](https://gamebanana.com/mods/386600)
 * [Hunter Chopper Remake](https://gamebanana.com/mods/183090)
 * [Improved Gunship V2](https://gamebanana.com/mods/183101)
 * [Improved HL2 Advisor](https://gamebanana.com/mods/344166)
@@ -82,6 +82,7 @@ Also in case of you being confused: DO NOT PUT just single file named above. you
 * [PROJECT HL2 (MMOD)](https://www.moddb.com/mods/hl2-ep2-enhased-mod/addons/project-hl2-mmod)
 * [HEV Remastered](https://gamebanana.com/mods/182098)
 * [New Overhaul Muzzleflash](https://gamebanana.com/mods/378298)
+* [Striderbuster+ULTRA](https://gamebanana.com/mods/11350)
 
 ## Fix/Optimization Mods
 * [Combine Thumper Glow Fix](https://gamebanana.com/mods/312579)
