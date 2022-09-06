@@ -96,6 +96,7 @@ Also in case of you being confused: DO NOT PUT just single file named above. you
 * [Combine Turret Sounds](https://gamebanana.com/sounds/55827)
 * [Futuristic Scanner Sounds](https://gamebanana.com/sounds/46998)
 * [Half-Life 2 Rescored](https://gamebanana.com/sounds/59810)
+* [high quality out_of_breath](https://gamebanana.com/sounds/46242)
 * [HL2 | Barnacle Recreated](https://gamebanana.com/sounds/34086)
 * [HL2 | Combine Sniper](https://gamebanana.com/sounds/34087)
 * [HL2 | Improved HeadcrabCanister Sounds](https://gamebanana.com/sounds/27458)
@@ -117,7 +118,6 @@ Also in case of you being confused: DO NOT PUT just single file named above. you
 
 ## UI Mods
 * [Condensed Animated HUD](https://gamebanana.com/mods/24158)
-* [high quality out_of_breath](https://gamebanana.com/sounds/46242)
 * [New Weapon Icons for MMod](https://gamebanana.com/mods/30572)
 
 ## Optional Mods
