@@ -34,10 +34,7 @@ Some modpacks costs DLC because some mods require DLC to be able to use. We want
 By financially supporting via OpenCollective, we use all of your donations for keeping this project alive, as well as for future beeeg projects and upgrades of our offices.
 
 # Special thanks to
-* [Selen Tatsuki](https://twitter.com/Selen_Tatsuki) for [motivation about the direction of project](https://twitter.com/Selen_Tatsuki/status/1453444303968038913)
 * [Michi](https://steamcommunity.com/profiles/76561198295898640) for suggestion about naming idea for some of projects
 * Valve Corporation, Crowbar Collective, SCS Software, Turtle Rock Studio, ConcernedApe, Mojang Studios for creating amazing games
 * All mod developers and project contributors
 * And you!
-
-<!-- Thank you as always for giving us a hope, Selen! -->
