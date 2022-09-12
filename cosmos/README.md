@@ -91,6 +91,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 * [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 * [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib/files/all?filter-game-version=2020709689%3A7499)
+* [YetAnotherConfigLib](https://www.curseforge.com/minecraft/mc-mods/yacl)
 
 ### Incompatible Mods
 These mods are incompatible at the moment.
