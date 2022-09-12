@@ -47,6 +47,8 @@ Everything featured on this modpack are configurable via Mod Menu.
 Since it is Fabric based, you are free to add mods you wish to use. However some mods may have features which gives you unfair advantage, and you acknowledge that Mystic Moonlight is not responsible for any bans from community servers for using such mods.
 
 ## Mod List
+Using [ATLauncher](https://github.com/ATLauncher/ATLauncher) is highly recommended for managing mods and instances. It is also open-source project!
+
 ### Optimization
 * [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
 * [Indium](https://www.modrinth.com/mod/indium/)
@@ -72,7 +74,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
 * [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
 * [Compass Ribbon](https://www.curseforge.com/minecraft/mc-mods/compass-ribbon)
-* [Custom Crosshairs](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod) (See all Fabric releases [here](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/all?filter-game-version=2020709689%3A7499))
+* [Custom Crosshair Mod](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod)
 * [Disable Custom Worlds Advice](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice)
 * [Disable Insecure Chat Toast](https://www.curseforge.com/minecraft/mc-mods/disable-insecure-chat-toast)
 * [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
@@ -91,6 +93,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 * [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 * [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib/files/all?filter-game-version=2020709689%3A7499)
+* [YetAnotherConfigLib](https://www.curseforge.com/minecraft/mc-mods/yacl)
 
 ### Incompatible Mods
 These mods are incompatible at the moment.
