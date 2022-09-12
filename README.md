@@ -21,10 +21,12 @@ This repository is a compilation of modpacks we've made, so you can find them ea
 
 # Get Involved
 ## How to Contribute
-We allow others' contribution for all projects excluding the Starlight project. To contribute, switch to `experimental-season#XX` branch then make a pull request to experimental branch.
-All changes from experimental branch will be merged to `master/main` branch when it is ready to be published.
+We allow others' contribution for all projects excluding the Starlight project. To contribute, switch to `canary` branch then make a pull request to experimental branch.
+All changes from experimental branch will be merged to `beta`, then `main` branch when it is ready to be published.
 
-Warning: DO NOT make a pull request for master/main branch or your pull request will be immediately rejected. **Think** before making a pull request!
+If bugs or issues needs to be resolved immediately, the changes from canary branch will be immediately pushed to main branch, regardless of major updates happening every 5 weeks.
+
+Warning: DO NOT make a pull request for `beta`, `main` branch or your pull request will be immediately rejected, unless there is critical bugs or issues that needs to be addressed on beta and stable branch. **Think** before making a pull request!
 
 ## How to support this project
 * You can contribute to the project by making suggestion any better mods or add-ons, or reporting any issue you found.
