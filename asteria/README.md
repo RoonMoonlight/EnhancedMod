@@ -30,6 +30,8 @@ Everything featured on this modpack are configurable via Mod Menu.
 Since it is Fabric based, you are free to add mods you wish to use. However some mods may have features which gives you unfair advantage, and you acknowledge that Mystic Moonlight is not responsible for any bans from community servers for using such mods.
 
 ## Mod List
+Using [ATLauncher](https://github.com/ATLauncher/ATLauncher) is highly recommended for managing mods and instances. It is also open-source project!
+
 ### Optimization
 * [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
 * [Indium](https://www.modrinth.com/mod/indium/)
