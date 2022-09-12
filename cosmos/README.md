@@ -51,10 +51,10 @@ Using [ATLauncher](https://github.com/ATLauncher/ATLauncher) is highly recommend
 
 ### Optimization
 * [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
-* [Indium](https://www.modrinth.com/mod/indium/)
+* [Indium](https://www.modrinth.com/mod/indium/) (Modrinth)
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
 * [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight)
-* [Sodium](https://modrinth.com/mod/sodium)
+* [Sodium](https://modrinth.com/mod/sodium) (Modrinth)
 
 ### Utility
 * [CraftPresense](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
@@ -84,7 +84,7 @@ Using [ATLauncher](https://github.com/ATLauncher/ATLauncher) is highly recommend
 
 ### Sound Mod
 * [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
-* [Resounding](https://modrinth.com/mod/resounding)
+* [Resounding](https://modrinth.com/mod/resounding) (Modrinth)
 
 ### Library/Dependency Mods
 * [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) (Use v6.2.43 or higher)
@@ -92,7 +92,7 @@ Using [ATLauncher](https://github.com/ATLauncher/ATLauncher) is highly recommend
 * [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 * [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
-* [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib/files/all?filter-game-version=2020709689%3A7499)
+* [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)
 * [YetAnotherConfigLib](https://www.curseforge.com/minecraft/mc-mods/yacl)
 
 ### Incompatible Mods
