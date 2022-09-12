@@ -1,4 +1,4 @@
-<center><img src="https://user-images.githubusercontent.com/25527589/154675275-5ab8479f-29f1-418b-9111-34f07d2cdebe.png" width="100"></img></center>
+<center><img src="https://user-images.githubusercontent.com/25527589/189676425-8184a3db-f04a-416d-8b7b-7da944e4f0f5.svg" width="100"></img></center>
 
 # Cosmos - The community-made alternative modpack for Minecraft
 Cosmos is the EnhancedMod series for popular sandbox game Minecraft, aims to be community-made alternative to Badlion Client/Lunar Client, based on latest Fabric releases.
