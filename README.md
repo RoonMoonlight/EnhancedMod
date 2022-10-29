@@ -6,8 +6,6 @@ Following that, we've continuously added improvements and expansions for more ga
 
 This repository is a compilation of modpacks we've made, so you can find them easily on one page.
 
-[Looking for EnhancedMod Forgery (Steam Workshop based)?](https://github.com/MysticMoonlight/EnhancedModForgery)
-
 # List of Enhanced Mods
 * [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/README.md)
 * [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/README.md)
@@ -22,12 +20,9 @@ This repository is a compilation of modpacks we've made, so you can find them ea
 
 # Get Involved
 ## How to Contribute
-We allow others' contribution for all projects excluding the Starlight project. To contribute, switch to `canary` branch then make a pull request to experimental branch.
-All changes from experimental branch will be merged to `beta`, then `main` branch when it is ready to be published.
+We allow others' contribution for all projects excluding the Starlight project. To contribute, simple make a pull request on `main` branch and we will look into it. Please make sure your pull request follows our standards, otherwise we cannot merge your pull request.
 
-If bugs or issues needs to be resolved immediately, the changes from canary branch will be immediately pushed to main branch, regardless of major updates happening every 5 weeks.
-
-Warning: DO NOT make a pull request for `beta`, `main` branch or your pull request will be immediately rejected, unless there is critical bugs or issues that needs to be addressed on beta and stable branch. **Think** before making a pull request!
+Warning: DO NOT make a pull request for `beta_unused`, `canary_unused` branch or your pull request will be immediately rejected. These branches are no longer in use as we announced that we are transitioning to rolling release.
 
 ## How to support this project
 * You can contribute to the project by making suggestion any better mods or add-ons, or reporting any issue you found.
@@ -41,3 +36,8 @@ By financially supporting via OpenCollective, we use all of your donations for k
 * Valve Corporation, Crowbar Collective, SCS Software, Turtle Rock Studio, ConcernedApe, Mojang Studios for creating amazing games
 * All mod developers and project contributors
 * And you!
+
+# Sister projects
+All sister projects are considered as official and part of EnhancedMod project, and it has some differences between main projects.
+* [EnhancedMod Forgery](https://github.com/MysticMoonlight/EnhancedModForgery): Steam Workshop based project. Uses Steam Workshop collection feature and 
+* [ModernMod](https://github.com/MysticMoonlight/ModernMod): Basically EnhancedMod but only supports specific platform. It supports Windows/Linux Wine and Proton.
