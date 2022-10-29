@@ -1,7 +1,7 @@
 # EnhancedMod - Our Standards
 Welcome to EnhancedMod! Here is the standard we follow when making the EnhancedMod and sister projects. We recommend you to read everything when creating your own modpack in the future!
 
-Last update: Oct 23, 2022
+Last update: Oct 29, 2022
 
 ### Try to give users choice
 Rather than using mods which forces specific features, give the options to users instead. We do not prefer the mods which forces specific features.
@@ -24,4 +24,4 @@ We always focus fair-play experience for all player, and do not want to give use
 ### No more limitations: Cross-platform
 Regardless of any platform, the mod should follow the cross-platform support, so people can enjoy the same gameplay experience regardless of which platform they play on.
 
-This cross-platform standard is exception for ModernMod project. This sister project was created to support game which only supports specific platforms (e.g. Windows only).
+This cross-platform standard is exception for [ModernMod project](https://github.com/MysticMoonlight/ModernMod).
