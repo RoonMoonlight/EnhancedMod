@@ -39,11 +39,11 @@ We recommend installing this modpack on a new save file.
 * [Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)
 * [Date Night](https://www.nexusmods.com/stardewvalley/mods/11459)
 * [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)
+* [June - Custom NPC for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/10100)
 * [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)
 * [Mister Ginger (cat NPC)](https://www.nexusmods.com/stardewvalley/mods/5295)
 * [NPC Adventures](https://www.nexusmods.com/stardewvalley/mods/4582)
 * [PC's Alternative Portraits for Wilford](https://www.nexusmods.com/stardewvalley/mods/12300)
-* [Ridgeside Village - NPC Adventures Addon](https://www.nexusmods.com/stardewvalley/mods/10968)
 * [Sable - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/12533)
 * [Tristan](https://www.nexusmods.com/stardewvalley/mods/6675)
 * [Wilford - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/7313)
@@ -53,8 +53,13 @@ We recommend installing this modpack on a new save file.
 * [Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)
 * [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)
 
+### Small Contents
+* [Blast Furnace](https://www.nexusmods.com/stardewvalley/mods/13324)
+* [Stardew Valley Armaments](https://www.nexusmods.com/stardewvalley/mods/13343)
+
 ## Improvement Mods
 <!-- Mods offering QOL features and other smaller improvements -->
+* [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
 * [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
 * [Better Chests](https://www.nexusmods.com/stardewvalley/mods/9791)
 * [Better Shop Menu](https://www.nexusmods.com/stardewvalley/mods/2012)
@@ -90,6 +95,8 @@ We recommend installing this modpack on a new save file.
 
 ## Dependencies, Frameworks and Libraries Mod
 <!-- Dependencies, Frameworks or libraries of other mods -->
+* [Advanced Melee Framework](https://www.nexusmods.com/stardewvalley/mods/7886)
+* [AeroCore](https://github.com/tlitookilakin/AeroCore/releases) (GitHub)
 * [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
 * [Anti-Social NPCs](https://www.nexusmods.com/stardewvalley/mods/5371)
 * [AtraCore](https://www.nexusmods.com/stardewvalley/mods/12932)
@@ -114,6 +121,7 @@ We recommend installing this modpack on a new save file.
 * [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)
 * [Lumisteria Tilesheets - Indoor](https://www.nexusmods.com/stardewvalley/mods/9599)
 * [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536)
+* [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970)
 * [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)
 * [Quest Framework](https://www.nexusmods.com/stardewvalley/mods/6414)
 * [SAAT - Audio API and Toolkit](https://www.nexusmods.com/stardewvalley/mods/10747)

@@ -1,9 +1,7 @@
-<center><img src="https://user-images.githubusercontent.com/25527589/189676425-8184a3db-f04a-416d-8b7b-7da944e4f0f5.svg" width="100"></img></center>
+<center><img src="https://user-images.githubusercontent.com/25527589/189659697-b18e67e9-4de0-4677-867c-7f1f92d71d87.svg" width="100"></img></center>
 
-# Cosmos - The community-made alternative modpack for Minecraft
-Cosmos is the EnhancedMod series for popular sandbox game Minecraft, aims to be community-made alternative to Badlion Client/Lunar Client, based on latest Fabric releases.
-
-This project is also known as continuation of forgotten modpack, Solaire.
+# Asteria - The community-made alternative modpack for Minecraft
+Asteria is the Lite Edition of Cosmos, aiming to optimize vanilla client while not adding pvp-exclusive features, like standalone version of OptiFine. It is sister project of main modpack Cosmos.
 
 This modpack currently supports from 1.19 to 1.19.2! If the mod says it is not compatible due to minor update, feel free use old version in the meantime.
 
@@ -16,8 +14,7 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/stabl
 
 ## Features
 * Based on Fabric
-* Curated features brought from Badlion Client/Lunar Client
-* Focused on fair-play
+* Focused on optimizing the vanilla client - No pvp feature additions are included
 * Huge optimization has been made, compared with Vanilla and Forge+OptiFine
 * Most features from OptiFine are now compatible
 * Privacy focused
@@ -25,24 +22,12 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/stabl
 
 ## List of Mod features
 Everything featured on this modpack are configurable via Mod Menu.
-* ArmorStatus
-* BetterF3
 * Blur
-* Clear Hitboxes
-* Crosshairs
 * Cull Leaves
-* DirectionHUD
+* Better Grass
 * Fabrishot
-* FOV
-* FPS/CPS/Ping/Potions/Arrows
-* Keystrokes
-* Lightmaticas
-* Saturation/Exhaustion Display
-* Schematica
-* Scoreboard
 * Shaders
-* Sound Enhancements
-* Toggle Sprints (Coming Soon)
+* OptiFine resource pack features
 * Zoom
 
 ## Fair-play Warning
@@ -62,10 +47,8 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Sodium](https://modrinth.com/mod/sodium) (Modrinth)
 
 ### Utility
-* [CraftPresense](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
 * [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)
 * [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric)
-* [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 * [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
 * [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options)
@@ -87,29 +70,15 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)
 
 ### UI Mod
-* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-* [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
 * [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
-* [Compass Ribbon](https://www.curseforge.com/minecraft/mc-mods/compass-ribbon)
-* [Custom Crosshair Mod](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod)
 * [Disable Custom Worlds Advice](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice)
 * [Disable Insecure Chat Toast](https://www.curseforge.com/minecraft/mc-mods/disable-insecure-chat-toast)
-* [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
-* [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud)
-* [Roughly Enough Items](https://modrinth.com/mod/roughly-enough-items)
-* [Ugly Scoreboard Fix](https://www.curseforge.com/minecraft/mc-mods/ugly-scoreboard-fix)
 
 ### Library/Dependency Mods
-* [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
-* [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 * [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
-* [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)
 * [YetAnotherConfigLib](https://www.curseforge.com/minecraft/mc-mods/yacl)
-
-### Optional Mods
-* [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
 
 ### Incompatible Mods
 These mods are incompatible at the moment.
@@ -118,4 +87,3 @@ None at the moment.
 
 ### Note
 * If the mod page displays old Minecraft version(Like 1.18.2, etc), check out the Files tab on CurseForge/Modrinth and find the latest fabric version.
-
