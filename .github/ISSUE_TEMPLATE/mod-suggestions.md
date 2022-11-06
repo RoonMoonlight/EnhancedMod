@@ -1,40 +1,39 @@
 ---
 name: Mod suggestions
 about: Do you have suggestion about adding mods?
-title: ''
-labels: mod suggestions
+title: [Mod Suggestion]
+labels: enhancement
 assignees: ''
 ---
 
 <!--
 ----- Note Starts here -----
-NOTE: As of July 23 2022, the following changes has been made to EnhancedMod structure. These changes includes;
-* All steam workshop based mod collections has been moved to EnhancedMod Forgery. These mods can be found here: https://github.com/MysticMoonlight/EnhancedMod-Forgery
-* EnhancedMod Classic has been merged with main EnhancedMod repository.
+Please note that we only accept issues related to EnhancedMod series.
 
-Please note that we only accept issues related to EnhancedMod series! Any modpacks that are outside of EnhancedMod should be reported on appropriate place, not here.
-
-Modpacks that includes on Enhanced Mod are:
+You may only make a issue related to this projects:
 * Half-Life 2: Enhanced
-* Stardew Valley: Wildlife
 * Minecraft: Cosmos
+* Minecraft: Asteria
+* Stardew Valley: Wildlife
 * Half-Life: Enhanced
 * Sven Co-op: Multiverse Everyday
+* Half-Life 2 MMOD: Dystopia Returns
 
-For Steam Workshop based mods (e.g. Euro Truck Simulator 2, etc), head to EnhancedMod Forgery Issue Tracker: https://github.com/MysticMoonlight/EnhancedMod-Forgery/issues
-
-For Starlight map combo related issues, report them on Starlight issue tracker: https://github.com/MysticMoonlight/Starlight/issues
-(Starlight project is considered as part of EnhancedMod project, but it is handled differently due to nature of version management, apologies)
+Making issue for other projects are not accepted and will be closed without warnings.
 
 Please include more information if possible!
 
-We won't going to add following types of mod(s), this includes:
-* Any mods which breaks the original atmosphere (e.g. Anime, VTubers or other franchises which is not from their universe)
-* Any mods which does not follow our standards (Our Standards can be read here: https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md)
+Please be sure that your issue adheres with our standards. Our Standards can be found here: https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md
 
-We cannot provide support if you are using pirated games. Please buy it officially from Steam or other ESDs to support the original author of the game, thanks ;)
+Please note that we cannot provide support if you are using pirated games. Please buy it officially from Steam or other ESDs to support the original creator of the game, thanks!
 ----- Note Ends here -----
 --!>
+
+**Checklist**
+[ ] Have you checked if there is any duplicate issues? If so you are agreeing that you are not posting any duplicated issues, and may be closed if our team finds out.
+[ ] Are you sure that this issue follows the EnhancedMod standards? Any issues or contents that does not follow EnhancedMod standards may not be accepted.
+[ ] Are you sure that you are not using pirated projects? Any pirated games will never be supported and will immediately be closed.
+[ ] Are you sure that you are posting issue on right place? If not, make sure to double check where you are creating issues.
 
 **Which mod(s) you want to be added to modpack?**
 

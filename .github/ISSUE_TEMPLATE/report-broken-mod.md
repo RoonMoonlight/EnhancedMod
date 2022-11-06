@@ -1,37 +1,40 @@
 ---
 name: Report broken mod
 about: Found any broken mod(s)?
-title: ''
-labels: broken mod
+title: [Broken Mod]
+labels: bug
 assignees: ''
 
 ---
 
 <!--
 ----- Note Starts here -----
-NOTE: As of July 23 2022, the following changes has been made to EnhancedMod structure. These changes includes;
-* All steam workshop based mod collections has been moved to EnhancedMod Forgery. These mods can be found here: https://github.com/MysticMoonlight/EnhancedMod-Forgery
-* EnhancedMod Classic has been merged with main EnhancedMod repository.
+Please note that we only accept issues related to EnhancedMod series.
 
-Please note that we only accept issues related to EnhancedMod series! Any modpacks that are outside of EnhancedMod should be reported on appropriate place, not here.
-
-Modpacks that includes on Enhanced Mod are:
+You may only make a issue related to this projects:
 * Half-Life 2: Enhanced
-* Stardew Valley: Wildlife
 * Minecraft: Cosmos
+* Minecraft: Asteria
+* Stardew Valley: Wildlife
 * Half-Life: Enhanced
 * Sven Co-op: Multiverse Everyday
+* Half-Life 2 MMOD: Dystopia Returns
 
-For Steam Workshop based mods (e.g. Euro Truck Simulator 2, etc), head to EnhancedMod Forgery Issue Tracker: https://github.com/MysticMoonlight/EnhancedMod-Forgery/issues
+Making issue for other projects are not accepted and will be closed without warnings.
 
-For Starlight map combo related issues, report them on Starlight issue tracker: https://github.com/MysticMoonlight/StarlightMap/issues
-(Starlight project is considered as part of EnhancedMod project, but it is handled differently due to nature of version management, apologies)
+Please include more information if possible!
 
-Please include more information if possible, so we can help you fix the issue faster ;)
+Please be sure that your issue adheres with our standards. Our Standards can be found here: https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md
 
-We cannot provide support if you are using pirated games. Please buy it officially from Steam or other ESDs to support the original author of the game, thanks ;)
+Please note that we cannot provide support if you are using pirated games. Please buy it officially from Steam or other ESDs to support the original creator of the game, thanks!
 ----- Note Ends here -----
 --!>
+
+**Checklist**
+[ ] Have you checked if there is any duplicate issues? If so you are agreeing that you are not posting any duplicated issues, and may be closed if our team finds out.
+[ ] Are you sure that this issue follows the EnhancedMod standards? Any issues or contents that does not follow EnhancedMod standards may not be accepted.
+[ ] Are you sure that you are not using pirated projects? Any pirated games will never be supported and will immediately be closed.
+[ ] Are you sure that you are posting issue on right place? If not, make sure to double check where you are creating issues.
 
 **Which mod is causing error?**
 

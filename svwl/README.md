@@ -41,10 +41,13 @@ We recommend installing this modpack on a new save file.
 * [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)
 * [June - Custom NPC for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/10100)
 * [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)
+* [Mateo for NPC Adventures](https://www.nexusmods.com/stardewvalley/mods/14361)
 * [Mister Ginger (cat NPC)](https://www.nexusmods.com/stardewvalley/mods/5295)
+* [Never Ending Adventure - NPC Mateo](https://www.nexusmods.com/stardewvalley/mods/12369)
 * [NPC Adventures](https://www.nexusmods.com/stardewvalley/mods/4582)
 * [PC's Alternative Portraits for Wilford](https://www.nexusmods.com/stardewvalley/mods/12300)
 * [Sable - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/12533)
+* [Shay - New NPC](https://www.nexusmods.com/stardewvalley/mods/14260)
 * [Tristan](https://www.nexusmods.com/stardewvalley/mods/6675)
 * [Wilford - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/7313)
 
@@ -55,6 +58,7 @@ We recommend installing this modpack on a new save file.
 
 ### Small Contents
 * [Blast Furnace](https://www.nexusmods.com/stardewvalley/mods/13324)
+* [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120) (Not tested, use Reset Terrain Features below if something goes wrong)
 * [Stardew Valley Armaments](https://www.nexusmods.com/stardewvalley/mods/13343)
 
 ## Improvement Mods
@@ -88,6 +92,7 @@ We recommend installing this modpack on a new save file.
 <!-- Mods altering the UI -->
 * [CP - Animated Pet Icons](https://www.nexusmods.com/stardewvalley/mods/10392)
 * [Experience Bars](https://www.nexusmods.com/stardewvalley/mods/509)
+* [New Game Plus](https://www.nexusmods.com/stardewvalley/mods/10786)
 * [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
 * [Seasonal Outfits - Slightly Cuter Aesthetic](https://www.nexusmods.com/stardewvalley/mods/5450)
 * [Show Birthday](https://www.nexusmods.com/stardewvalley/mods/7495)
@@ -111,6 +116,7 @@ We recommend installing this modpack on a new save file.
 * [Custom Tokens](https://www.nexusmods.com/stardewvalley/mods/7517)
 * [DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)
 * [Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)
+* [Esca's Modding Plugins (EMP)](https://www.nexusmods.com/stardewvalley/mods/9296)
 * [Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)
 * [Expanded Preconditions Utility](https://www.nexusmods.com/stardewvalley/mods/6529)
 * [Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)
@@ -120,6 +126,7 @@ We recommend installing this modpack on a new save file.
 * [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
 * [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)
 * [Lumisteria Tilesheets - Indoor](https://www.nexusmods.com/stardewvalley/mods/9599)
+* [Lumisteria Tilesheets - Outdoor](https://www.nexusmods.com/stardewvalley/mods/10448)
 * [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536)
 * [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970)
 * [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)
@@ -127,13 +134,18 @@ We recommend installing this modpack on a new save file.
 * [SAAT - Audio API and Toolkit](https://www.nexusmods.com/stardewvalley/mods/10747)
 * [Shop Tile Framework](https://www.nexusmods.com/stardewvalley/mods/5005)
 * [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
+* [Special Orders Tags Extended](https://www.nexusmods.com/stardewvalley/mods/9855)
 * [TMXL Map Toolkit](https://www.nexusmods.com/stardewvalley/mods/1820)
+
+## Sound Mods
+* [Thunder and Frogs Sounds](https://www.nexusmods.com/stardewvalley/mods/7450)
 
 ## Optional Mod
 These mods are optional and aren't required unless you want additional features.
 
-* [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
-* [Back to the Valley](https://www.nexusmods.com/stardewvalley/mods/11517)
+* [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533) (Skips intro)
+* [Back to the Valley](https://www.nexusmods.com/stardewvalley/mods/11517) (New soundtrack, made it optional in case of people preferring original soundtrack)
+* [Reset Terrain Features (SV Forum Unofficial Update)](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-64#post-43678) (Use if something goes wrong with save files)
 
 # Frequently Asked Questions (FAQ)
 Please read the FAQ below before making an issue.
@@ -155,11 +167,18 @@ Please read the FAQ below before making an issue.
 **A)** Consoles lack modding tools and won't be supported here.
 Mobile lacks features compared to the PC version, so support won't be prioritized.
 
-
 **Q) Why didn't you add big mods like Stardew Valley: Expanded? I'd love to see them!**
 
 **A)** This is an independently curated list and we will not be supporting large additions by default. However, in the case of SVE, the biggest reason is mod compatibility, NPC support, and gameplay changes too large to currently account for.
 
 **Q) Some NPCs does not support NPC Adventures!**
 
-**A)** Unless someone creates mod to support NPC Adventures, some NPCs won't be supported. The following NPC mods does not support NPC Adventures: Aspen (Mod outdated), East Scarp, Always Raining in the Valley, Tristan, Lunna - Astray, Mister Ginger, Juliet and Jessie the Joja Clerks.
+**A)** Unless someone creates mod to support NPC Adventures, some NPCs won't be supported. The following NPC mods does not support NPC Adventures: Aspen (Mod outdated), East Scarp, Always Raining in the Valley, Tristan, Lunna, Astray, Mister Ginger, Juliet and Jessie the Joja Clerks.
+
+**Q) Hey! I've installed this modpack but in terminal it indicates that some mods that I haven't seen on Mods folder needs update.**
+
+**A)** Since that mod is included as part of Asters Big Interior Mod, feel free to ignore the notice. The author said they tested it before releasing and should not be a problem!
+
+Currently the following mods are asking for update but it should work fine:
+* (CP) Empty Spouse Rooms Map Changes
+* (CP) No Built In Kitchen
