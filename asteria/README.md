@@ -1,5 +1,8 @@
 <center><img src="https://user-images.githubusercontent.com/25527589/189659697-b18e67e9-4de0-4677-867c-7f1f92d71d87.svg" width="100"></img></center>
 
+# DISCLAIMER
+1.19.3 has been released. Yes we are aware of this changes, and will be fully updated to support 1.19.3 soon. Thank you all for your patience!
+
 # Asteria - The community-made alternative modpack for Minecraft
 Asteria is the Lite Edition of Cosmos, aiming to optimize vanilla client while not adding pvp-exclusive features, like standalone version of OptiFine. It is sister project of main modpack Cosmos.
 
