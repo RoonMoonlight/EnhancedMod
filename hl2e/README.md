@@ -14,7 +14,7 @@ Due to copyright concerns, you need to download the mod list below and install y
 Other mods hasn't been tested, such as MMOD and more.
 
 # Changelog
-See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/infinity/CHANGELOG.md).
+See [here](https://github.com/MysticMoonlight/EnhancedMod/releases).
 
 # How to Install
 1. Extract the archive file you downloaded (It should be `.zip`, `.rar`, or `.7z`)

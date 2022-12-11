@@ -15,7 +15,7 @@ This modpack currently supports from 1.19 to 1.19.2! If the mod says it is not c
 * [Fabric](https://fabricmc.net/)
 
 ## Changelog
-See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/stable/CHANGELOG.md).
+See [here](https://github.com/MysticMoonlight/EnhancedMod/releases).
 
 ## Features
 * Based on Fabric

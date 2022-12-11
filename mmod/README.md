@@ -9,7 +9,7 @@ This modpack is compatible with Half-Life 2: MMOD, including [all mod compatibil
 * [MMod: Fixes and Enhancements Project](https://www.moddb.com/mods/hl2-ep2-enhased-mod/addons/mmod-fixes-and-enhancements-project) (Install AFTER above main MMOD is installed)
 
 # Changelog
-See [here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/infinity/CHANGELOG.md).
+See [here](https://github.com/MysticMoonlight/EnhancedMod/releases).
 
 # How to Install
 ## Before installing...

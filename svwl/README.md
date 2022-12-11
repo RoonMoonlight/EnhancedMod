@@ -5,6 +5,9 @@
 # Stardew Valley: Wildlife
 Stardew Valley: Wildlife is the 11th EnhancedMod Series, aiming to improve and expand on the original Stardew Valley gameplay while feeling close to home.
 
+# Changelog
+See [here](https://github.com/MysticMoonlight/EnhancedMod/releases).
+
 # Installation
 This modpack requires [SMAPI](https://smapi.io/) to install this modpack. Additional installation documentation can be found [here](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started).
 
