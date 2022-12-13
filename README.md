@@ -43,5 +43,4 @@ By financially supporting via OpenCollective, we use all of your donations for k
 
 # Sister projects
 All sister projects are considered as official and part of EnhancedMod project, and it has some differences between main projects.
-* [EnhancedMod Forgery](https://github.com/MysticMoonlight/EnhancedModForgery): Steam Workshop based project. Uses Steam Workshop collection feature and 
 * [ModernMod](https://github.com/MysticMoonlight/ModernMod): Basically EnhancedMod but only supports specific platform. It supports Windows/Linux Wine and Proton.
