@@ -1,3 +1,8 @@
+# Notice
+**Kosmos and Steria now have own repository and now independent from main EnhancedMod project. You can find these repository here from now on:**
+* [Kosmos](https://github.com/MysticMoonlight/Kosmos)
+* [Steria](https://github.com/MysticMoonlight/Steria)
+
 # EnhancedMod
 EnhancedMod is a group of modpack project developed by Mystic Moonlight and community contributors.
 
@@ -8,12 +13,11 @@ This repository is a compilation of modpacks we've made, so you can find them ea
 
 # List of Enhanced Mods
 * [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/README.md)
-* [Minecraft: Cosmos](https://github.com/MysticMoonlight/EnhancedMod/blob/main/cosmos/README.md)
-    * [Minecraft: Asteria](https://github.com/MysticMoonlight/EnhancedMod/blob/main/asteria/README.md)
 * [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
 * [Half-Life: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hle/README.md)
+    * [Half-Life 2 MMOD: Dystopia Returns](https://github.com/MysticMoonlight/EnhancedMod/blob/main/mmod/README.md)
 * [Sven Co-op: Multiverse Everyday](https://github.com/MysticMoonlight/EnhancedMod/blob/main/sc/README.md)
-* [Half-Life 2 MMOD: Dystopia Returns](https://github.com/MysticMoonlight/EnhancedMod/blob/main/mmod/README.md)
+
    
 # Our Standards
 [Read more here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md).
