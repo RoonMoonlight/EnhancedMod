@@ -4,7 +4,7 @@ Team Fortress 2 Classic: Community Edition is a modpack to improve the Team Fort
 Due to copyright concerns, you need to download the mod list below and install yourself, by putting the mod to custom folder.
 
 # Dependencies
-* [Source SDK 2013 Multiplayer](steam://install/243750)
+* Source SDK 2013 Multiplayer
 * [Team Fortress 2 Classic](https://tf2classic.com/download)
 
 # How to Install
