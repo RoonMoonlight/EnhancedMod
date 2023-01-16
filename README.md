@@ -1,8 +1,3 @@
-# Notice
-**Kosmos and Steria now have own repository and now independent from main EnhancedMod project. You can find these repository here from now on:**
-* [Kosmos](https://github.com/MysticMoonlight/Kosmos)
-* [Steria](https://github.com/MysticMoonlight/Steria)
-
 # EnhancedMod
 EnhancedMod is a group of modpack project developed by Mystic Moonlight and community contributors.
 
@@ -12,12 +7,12 @@ Following that, we've continuously added improvements and expansions for more ga
 This repository is a compilation of modpacks we've made, so you can find them easily on one page.
 
 # List of Enhanced Mods
-* [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/README.md)
-* [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
 * [Half-Life: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hle/README.md)
+* [Half-Life 2: Enhanced](https://github.com/MysticMoonlight/EnhancedMod/blob/main/hl2e/README.md)
     * [Half-Life 2 MMOD: Dystopia Returns](https://github.com/MysticMoonlight/EnhancedMod/blob/main/mmod/README.md)
+* [Stardew Valley: Wildlife](https://github.com/MysticMoonlight/EnhancedMod/blob/main/svwl/README.md)
 * [Sven Co-op: Multiverse Everyday](https://github.com/MysticMoonlight/EnhancedMod/blob/main/sc/README.md)
-
+* [Team Fortress 2 Classic: Community Edition](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2c/README.md) ([Roon's Comment](https://github.com/MysticMoonlight/EnhancedMod/blob/main/tf2c/COMMENT.txt))
    
 # Our Standards
 [Read more here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md).
