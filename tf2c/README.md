@@ -30,3 +30,6 @@ Due to copyright concerns, you need to download the mod list below and install y
 ## UI Mods
 * [CarlmanZ's Lotsa Backgrounds](https://gamebanana.com/mods/30459)
 * [Console HUD](https://gamebanana.com/mods/416888)
+
+## Others
+* (Optional, install only if you play on CW:C server) [Custom Weapons: Classic - Optional Files](https://gamebanana.com/mods/307880)
